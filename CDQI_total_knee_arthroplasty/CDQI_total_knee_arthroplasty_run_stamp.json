@@ -1,0 +1,19 @@
+{
+  "utc": "2026-07-20T18:32:16.166433+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "total knee arthroplasty",
+  "python": "3.13.9",
+  "query": "total knee arthroplasty",
+  "query_field": "query.term",
+  "scope": "PROC_DEVICE",
+  "terms": [
+    "knee",
+    "arthroplasty",
+    "knee",
+    "replacement",
+    "tka"
+  ],
+  "n_scored": 1412,
+  "completeness": 1.0,
+  "stamp_hash": "eee879c0c7e3"
+}
