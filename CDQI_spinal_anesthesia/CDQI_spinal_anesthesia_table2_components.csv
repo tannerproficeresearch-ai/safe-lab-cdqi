@@ -1,0 +1,10 @@
+component,k,n,prevalence,ci_low,ci_high
+Randomized (A1),657,690,0.9522,0.9336,0.9657
+Any blinding (A2),592,690,0.858,0.8299,0.882
+Double-blind+ (A2),494,690,0.7159,0.6812,0.7483
+Meets power floor (A4),470,690,0.6812,0.6455,0.7148
+Pivotal phase 3/4 (B1),330,690,0.4783,0.4412,0.5156
+Treatment purpose (B2),347,690,0.5029,0.4657,0.5401
+Multi-arm >=3 (B3),162,690,0.2348,0.2047,0.2678
+Results posted,56,690,0.0812,0.063,0.1039
+Own publication linked,55,690,0.0797,0.0618,0.1023
