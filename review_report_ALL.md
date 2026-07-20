@@ -1,0 +1,24 @@
+# CDQI independent review — all topics
+
+Reviewer re-pull vs frozen analyst package. Generated 2026-07-20 19:51 UTC.
+Tolerance: component-prevalence drift <= 0.03, scored-N relative drift <= 0.05.
+
+**15/15 topics PASS.**
+
+| condition | verdict | reason | max_drift | n_frozen | n_repull |
+|---|---|---|---|---|---|
+| postoperative pain | PASS | within tolerance | 0.0 | 3574 | 3574 |
+| acute pain | PASS | within tolerance | 0.0 | 1254 | 1254 |
+| spinal anesthesia | PASS | within tolerance | 0.0 | 690 | 690 |
+| atopic dermatitis | PASS | within tolerance | 0.0 | 982 | 982 |
+| head and neck cancer | PASS | within tolerance | 0.0 | 4217 | 4217 |
+| hearing loss | PASS | within tolerance | 0.0 | 553 | 553 |
+| inguinal hernia | PASS | within tolerance | 0.0 | 360 | 360 |
+| hip fracture | PASS | within tolerance | 0.0 | 490 | 490 |
+| total knee arthroplasty | PASS | within tolerance | 0.0 | 1412 | 1412 |
+| psoriasis | PASS | within tolerance | 0.0 | 1460 | 1460 |
+| ulcerative colitis | PASS | within tolerance | 0.0 | 768 | 768 |
+| rheumatoid arthritis | PASS | within tolerance | 0.0 | 1616 | 1616 |
+| major depressive disorder | PASS | within tolerance | 0.0 | 1679 | 1679 |
+| low back pain | PASS | within tolerance | 0.0 | 696 | 696 |
+| atrial fibrillation | PASS | within tolerance | 0.0 | 1556 | 1556 |
