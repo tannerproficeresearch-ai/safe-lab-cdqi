@@ -1,0 +1,5 @@
+timestamp_utc,checkpoint,n_records,detail
+2026-07-20T18:31:44.417846+00:00,api_totalCount,6815,query.cond='postoperative pain'
+2026-07-20T18:31:48.933391+00:00,records_fetched,6815,
+2026-07-20T18:31:48.933706+00:00,reconciliation_ok,6815,fetched == totalCount (6815)
+2026-07-20T18:31:48.951695+00:00,scoped_trials,3574,scope=DRUG
