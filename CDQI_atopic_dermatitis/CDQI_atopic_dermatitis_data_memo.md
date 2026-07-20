@@ -1,7 +1,7 @@
 # CDQI data memo — atopic dermatitis
 
-**Query:** `atopic dermatitis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `5dc834be4f6f`
-**N scored trials:** 982  |  **search completeness estimate:** single-strategy (see decision log)
+**Query:** `atopic dermatitis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `adb610657bb8`
+**N scored trials:** 982  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 
