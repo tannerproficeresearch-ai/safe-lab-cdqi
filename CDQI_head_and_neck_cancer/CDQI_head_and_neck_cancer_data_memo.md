@@ -1,7 +1,7 @@
 # CDQI data memo — head and neck cancer
 
-**Query:** `head and neck cancer`  |  **interventionType scope:** DRUG  |  **run-stamp:** `9f38e1a8f068`
-**N scored trials:** 4217  |  **search completeness estimate:** single-strategy (see decision log)
+**Query:** `head and neck cancer`  |  **interventionType scope:** DRUG  |  **run-stamp:** `b63f32b3ee89`
+**N scored trials:** 4217  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 

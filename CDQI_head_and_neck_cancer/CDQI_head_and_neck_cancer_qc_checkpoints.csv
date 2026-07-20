@@ -3,3 +3,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T18:32:02.371078+00:00,records_fetched,6798,
 2026-07-20T18:32:02.371371+00:00,reconciliation_ok,6798,fetched == totalCount (6798)
 2026-07-20T18:32:02.386453+00:00,scoped_trials,4217,scope=DRUG
+2026-07-20T19:26:57.366638+00:00,api_totalCount,6798,query.cond='head and neck cancer'
+2026-07-20T19:27:02.050441+00:00,records_fetched,6798,
+2026-07-20T19:27:02.050718+00:00,reconciliation_ok,6798,fetched == totalCount (6798)
+2026-07-20T19:27:02.069641+00:00,scoped_trials,4217,scope=DRUG
