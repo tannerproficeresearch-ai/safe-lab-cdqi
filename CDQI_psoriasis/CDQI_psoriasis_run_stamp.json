@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T18:32:18.392553+00:00",
+  "utc": "2026-07-20T19:27:17.392141+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "psoriasis",
   "python": "3.13.9",
@@ -8,6 +8,6 @@
   "scope": "DRUG",
   "terms": [],
   "n_scored": 1460,
-  "completeness": null,
-  "stamp_hash": "6a881708befb"
+  "completeness": 1.0,
+  "stamp_hash": "6e6b19a6aad2"
 }

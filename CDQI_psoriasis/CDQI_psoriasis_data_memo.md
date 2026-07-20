@@ -1,7 +1,7 @@
 # CDQI data memo — psoriasis
 
-**Query:** `psoriasis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `6a881708befb`
-**N scored trials:** 1460  |  **search completeness estimate:** single-strategy (see decision log)
+**Query:** `psoriasis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `6e6b19a6aad2`
+**N scored trials:** 1460  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 
