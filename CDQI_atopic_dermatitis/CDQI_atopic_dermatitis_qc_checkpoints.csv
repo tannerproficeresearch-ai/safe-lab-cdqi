@@ -1,0 +1,5 @@
+timestamp_utc,checkpoint,n_records,detail
+2026-07-20T18:31:54.935873+00:00,api_totalCount,1427,query.cond='atopic dermatitis'
+2026-07-20T18:31:55.460537+00:00,records_fetched,1427,
+2026-07-20T18:31:55.460769+00:00,reconciliation_ok,1427,fetched == totalCount (1427)
+2026-07-20T18:31:55.464648+00:00,scoped_trials,982,scope=DRUG

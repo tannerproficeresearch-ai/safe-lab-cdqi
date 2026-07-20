@@ -1,0 +1,13 @@
+{
+  "utc": "2026-07-20T18:31:55.847633+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "atopic dermatitis",
+  "python": "3.13.9",
+  "query": "atopic dermatitis",
+  "query_field": "query.cond",
+  "scope": "DRUG",
+  "terms": [],
+  "n_scored": 982,
+  "completeness": null,
+  "stamp_hash": "5dc834be4f6f"
+}
