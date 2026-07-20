@@ -1,0 +1,13 @@
+{
+  "utc": "2026-07-20T18:32:03.226553+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "head and neck cancer",
+  "python": "3.13.9",
+  "query": "head and neck cancer",
+  "query_field": "query.cond",
+  "scope": "DRUG",
+  "terms": [],
+  "n_scored": 4217,
+  "completeness": null,
+  "stamp_hash": "9f38e1a8f068"
+}
