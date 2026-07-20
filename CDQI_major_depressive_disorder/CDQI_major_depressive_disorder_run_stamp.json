@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T18:32:26.980367+00:00",
+  "utc": "2026-07-20T19:27:25.425025+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "major depressive disorder",
   "python": "3.13.9",
@@ -8,6 +8,6 @@
   "scope": "DRUG",
   "terms": [],
   "n_scored": 1679,
-  "completeness": null,
-  "stamp_hash": "e85bfcf49c5a"
+  "completeness": 1.0,
+  "stamp_hash": "140231d377d9"
 }
