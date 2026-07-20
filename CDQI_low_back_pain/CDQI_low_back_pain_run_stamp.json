@@ -1,0 +1,18 @@
+{
+  "utc": "2026-07-20T18:32:35.116402+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "low back pain",
+  "python": "3.13.9",
+  "query": "low back pain",
+  "query_field": "query.cond",
+  "scope": "BEHAVIORAL",
+  "terms": [
+    "exercise",
+    "physical",
+    "therapy",
+    "injection"
+  ],
+  "n_scored": 696,
+  "completeness": 0.8244,
+  "stamp_hash": "7f106fc469da"
+}
