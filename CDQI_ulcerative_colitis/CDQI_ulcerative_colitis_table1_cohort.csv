@@ -1,0 +1,14 @@
+characteristic,value
+N trials,768
+Date range (start year),1996-2027
+Enrollment median [IQR],72 [30-200]
+"Pivotal (phase 3/4), n (%)",310 (40%)
+"Treatment purpose, n (%)",695 (90%)
+"Results posted, n (%)",213 (28%)
+Intervention type: drug,745 (97%)
+Intervention type: both,23 (3%)
+Sponsor class: INDUSTRY,465 (61%)
+Sponsor class: OTHER,280 (36%)
+Sponsor class: OTHER_GOV,14 (2%)
+Sponsor class: NIH,7 (1%)
+Sponsor class: NETWORK,2 (0%)
