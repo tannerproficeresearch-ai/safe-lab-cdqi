@@ -1,7 +1,7 @@
 # CDQI data memo — postoperative pain
 
-**Query:** `postoperative pain`  |  **interventionType scope:** DRUG  |  **run-stamp:** `ea285e1d92f8`
-**N scored trials:** 3574  |  **search completeness estimate:** single-strategy (see decision log)
+**Query:** `postoperative pain`  |  **interventionType scope:** DRUG  |  **run-stamp:** `c14277db689a`
+**N scored trials:** 3574  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 

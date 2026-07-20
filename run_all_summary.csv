@@ -1,0 +1,16 @@
+condition,n,completeness,stamp,status
+postoperative pain,3574,,ea285e1d92f8,OK
+acute pain,1254,,31cdd8d7b2de,OK
+spinal anesthesia,690,,6f8897b9c1c3,OK
+atopic dermatitis,982,,5dc834be4f6f,OK
+head and neck cancer,4217,,9f38e1a8f068,OK
+hearing loss,553,0.9403,6c456100dd73,OK
+inguinal hernia,360,0.9638,4194ab2d0d6a,OK
+hip fracture,490,0.7971,09c383b34ebc,OK
+total knee arthroplasty,1412,1.0,eee879c0c7e3,OK
+psoriasis,1460,,6a881708befb,OK
+ulcerative colitis,768,,08fa1ae91d52,OK
+rheumatoid arthritis,1616,,5f3d2a1e8d3d,OK
+major depressive disorder,1679,,e85bfcf49c5a,OK
+low back pain,696,0.8244,7f106fc469da,OK
+atrial fibrillation,1556,0.9526,c67e31bb9fa3,OK
