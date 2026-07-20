@@ -1,6 +1,6 @@
 # CDQI data memo — hip fracture
 
-**Query:** `hip fracture`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `09c383b34ebc`
+**Query:** `hip fracture`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `8664c09569b4`
 **N scored trials:** 490  |  **search completeness estimate:** 80%
 
 Cite the run-stamp hash in the data-availability statement.
