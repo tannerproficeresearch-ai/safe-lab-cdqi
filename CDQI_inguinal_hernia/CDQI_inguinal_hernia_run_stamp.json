@@ -1,0 +1,17 @@
+{
+  "utc": "2026-07-20T18:32:07.681962+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "inguinal hernia",
+  "python": "3.13.9",
+  "query": "inguinal hernia",
+  "query_field": "query.cond",
+  "scope": "PROC_DEVICE",
+  "terms": [
+    "hernia",
+    "mesh",
+    "herniorrhaphy"
+  ],
+  "n_scored": 360,
+  "completeness": 0.9638,
+  "stamp_hash": "4194ab2d0d6a"
+}
