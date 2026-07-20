@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T18:32:07.681962+00:00",
+  "utc": "2026-07-20T19:27:07.368145+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "inguinal hernia",
   "python": "3.13.9",
@@ -13,5 +13,5 @@
   ],
   "n_scored": 360,
   "completeness": 0.9638,
-  "stamp_hash": "4194ab2d0d6a"
+  "stamp_hash": "0734b59c93aa"
 }
