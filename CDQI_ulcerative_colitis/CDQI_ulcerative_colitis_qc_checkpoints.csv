@@ -3,3 +3,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T18:32:20.050921+00:00,records_fetched,1292,
 2026-07-20T18:32:20.051414+00:00,reconciliation_ok,1292,fetched == totalCount (1292)
 2026-07-20T18:32:20.055107+00:00,scoped_trials,768,scope=DRUG
+2026-07-20T19:27:18.275185+00:00,api_totalCount,1292,query.cond='ulcerative colitis'
+2026-07-20T19:27:18.767545+00:00,records_fetched,1292,
+2026-07-20T19:27:18.767768+00:00,reconciliation_ok,1292,fetched == totalCount (1292)
+2026-07-20T19:27:18.771510+00:00,scoped_trials,768,scope=DRUG

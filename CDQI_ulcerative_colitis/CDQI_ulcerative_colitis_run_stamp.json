@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T18:32:20.419357+00:00",
+  "utc": "2026-07-20T19:27:19.134494+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "ulcerative colitis",
   "python": "3.13.9",
@@ -8,6 +8,6 @@
   "scope": "DRUG",
   "terms": [],
   "n_scored": 768,
-  "completeness": null,
-  "stamp_hash": "08fa1ae91d52"
+  "completeness": 1.0,
+  "stamp_hash": "2f170e7d34a7"
 }
