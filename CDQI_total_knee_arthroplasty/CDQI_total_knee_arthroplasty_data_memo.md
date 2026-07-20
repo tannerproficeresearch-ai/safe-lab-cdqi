@@ -1,7 +1,7 @@
 # CDQI data memo — total knee arthroplasty
 
-**Query:** `total knee arthroplasty`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `eee879c0c7e3`
-**N scored trials:** 1412  |  **search completeness estimate:** 100%
+**Query:** `total knee arthroplasty`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `1aa735c8dff1`
+**N scored trials:** 1412  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 

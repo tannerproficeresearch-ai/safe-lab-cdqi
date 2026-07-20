@@ -6,3 +6,10 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T18:32:15.687659+00:00,records_fetched,2752,
 2026-07-20T18:32:15.687938+00:00,reconciliation_ok,2752,fetched == totalCount (2752)
 2026-07-20T18:32:15.710183+00:00,scoped_trials,1412,scope=PROC_DEVICE
+2026-07-20T19:27:10.525277+00:00,api_totalCount,2752,query.term='total knee arthroplasty'
+2026-07-20T19:27:12.324054+00:00,records_fetched,2752,
+2026-07-20T19:27:12.324324+00:00,reconciliation_ok,2752,fetched == totalCount (2752)
+2026-07-20T19:27:13.239812+00:00,api_totalCount,2752,query.term='total knee arthroplasty'
+2026-07-20T19:27:14.747994+00:00,records_fetched,2752,
+2026-07-20T19:27:14.748371+00:00,reconciliation_ok,2752,fetched == totalCount (2752)
+2026-07-20T19:27:14.766306+00:00,scoped_trials,1412,scope=PROC_DEVICE
