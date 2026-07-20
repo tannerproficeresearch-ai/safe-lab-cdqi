@@ -1,7 +1,7 @@
 # CDQI data memo — spinal anesthesia
 
-**Query:** `spinal anesthesia`  |  **interventionType scope:** DRUG  |  **run-stamp:** `6f8897b9c1c3`
-**N scored trials:** 690  |  **search completeness estimate:** single-strategy (see decision log)
+**Query:** `spinal anesthesia`  |  **interventionType scope:** DRUG  |  **run-stamp:** `a5da67db6e5a`
+**N scored trials:** 690  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 
