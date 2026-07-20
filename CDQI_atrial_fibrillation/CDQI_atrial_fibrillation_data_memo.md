@@ -1,6 +1,6 @@
 # CDQI data memo — atrial fibrillation
 
-**Query:** `atrial fibrillation`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `c67e31bb9fa3`
+**Query:** `atrial fibrillation`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `dc18609db072`
 **N scored trials:** 1556  |  **search completeness estimate:** 95%
 
 Cite the run-stamp hash in the data-availability statement.
