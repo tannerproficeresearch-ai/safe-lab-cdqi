@@ -1,0 +1,8 @@
+timestamp_utc,checkpoint,n_records,detail
+2026-07-20T18:32:04.193538+00:00,api_totalCount,1085,query.cond='hearing loss'
+2026-07-20T18:32:04.466637+00:00,records_fetched,1085,
+2026-07-20T18:32:04.467263+00:00,reconciliation_ok,1085,fetched == totalCount (1085)
+2026-07-20T18:32:05.183852+00:00,api_totalCount,1737,query.term='hearing loss'
+2026-07-20T18:32:05.821584+00:00,records_fetched,1737,
+2026-07-20T18:32:05.821834+00:00,reconciliation_ok,1737,fetched == totalCount (1737)
+2026-07-20T18:32:05.832671+00:00,scoped_trials,553,scope=DEVICE
