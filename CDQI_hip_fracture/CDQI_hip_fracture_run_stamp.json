@@ -1,0 +1,18 @@
+{
+  "utc": "2026-07-20T18:32:10.779924+00:00",
+  "api": "https://clinicaltrials.gov/api/v2",
+  "query_cond": "hip fracture",
+  "python": "3.13.9",
+  "query": "hip fracture",
+  "query_field": "query.cond",
+  "scope": "PROC_DEVICE",
+  "terms": [
+    "fixation",
+    "arthroplasty",
+    "nail",
+    "screw"
+  ],
+  "n_scored": 490,
+  "completeness": 0.7971,
+  "stamp_hash": "09c383b34ebc"
+}

@@ -1,0 +1,8 @@
+timestamp_utc,checkpoint,n_records,detail
+2026-07-20T18:32:08.731559+00:00,api_totalCount,812,query.cond='hip fracture'
+2026-07-20T18:32:08.731799+00:00,records_fetched,812,
+2026-07-20T18:32:08.731858+00:00,reconciliation_ok,812,fetched == totalCount (812)
+2026-07-20T18:32:09.842894+00:00,api_totalCount,1449,query.term='hip fracture'
+2026-07-20T18:32:10.442666+00:00,records_fetched,1449,
+2026-07-20T18:32:10.442842+00:00,reconciliation_ok,1449,fetched == totalCount (1449)
+2026-07-20T18:32:10.454531+00:00,scoped_trials,490,scope=PROC_DEVICE
