@@ -18,3 +18,23 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_acute_pain
 
+- **2026-07-20T19:26:50.798616+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='acute pain' query='acute pain' field=query.cond scope=DRUG
+
+- **2026-07-20T19:26:52.768332+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='acute pain' -> 2416 trials
+
+- **2026-07-20T19:26:52.768372+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: single-strategy (no positive-term list) -> degenerate completeness=1.0; reflects unambiguous terminology, not a strong statistical estimate (protocol §4.3)
+
+- **2026-07-20T19:26:52.768409+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=DRUG types=['DRUG'] -> 1254 scoped trials
+
+- **2026-07-20T19:26:53.244588+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_acute_pain
+

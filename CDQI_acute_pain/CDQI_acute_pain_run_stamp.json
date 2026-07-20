@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T18:31:52.563591+00:00",
+  "utc": "2026-07-20T19:26:53.243674+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "acute pain",
   "python": "3.13.9",
@@ -8,6 +8,6 @@
   "scope": "DRUG",
   "terms": [],
   "n_scored": 1254,
-  "completeness": null,
-  "stamp_hash": "31cdd8d7b2de"
+  "completeness": 1.0,
+  "stamp_hash": "8f7059dde968"
 }
