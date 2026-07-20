@@ -1,0 +1,16 @@
+pair,cluster,condition,query,query_field,scope,terms
+1,Anesthesia/Periop,postoperative pain,postoperative pain,query.cond,DRUG,
+2,Anesthesia/Periop,acute pain,acute pain,query.cond,DRUG,
+3,Anesthesia/Periop,spinal anesthesia,spinal anesthesia,query.cond,DRUG,
+4,Drug-medicine,atopic dermatitis,atopic dermatitis,query.cond,DRUG,
+5,ENT,head and neck cancer,head and neck cancer,query.cond,DRUG,
+6,ENT,hearing loss,hearing loss,query.cond,DEVICE,cochlear;hearing aid;implant
+7,General Surgery,inguinal hernia,inguinal hernia,query.cond,PROC_DEVICE,hernia;mesh;herniorrhaphy
+8,Orthopedics,hip fracture,hip fracture,query.cond,PROC_DEVICE,fixation;arthroplasty;nail;screw
+9,Orthopedics,total knee arthroplasty,total knee arthroplasty,query.term,PROC_DEVICE,knee arthroplasty;knee replacement;tka
+10,Drug-medicine,psoriasis,psoriasis,query.cond,DRUG,
+11,Drug-medicine,ulcerative colitis,ulcerative colitis,query.cond,DRUG,
+12,Drug-medicine,rheumatoid arthritis,rheumatoid arthritis,query.cond,DRUG,
+13,Behavioral/Device,major depressive disorder,major depressive disorder,query.cond,DRUG,
+14,Behavioral/Device,low back pain,low back pain,query.cond,BEHAVIORAL,exercise;physical therapy;injection
+15,Behavioral/Device,atrial fibrillation,atrial fibrillation,query.cond,PROC_DEVICE,ablation;pvi;catheter
