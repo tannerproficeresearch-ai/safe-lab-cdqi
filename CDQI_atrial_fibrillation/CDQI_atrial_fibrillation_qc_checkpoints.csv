@@ -1,0 +1,8 @@
+timestamp_utc,checkpoint,n_records,detail
+2026-07-20T18:32:35.890911+00:00,api_totalCount,2607,query.cond='atrial fibrillation'
+2026-07-20T18:32:37.654681+00:00,records_fetched,2607,
+2026-07-20T18:32:37.654918+00:00,reconciliation_ok,2607,fetched == totalCount (2607)
+2026-07-20T18:32:38.471506+00:00,api_totalCount,3567,query.term='atrial fibrillation'
+2026-07-20T18:32:40.787631+00:00,records_fetched,3567,
+2026-07-20T18:32:40.787932+00:00,reconciliation_ok,3567,fetched == totalCount (3567)
+2026-07-20T18:32:40.812697+00:00,scoped_trials,1556,scope=PROC_DEVICE
