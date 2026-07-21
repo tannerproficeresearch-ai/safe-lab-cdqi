@@ -1,0 +1,769 @@
+nct,lead_sponsor_name,sponsor_class,sponsor_industry,sponsor_category
+NCT01839214,Vascular Biogenics Ltd. operating as VBL Therapeutics,INDUSTRY,True,industry
+NCT02994836,Fundación de Investigación Biomédica - Hospital Universitario de La Princesa,OTHER,False,academic
+NCT06201793,Mostafa Bahaa,OTHER,False,individual
+NCT00616434,Biogen,INDUSTRY,True,industry
+NCT04862741,Landos Biopharma Inc.,INDUSTRY,True,industry
+NCT02407236,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT07370220,Benha University,OTHER,False,academic
+NCT01658605,GlaxoSmithKline,INDUSTRY,True,industry
+NCT06853522,Shanghai East Hospital,OTHER,False,hospital
+NCT05976802,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT05377580,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY,True,industry
+NCT06335160,Tanta University,OTHER,False,academic
+NCT02000453,GlaxoSmithKline,INDUSTRY,True,industry
+NCT00114803,Boston Children's Hospital,OTHER,False,hospital
+NCT00505778,Warner Chilcott,INDUSTRY,True,industry
+NCT00303381,EMD Serono,INDUSTRY,True,industry
+NCT05626166,Tanta University,OTHER,False,academic
+NCT07483073,Eli Lilly and Company,INDUSTRY,True,industry
+NCT01477320,Mohamed Saad,OTHER,False,individual
+NCT00618228,Roxane Laboratories,INDUSTRY,True,industry
+NCT03398135,AbbVie,INDUSTRY,True,industry
+NCT04877990,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT01201122,Wolfson Medical Center,OTHER_GOV,False,government
+NCT04023396,Abivax S.A.,INDUSTRY,True,industry
+NCT01900574,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT05456932,Leiden University Medical Center,OTHER,False,academic
+NCT03832400,NuBiyota,OTHER,False,other
+NCT06274294,CMC Ambroise Paré,OTHER,False,other
+NCT03945188,Arena Pharmaceuticals,INDUSTRY,True,industry
+NCT02559713,Takeda,INDUSTRY,True,industry
+NCT04314375,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT04373473,"The University of Texas Health Science Center, Houston",OTHER,False,academic
+NCT06874673,Changhai Hospital,OTHER,False,hospital
+NCT03101800,Hvidovre University Hospital,OTHER,False,academic
+NCT00064441,"Otsuka Pharmaceutical Development & Commercialization, Inc.",INDUSTRY,True,industry
+NCT03934216,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT02200445,"Scott B. Snapper, MD PHD",OTHER,False,other
+NCT05104229,"Stefan Holubar MD MS FACS, FASCRS",OTHER,False,other
+NCT02764229,Lycera Corp.,INDUSTRY,True,industry
+NCT07507513,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",INDUSTRY,True,industry
+NCT02550418,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT01336465,"Genentech, Inc.",INDUSTRY,True,industry
+NCT01567956,sigma-tau i.f.r. S.p.A.,INDUSTRY,True,industry
+NCT04587141,Fondazione IRCCS Policlinico San Matteo di Pavia,OTHER,False,research_nonprofit
+NCT07535489,"Nanjing Immunophage Biotech Co., Ltd",INDUSTRY,True,industry
+NCT04883840,Universitaire Ziekenhuizen KU Leuven,OTHER,False,academic
+NCT00737789,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT02606032,Hamilton Health Sciences Corporation,OTHER,True,industry
+NCT06095596,"Sixth Affiliated Hospital, Sun Yat-sen University",OTHER,False,academic
+NCT05999708,GlaxoSmithKline,INDUSTRY,True,industry
+NCT02246686,Bayer,INDUSTRY,True,industry
+NCT00307827,Abbott,INDUSTRY,True,industry
+NCT04706793,Pfizer,INDUSTRY,True,industry
+NCT06636656,Boehringer Ingelheim,INDUSTRY,True,industry
+NCT05785715,AbbVie,INDUSTRY,True,industry
+NCT07650942,"Ganzhou Hemay Pharmaceutical Co., Ltd",INDUSTRY,True,industry
+NCT02749630,"Genentech, Inc.",INDUSTRY,True,industry
+NCT02217722,Prof. Arie Levine,OTHER_GOV,False,government
+NCT04855799,James Varani,OTHER,False,individual
+NCT05558761,Tanta University,OTHER,False,academic
+NCT03398148,AbbVie,INDUSTRY,True,industry
+NCT07083193,Accro Bioscience (Suzhou) Limited,INDUSTRY,True,industry
+NCT01375179,Novartis Pharmaceuticals,INDUSTRY,True,industry
+NCT05852574,Brigham and Women's Hospital,OTHER,False,hospital
+NCT03100864,Boehringer Ingelheim,INDUSTRY,True,industry
+NCT04133194,Flemming Bendtsen,OTHER,False,individual
+NCT02849951,Prometheus Laboratories,INDUSTRY,True,industry
+NCT05370885,"Vedanta Biosciences, Inc.",INDUSTRY,True,industry
+NCT03123120,Boehringer Ingelheim,INDUSTRY,True,industry
+NCT04130919,Gilead Sciences,INDUSTRY,True,industry
+NCT00267306,Facet Biotech,INDUSTRY,True,industry
+NCT07177118,First Affiliated Hospital of Wenzhou Medical University,OTHER,False,academic
+NCT05780723,Beijing Hospital of Traditional Chinese Medicine,OTHER,False,hospital
+NCT03327558,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT01090154,University of Washington,OTHER,False,academic
+NCT04721873,"University of California, San Diego",OTHER,False,academic
+NCT00548574,Shire,INDUSTRY,True,industry
+NCT05528510,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT07632573,"Benethera (Shaoxing) Biotechnology Co., Ltd.",INDUSTRY,True,industry
+NCT00073021,Warner Chilcott,INDUSTRY,True,industry
+NCT05975047,Liveome Inc.,INDUSTRY,True,industry
+NCT00679380,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT07341282,McMaster University,OTHER,False,academic
+NCT03977480,"Tianjin Hemay Pharmaceutical Co., Ltd",INDUSTRY,True,industry
+NCT03358706,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT05570006,AbbVie,INDUSTRY,True,industry
+NCT05666960,Rise Therapeutics LLC,INDUSTRY,True,industry
+NCT06667934,The Second Affiliated Hospital of Anhui University of Traditional Chinese Medicine,OTHER,False,academic
+NCT00232258,Sanofi,INDUSTRY,True,industry
+NCT02442960,Stanford University,OTHER,False,academic
+NCT05088369,Syneos Health,OTHER,False,hospital
+NCT03124121,Guy's and St Thomas' NHS Foundation Trust,OTHER,False,government
+NCT00767728,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT03018054,"EA Pharma Co., Ltd.",INDUSTRY,True,industry
+NCT03483246,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT05538026,Bogomolets National Medical University,OTHER,False,academic
+NCT03759041,"Seres Therapeutics, Inc.",INDUSTRY,True,industry
+NCT07186101,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05567068,Tanta University,OTHER,False,academic
+NCT05225545,American University of Beirut Medical Center,OTHER,False,academic
+NCT05611671,"Morphic Therapeutic, Inc. (A Wholly Owned Subsidiary of Eli Lilly and Company)",INDUSTRY,True,industry
+NCT06257875,AbbVie,INDUSTRY,True,industry
+NCT02770040,Austin Health,OTHER_GOV,False,government
+NCT00618202,Roxane Laboratories,INDUSTRY,True,industry
+NCT06188637,Geert D'Haens,OTHER,False,individual
+NCT05781698,Tanta University,OTHER,False,academic
+NCT04521205,Zhongshan Hospital Xiamen University,OTHER,False,academic
+NCT02281799,Shaare Zedek Medical Center,OTHER,False,hospital
+NCT03935451,McMaster University,OTHER,False,academic
+NCT04767984,Northwestern University,OTHER,False,academic
+NCT06896305,IRCCS Ospedale San Raffaele,OTHER,False,hospital
+NCT07240649,Jay C. Buckey Jr.,OTHER,False,other
+NCT00787202,Pfizer,INDUSTRY,True,industry
+NCT05242484,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT06598943,Eli Lilly and Company,INDUSTRY,True,industry
+NCT00343850,University of Chicago,OTHER,False,academic
+NCT00268164,Hvidovre University Hospital,OTHER,False,academic
+NCT04457960,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT06681389,"NIBEC Co., Ltd.",INDUSTRY,True,industry
+NCT03138655,Takeda,INDUSTRY,True,industry
+NCT07416383,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT01560819,Corewell Health West,OTHER,False,hospital
+NCT01810185,Santa Barbara Cottage Hospital,OTHER,False,hospital
+NCT02227602,Texas A&M University,OTHER,False,academic
+NCT00542152,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,OTHER,False,research_nonprofit
+NCT01882764,Hutchison Medipharma Limited,INDUSTRY,True,industry
+NCT05553704,Tanta University,OTHER,False,academic
+NCT07673497,Gazi University,OTHER,False,academic
+NCT01039597,"Ore Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT00619489,"Millennium Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT05684484,Tanta University,OTHER,False,academic
+NCT07349472,Ihab Elsayed Hassan,OTHER,False,individual
+NCT00679432,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT06581328,Takeda,INDUSTRY,True,industry
+NCT01551290,Xian-Janssen Pharmaceutical Ltd.,INDUSTRY,True,industry
+NCT00676832,Prometheus Laboratories,INDUSTRY,True,industry
+NCT05791487,Wolfson Medical Center,OTHER_GOV,False,government
+NCT07505030,"LyncBio Therapeutics Co., Ltd.",INDUSTRY,True,industry
+NCT06137183,"Genentech, Inc.",INDUSTRY,True,industry
+NCT02819635,AbbVie,INDUSTRY,True,industry
+NCT05084261,Adiso Therapeutics,INDUSTRY,True,industry
+NCT01458951,Pfizer,INDUSTRY,True,industry
+NCT02862132,Shaare Zedek Medical Center,OTHER,False,hospital
+NCT02818686,Theravance Biopharma,INDUSTRY,True,industry
+NCT05588843,Sanofi,INDUSTRY,True,industry
+NCT06880744,AbbVie,INDUSTRY,True,industry
+NCT05442567,Takeda,INDUSTRY,True,industry
+NCT03269695,Pfizer,INDUSTRY,True,industry
+NCT03760003,Abivax S.A.,INDUSTRY,True,industry
+NCT04183608,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,OTHER,False,research_nonprofit
+NCT05061446,Pfizer,INDUSTRY,True,industry
+NCT02646657,Geert D'Haens,OTHER,False,individual
+NCT06176560,"Faes Farma, S.A.",INDUSTRY,True,industry
+NCT06353828,CannaMore Biotechs,INDUSTRY,True,industry
+NCT04985968,InDex Pharmaceuticals,INDUSTRY,True,industry
+NCT06794944,Brigham and Women's Hospital,OTHER,False,hospital
+NCT01349673,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT06582264,Microbiotica Ltd,INDUSTRY,True,industry
+NCT05784246,Eli Lilly and Company,INDUSTRY,True,industry
+NCT00032305,Facet Biotech,INDUSTRY,True,industry
+NCT05218850,Children's Hospital Los Angeles,OTHER,False,hospital
+NCT00151892,Shire,INDUSTRY,True,industry
+NCT05786404,"The University of Texas Health Science Center, Houston",OTHER,False,academic
+NCT01506362,"BioLineRx, Ltd.",INDUSTRY,True,industry
+NCT03521232,Entero Therapeutics,INDUSTRY,True,industry
+NCT03920254,Theravance Biopharma,INDUSTRY,True,industry
+NCT02497469,Takeda,INDUSTRY,True,industry
+NCT05112263,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER,False,research_nonprofit
+NCT04596293,"Bridge Biotherapeutics, Inc.",INDUSTRY,True,industry
+NCT05770609,"Shanghai Pharmaceuticals Holding Co., Ltd",INDUSTRY,True,industry
+NCT00194818,University of Washington,OTHER,False,academic
+NCT07147842,Benha University,OTHER,False,academic
+NCT06117423,University Medical Center Groningen,OTHER,False,academic
+NCT01036022,GlaxoSmithKline,INDUSTRY,True,industry
+NCT02118584,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT00545389,Shire,INDUSTRY,True,industry
+NCT00446849,Shire,INDUSTRY,True,industry
+NCT01494857,Clalit Health Services,OTHER,False,hospital
+NCT02537210,Chinese University of Hong Kong,OTHER,False,academic
+NCT03167437,National Institute of Allergy and Infectious Diseases (NIAID),NIH,False,government
+NCT02531126,Celgene,INDUSTRY,True,industry
+NCT02033408,Shaare Zedek Medical Center,OTHER,False,hospital
+NCT00783718,"Millennium Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT03178669,InDex Pharmaceuticals,INDUSTRY,True,industry
+NCT06937086,Eli Lilly and Company,INDUSTRY,True,industry
+NCT02425852,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,OTHER,False,research_nonprofit
+NCT02425865,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,OTHER,False,research_nonprofit
+NCT04613518,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT07691138,University of Nottingham,OTHER,False,academic
+NCT00708656,Cardiff and Vale University Health Board,OTHER_GOV,False,government
+NCT01011322,Lipid Therapeutics GmbH,INDUSTRY,True,industry
+NCT04312113,Mayo Clinic,OTHER,False,hospital
+NCT00430898,Cerimon Pharmaceuticals,INDUSTRY,True,industry
+NCT04505410,University of Miami,OTHER,False,academic
+NCT06127043,"AnaptysBio, Inc.",INDUSTRY,True,industry
+NCT03724175,Stanford University,OTHER,False,academic
+NCT06651281,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT01061996,Cerimon Pharmaceuticals,INDUSTRY,True,industry
+NCT07300553,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT05610956,Tanta University,OTHER,False,academic
+NCT04556383,"GB004, Inc.",INDUSTRY,True,industry
+NCT03518086,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05369832,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT01004185,Warner Chilcott,INDUSTRY,True,industry
+NCT02914522,Gilead Sciences,INDUSTRY,True,industry
+NCT03847467,"Children's Hospital Medical Center, Cincinnati",OTHER,False,hospital
+NCT03597971,Nutrition Science Partners Limited,INDUSTRY,True,industry
+NCT03071081,Topivert Pharma Ltd,INDUSTRY,True,industry
+NCT03281304,Pfizer,INDUSTRY,True,industry
+NCT02921555,Grupo Espanol de Trabajo en Enfermedad de Crohn y Colitis Ulcerosa,OTHER,False,research_nonprofit
+NCT02266849,Odense University Hospital,OTHER,False,academic
+NCT03482648,"Bridge Biotherapeutics, Inc.",INDUSTRY,True,industry
+NCT07546097,Yongquan Shi,OTHER,False,individual
+NCT00805285,"University of Maryland, Baltimore",OTHER,False,academic
+NCT02878083,Nantes University Hospital,OTHER,False,academic
+NCT03558152,"Genentech, Inc.",INDUSTRY,True,industry
+NCT00421642,Mayo Clinic,OTHER,False,hospital
+NCT04750135,National Hepatology & Tropical Medicine Research Institute,OTHER_GOV,False,government
+NCT01959282,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT00261118,Royal Liverpool University Hospital,OTHER_GOV,False,government
+NCT06213857,Tanta University,OTHER,False,academic
+NCT03122613,Chinese University of Hong Kong,OTHER,False,academic
+NCT00279435,Facet Biotech,INDUSTRY,True,industry
+NCT04096573,LG Chem,INDUSTRY,True,industry
+NCT02743806,Takeda,INDUSTRY,True,industry
+NCT07258771,"Berinstein, Jeffrey",OTHER,False,other
+NCT03237260,University of Pennsylvania,OTHER,False,academic
+NCT06829225,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT01534312,University of Aarhus,OTHER,False,academic
+NCT07035041,"InventisBio Co., Ltd",INDUSTRY,True,industry
+NCT00791557,University Hospitals Cleveland Medical Center,OTHER,False,academic
+NCT03616821,AstraZeneca,INDUSTRY,True,industry
+NCT00259558,Heidelberg University,OTHER,False,academic
+NCT06681181,GlaxoSmithKline,INDUSTRY,True,industry
+NCT04607837,Pfizer,INDUSTRY,True,industry
+NCT02840721,"Telavant, Inc.",INDUSTRY,True,industry
+NCT02683759,"Asian Institute of Gastroenterology, India",OTHER,False,research_nonprofit
+NCT02601300,Celgene,INDUSTRY,True,industry
+NCT01538251,sigma-tau i.f.r. S.p.A.,INDUSTRY,True,industry
+NCT01100112,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT01532648,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT06421818,The Second Hospital of Nanjing Medical University,OTHER,False,academic
+NCT04968951,Ari M Grinspan,OTHER,False,other
+NCT00694980,"Genentech, Inc.",INDUSTRY,True,industry
+NCT07646223,Tampere University Hospital,OTHER,False,academic
+NCT03944447,"OMNI Medical Services, LLC",NETWORK,False,network
+NCT06049017,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02065622,AbbVie,INDUSTRY,True,industry
+NCT01320332,Telsar Pharma Inc.,INDUSTRY,True,industry
+NCT05019742,Shanghai Pharma Biotherapeutics USA Inc.,INDUSTRY,True,industry
+NCT04991324,"University Hospital, Basel, Switzerland",OTHER,False,academic
+NCT02522767,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT01016262,Forest Laboratories,INDUSTRY,True,industry
+NCT06627556,"Jiangsu Carephar Pharmaceutical Co., Ltd.",INDUSTRY,True,industry
+NCT04033445,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT01716039,Alimentiv Inc.,OTHER,True,industry
+NCT04259060,Joshua Korzenik,OTHER,False,individual
+NCT06606808,University Medical Center Groningen,OTHER,False,academic
+NCT05575505,Tanta University,OTHER,False,academic
+NCT00073047,Facet Biotech,INDUSTRY,True,industry
+NCT05767021,Eli Lilly and Company,INDUSTRY,True,industry
+NCT02589665,Eli Lilly and Company,INDUSTRY,True,industry
+NCT07309744,"Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",OTHER,False,academic
+NCT01111292,National Cancer Institute (NCI),NIH,False,government
+NCT00063414,"Ionis Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT01257399,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT03650413,"Genentech, Inc.",INDUSTRY,True,industry
+NCT02958865,Pfizer,INDUSTRY,True,industry
+NCT04987307,Amgen,INDUSTRY,True,industry
+NCT00151944,Shire,INDUSTRY,True,industry
+NCT05177835,Abivax S.A.,INDUSTRY,True,industry
+NCT02760940,Federal University of Juiz de Fora,OTHER,False,government
+NCT00004810,National Center for Research Resources (NCRR),NIH,False,government
+NCT03546868,Asan Foundation,OTHER,False,research_nonprofit
+NCT01659138,Sanofi,INDUSTRY,True,industry
+NCT03259334,Shire,INDUSTRY,True,industry
+NCT01387594,Shire,INDUSTRY,True,industry
+NCT03860896,"GB004, Inc., a wholly owned subsidiary of Gossamer Bio, Inc.",INDUSTRY,True,industry
+NCT04700449,Connect Biopharm LLC,INDUSTRY,True,industry
+NCT05341401,Assiut University,OTHER,False,academic
+NCT02888379,Topivert Pharma Ltd,INDUSTRY,True,industry
+NCT06420492,Brigham and Women's Hospital,OTHER,False,hospital
+NCT04223479,University of Jordan,OTHER,False,academic
+NCT07297069,"Asian Institute of Gastroenterology, India",OTHER,False,research_nonprofit
+NCT05316220,AbbVie,INDUSTRY,True,industry
+NCT02093663,Shire,INDUSTRY,True,industry
+NCT02413047,Indiana University,OTHER,False,academic
+NCT02922374,"Jinling Hospital, China",OTHER,False,hospital
+NCT04029649,Fakultas Kedokteran Universitas Indonesia,OTHER,False,academic
+NCT07470879,Pfizer,INDUSTRY,True,industry
+NCT03861143,NImmune Biopharma,INDUSTRY,True,industry
+NCT00410410,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT07223424,Diwakar Davar,OTHER,False,individual
+NCT04835506,Beth Israel Deaconess Medical Center,OTHER,False,hospital
+NCT01240915,Pfizer,INDUSTRY,True,industry
+NCT07665294,Ryan C Ungaro,OTHER,False,other
+NCT02148640,Diakonhjemmet Hospital,OTHER,False,hospital
+NCT00583531,Ocera Therapeutics,INDUSTRY,True,industry
+NCT03329209,Takeda,INDUSTRY,True,industry
+NCT02463045,Topivert Pharma Ltd,INDUSTRY,True,industry
+NCT00744016,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT02762500,Lycera Corp.,INDUSTRY,True,industry
+NCT04908644,National Taiwan University Hospital,OTHER,False,academic
+NCT06080048,"Sorriso Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT01479660,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER,False,research_nonprofit
+NCT07686081,Vanda Pharmaceuticals,INDUSTRY,True,industry
+NCT05743010,"Jiangsu Yahong Meditech Co., Ltd aka Asieris",INDUSTRY,True,industry
+NCT05205603,"Sixth Affiliated Hospital, Sun Yat-sen University",OTHER,False,academic
+NCT03412682,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT02412085,Istituto Clinico Humanitas,OTHER,False,research_nonprofit
+NCT01458574,Pfizer,INDUSTRY,True,industry
+NCT01456052,Lexicon Pharmaceuticals,INDUSTRY,True,industry
+NCT03482635,Boehringer Ingelheim,INDUSTRY,True,industry
+NCT07435779,"Hebei Senlang Biotechnology Inc., Ltd.",INDUSTRY,True,industry
+NCT03893565,GlaxoSmithKline,INDUSTRY,True,industry
+NCT05907330,"Curacle Co., Ltd.",INDUSTRY,True,industry
+NCT02566889,"Janssen Scientific Affairs, LLC",INDUSTRY,True,industry
+NCT06113913,Belgian Inflammatory Bowel Disease Research and Development (BIRD) VZW,OTHER,False,other
+NCT02620046,Takeda,INDUSTRY,True,industry
+NCT04057547,Xiyuan Hospital of China Academy of Chinese Medical Sciences,OTHER,False,hospital
+NCT01706159,Novo Nordisk A/S,INDUSTRY,True,industry
+NCT06897150,Takayuki Yamamoto,OTHER,False,individual
+NCT04738942,Takeda,INDUSTRY,True,industry
+NCT01804166,"Janssen Scientific Affairs, LLC",INDUSTRY,True,industry
+NCT05668013,Teva Branded Pharmaceutical Products R&D LLC,INDUSTRY,True,industry
+NCT02337608,Lakefront Biotherapeutics NV,INDUSTRY,True,industry
+NCT07526519,"TrueLab Biopharmaceutical Co., Ltd",INDUSTRY,True,industry
+NCT05499130,"Teva Branded Pharmaceutical Products R&D, Inc.",INDUSTRY,True,industry
+NCT07064707,Alexandria University,OTHER,False,academic
+NCT06100289,Takeda,INDUSTRY,True,industry
+NCT02155335,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT01171807,Quince Therapeutics S.p.A.,INDUSTRY,True,industry
+NCT00408174,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT06764615,Takeda,INDUSTRY,True,industry
+NCT05479058,Lakefront Biotherapeutics NV,INDUSTRY,True,industry
+NCT03773952,Palobiofarma SL,INDUSTRY,True,industry
+NCT06788340,Odense University Hospital,OTHER,False,academic
+NCT02687724,University College Dublin,OTHER,False,academic
+NCT01067547,Richard Fedorak,OTHER,False,individual
+NCT03029143,Takeda,INDUSTRY,True,industry
+NCT07686757,Specialty Networks Research.,NETWORK,False,network
+NCT01790061,The Second Hospital of Nanjing Medical University,OTHER,False,academic
+NCT05486104,"Ganzhou Hemay Pharmaceutical Co., Ltd",INDUSTRY,True,industry
+NCT01585155,Tanabe Pharma Corporation,INDUSTRY,True,industry
+NCT01745770,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT05931458,Federico II University,OTHER,False,academic
+NCT03986996,Wolfson Medical Center,OTHER_GOV,False,government
+NCT01846026,University Hospital of North Norway,OTHER,False,academic
+NCT05561062,Tanta University,OTHER,False,academic
+NCT06420375,Brigham and Women's Hospital,OTHER,False,hospital
+NCT03844932,Sublimity Therapeutics Holdco Limited,INDUSTRY,True,industry
+NCT06067698,Tanta University,OTHER,False,academic
+NCT04924114,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT06850727,Odyssey Therapeutics,INDUSTRY,True,industry
+NCT04898348,KoBioLabs,INDUSTRY,True,industry
+NCT01149707,PurGenesis Technologies Inc.,INDUSTRY,True,industry
+NCT00503243,Shire,INDUSTRY,True,industry
+NCT00652145,James Lewis,OTHER,False,individual
+NCT06206811,Odyssey Therapeutics,INDUSTRY,True,industry
+NCT00038922,Wyeth is now a wholly owned subsidiary of Pfizer,INDUSTRY,True,industry
+NCT04577794,Lakefront Biotherapeutics NV,INDUSTRY,True,industry
+NCT05659953,Lmito Therapeutics Inc.,INDUSTRY,True,industry
+NCT05844592,"Innovo Therapeutics, Inc.",INDUSTRY,True,industry
+NCT05507203,Abivax S.A.,INDUSTRY,True,industry
+NCT02100696,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT01026857,sigma-tau i.f.r. S.p.A.,INDUSTRY,True,industry
+NCT04504383,"Protagonist Therapeutics, Inc.",INDUSTRY,True,industry
+NCT00295282,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT06964113,Eisai Korea Inc.,INDUSTRY,True,industry
+NCT02136069,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT04630028,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02453776,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT04478825,"Bridge Biotherapeutics, Inc.",INDUSTRY,True,industry
+NCT05131971,GlaxoSmithKline,INDUSTRY,True,industry
+NCT03653026,AbbVie,INDUSTRY,True,industry
+NCT06865417,Alfasigma S.p.A.,INDUSTRY,True,industry
+NCT01008423,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT03669029,Hospital de Manises,OTHER,False,hospital
+NCT02463305,"University of Colorado, Denver",OTHER,False,academic
+NCT03937609,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT06979336,"Genentech, Inc.",INDUSTRY,True,industry
+NCT03259308,Shire,INDUSTRY,True,industry
+NCT00309660,Herlev Hospital,OTHER,False,hospital
+NCT07501078,"Muhammad N Aslam, MD",OTHER,False,other
+NCT01647516,Celgene,INDUSTRY,True,industry
+NCT06029972,Gilead Sciences,INDUSTRY,True,industry
+NCT00350415,Warner Chilcott,INDUSTRY,True,industry
+NCT01149694,PurGenesis Technologies Inc.,INDUSTRY,True,industry
+NCT01586533,"Altheus Therapeutics, Inc.",INDUSTRY,True,industry
+NCT04987333,Amgen,INDUSTRY,True,industry
+NCT06260267,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT07513181,Athos Therapeutics Inc,INDUSTRY,True,industry
+NCT02768974,Protalix,INDUSTRY,True,industry
+NCT02745678,Stanford University,OTHER,False,academic
+NCT01620255,Shire,INDUSTRY,True,industry
+NCT03441893,"Research Institute of Epidemiology, Microbiology and Infectious Diseases, Uzbekistan",OTHER_GOV,False,government
+NCT03103412,Theravance Biopharma,INDUSTRY,True,industry
+NCT00254618,Warner Chilcott,INDUSTRY,True,industry
+NCT01861249,Sanofi,INDUSTRY,True,industry
+NCT00537316,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT01759056,"Avaxia Biologics, Incorporated",INDUSTRY,True,industry
+NCT07295834,Imperial College London,OTHER,False,academic
+NCT07222189,Sanofi,INDUSTRY,True,industry
+NCT00296556,"Kyoto University, Graduate School of Medicine",OTHER,False,academic
+NCT04779307,Takeda,INDUSTRY,True,industry
+NCT03221036,Takeda,INDUSTRY,True,industry
+NCT06346288,AbbVie,INDUSTRY,True,industry
+NCT02306772,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT03524092,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05202990,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT07257588,Xijing Hospital of Digestive Diseases,OTHER,False,hospital
+NCT05104723,National Institute of Allergy and Infectious Diseases (NIAID),NIH,False,government
+NCT07415044,Eli Lilly and Company,INDUSTRY,True,industry
+NCT07216014,"Sixth Affiliated Hospital, Sun Yat-sen University",OTHER,False,academic
+NCT03309865,Mayo Clinic,OTHER,False,hospital
+NCT01914887,Instituto de Investigación Hospital Universitario La Paz,OTHER,False,academic
+NCT00064454,"Otsuka Pharmaceutical Development & Commercialization, Inc.",INDUSTRY,True,industry
+NCT07665723,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT04828031,Stanford University,OTHER,False,academic
+NCT04996797,"Prometheus Biosciences, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",INDUSTRY,True,industry
+NCT02760615,Takeda,INDUSTRY,True,industry
+NCT05535946,Abivax S.A.,INDUSTRY,True,industry
+NCT06625450,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER,False,research_nonprofit
+NCT01124149,Shire,INDUSTRY,True,industry
+NCT03758443,Theravance Biopharma,INDUSTRY,True,industry
+NCT01287195,Brigham and Women's Hospital,OTHER,False,hospital
+NCT07265570,InSilico Medicine Hong Kong Limited,INDUSTRY,True,industry
+NCT01829321,Lakefront Biotherapeutics NV,INDUSTRY,True,industry
+NCT00449722,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT01290042,Amgen,INDUSTRY,True,industry
+NCT05852587,Brigham and Women's Hospital,OTHER,False,hospital
+NCT00347048,Astellas Pharma Inc,INDUSTRY,True,industry
+NCT00643071,Astellas Pharma Inc,INDUSTRY,True,industry
+NCT06663605,Palisade Bio,INDUSTRY,True,industry
+NCT06754891,"Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",INDUSTRY,True,industry
+NCT04360343,LG Chem,INDUSTRY,True,industry
+NCT00279422,Facet Biotech,INDUSTRY,True,industry
+NCT05030064,Third Military Medical University,OTHER,False,government
+NCT01340872,Shield Therapeutics,INDUSTRY,True,industry
+NCT00810030,Vifor Pharma,INDUSTRY,True,industry
+NCT04458805,Landos Biopharma Inc.,INDUSTRY,True,industry
+NCT05578508,The Cleveland Clinic,OTHER,False,hospital
+NCT06405087,Takeda,INDUSTRY,True,industry
+NCT01418131,The University of Western Australia,OTHER,False,academic
+NCT02573844,Geophyt S.r.l.s.,INDUSTRY,True,industry
+NCT03917095,The Second Hospital of Nanjing Medical University,OTHER,False,academic
+NCT01433471,NYU Langone Health,OTHER,False,hospital
+NCT03162432,Boston Children's Hospital,OTHER,False,hospital
+NCT00237653,"University Hospital, Grenoble",OTHER,False,academic
+NCT05121402,"TLL Pharmaceutical, LLC",INDUSTRY,True,industry
+NCT00820365,4SC AG,INDUSTRY,True,industry
+NCT03829475,Brigham and Women's Hospital,OTHER,False,hospital
+NCT00048347,National Institute of Allergy and Infectious Diseases (NIAID),NIH,False,government
+NCT00259571,Heidelberg University,OTHER,False,academic
+NCT03656627,"Alliance Foundation Trials, LLC.",OTHER,False,research_nonprofit
+NCT04112212,University Medical Center Groningen,OTHER,False,academic
+NCT00355602,University of Dundee,OTHER,False,academic
+NCT00748410,GlaxoSmithKline,INDUSTRY,True,industry
+NCT02465385,University of Virginia,OTHER,False,academic
+NCT07576452,"University Hospital, Clermont-Ferrand",OTHER,False,academic
+NCT07113522,"Mirador Therapeutics, Inc.",INDUSTRY,True,industry
+NCT01771809,Shire,INDUSTRY,True,industry
+NCT04254783,AbbVie,INDUSTRY,True,industry
+NCT04156984,David Drobne,OTHER,False,individual
+NCT03915769,Celgene,INDUSTRY,True,industry
+NCT03283085,Shire,INDUSTRY,True,industry
+NCT04064697,Centre Hospitalier Universitaire de Saint Etienne,OTHER,False,academic
+NCT03804931,Guangzhou First People's Hospital,OTHER,False,hospital
+NCT02277223,"Schneider Children's Medical Center, Israel",OTHER,False,hospital
+NCT02368717,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT00096655,"Centocor, Inc.",INDUSTRY,True,industry
+NCT01678911,Shirley Ryan AbilityLab,OTHER,False,individual
+NCT06583863,Benha University,OTHER,False,academic
+NCT05867329,"Berinstein, Jeffrey",OTHER,False,other
+NCT03950232,Pfizer,INDUSTRY,True,industry
+NCT03370601,"University Hospital, Lille",OTHER,False,academic
+NCT02163759,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT01320436,Sheba Medical Center,OTHER_GOV,False,government
+NCT05644665,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT05291689,"Morphic Therapeutic, Inc. (A Wholly Owned Subsidiary of Eli Lilly and Company)",INDUSTRY,True,industry
+NCT00808977,Palau Pharma S.L.U.,INDUSTRY,True,industry
+NCT05181137,Reistone Biopharma Company Limited,INDUSTRY,True,industry
+NCT02171429,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT07550673,Xijing Hospital of Digestive Diseases,OTHER,False,hospital
+NCT00033943,Incara Pharmaceuticals,INDUSTRY,True,industry
+NCT07071519,AbbVie,INDUSTRY,True,industry
+NCT07335055,"Haisco Pharmaceutical Group Co., Ltd.",INDUSTRY,True,industry
+NCT01453491,"Sirtris, a GSK Company",INDUSTRY,True,industry
+NCT02345733,Prof. Arie Levine,OTHER_GOV,False,government
+NCT05287126,Pfizer,INDUSTRY,True,industry
+NCT01929668,Kyungpook National University Hospital,OTHER,False,academic
+NCT07697456,AbbVie,INDUSTRY,True,industry
+NCT00603733,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT03209232,"Schneider Children's Medical Center, Israel",OTHER,False,hospital
+NCT02289417,Amgen,INDUSTRY,True,industry
+NCT06749795,Liveome Inc.,INDUSTRY,True,industry
+NCT04131322,Fundación Pública Andaluza para la gestión de la Investigación en Sevilla,OTHER,False,research_nonprofit
+NCT00521950,ZonMw: The Netherlands Organisation for Health Research and Development,OTHER,False,hospital
+NCT02962245,Xijing Hospital of Digestive Diseases,OTHER,False,hospital
+NCT07158242,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT02209987,Gilead Sciences,INDUSTRY,True,industry
+NCT07258641,University Medical Center Groningen,OTHER,False,academic
+NCT03519945,Eli Lilly and Company,INDUSTRY,True,industry
+NCT04032652,Endeavor Health,OTHER,False,hospital
+NCT01612039,Telsar Pharma Inc.,INDUSTRY,True,industry
+NCT03679546,Rennes University Hospital,OTHER,False,academic
+NCT00488774,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02903966,GlaxoSmithKline,INDUSTRY,True,industry
+NCT06298461,University of Manitoba,OTHER,False,academic
+NCT00718094,University of Louisville,OTHER,False,academic
+NCT03110198,Xijing Hospital of Digestive Diseases,OTHER,False,hospital
+NCT02985593,"Kyowa Kirin Co., Ltd.",INDUSTRY,True,industry
+NCT04353791,Oncostellae S.L,INDUSTRY,True,industry
+NCT05327790,University of Alberta,OTHER,False,academic
+NCT03006068,AbbVie,INDUSTRY,True,industry
+NCT01294410,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT04583358,Applied Molecular Transport,INDUSTRY,True,industry
+NCT05372939,Applied Molecular Transport,INDUSTRY,True,industry
+NCT04969679,Kangbuk Samsung Hospital,OTHER,False,hospital
+NCT04999228,Children's Hospital of Fudan University,OTHER,False,academic
+NCT05549323,Pfizer,INDUSTRY,True,industry
+NCT01470612,Pfizer,INDUSTRY,True,industry
+NCT01059344,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT07243639,Showa Inan General Hospital,OTHER,False,hospital
+NCT07700446,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,OTHER,False,research_nonprofit
+NCT01562314,GW Research Ltd,INDUSTRY,True,industry
+NCT04804540,Takeda,INDUSTRY,True,industry
+NCT02165215,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT07502339,"University of California, San Francisco",OTHER,False,academic
+NCT06488625,University Hospital Schleswig-Holstein,OTHER,False,academic
+NCT06626165,Showa Inan General Hospital,OTHER,False,hospital
+NCT00092508,"Otsuka Pharmaceutical Development & Commercialization, Inc.",INDUSTRY,True,industry
+NCT07333716,Tanta University,OTHER,False,academic
+NCT01164904,Amgen,INDUSTRY,True,industry
+NCT03182166,Centre Hospitalier Universitaire de Saint Etienne,OTHER,False,academic
+NCT00984568,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT03695185,AbbVie,INDUSTRY,True,industry
+NCT01033305,Sigmoid Pharma,INDUSTRY,True,industry
+NCT04624230,Pfizer,INDUSTRY,True,industry
+NCT06619990,"Xencor, Inc.",INDUSTRY,True,industry
+NCT00502294,Facet Biotech,INDUSTRY,True,industry
+NCT00853099,"AbbVie (prior sponsor, Abbott)",INDUSTRY,True,industry
+NCT05481619,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT05194007,Mohammed Bin Rashid University of Medicine and Health Sciences,OTHER,False,academic
+NCT07389824,Qin Yu,OTHER,False,individual
+NCT02447302,Arena Pharmaceuticals,INDUSTRY,True,industry
+NCT04176588,Everstar Therapeutics Limited,INDUSTRY,True,industry
+NCT01941589,Sheba Medical Center,OTHER_GOV,False,government
+NCT06309472,King's College London,OTHER,False,academic
+NCT04882683,"Shandong Qilu Stem Cells Engineering Co., Ltd.",INDUSTRY,True,industry
+NCT07427017,Northwestern University,OTHER,False,academic
+NCT01045018,"EMET Pharmaceuticals, LLC",INDUSTRY,True,industry
+NCT02910245,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT02808390,PPM Services S.A.,OTHER,True,industry
+NCT06609447,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT03596645,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02493712,"Holy Stone Healthcare Co., Ltd",INDUSTRY,True,industry
+NCT03151525,Istituto Clinico Humanitas,OTHER,False,research_nonprofit
+NCT04543994,The Cleveland Clinic,OTHER,False,hospital
+NCT03816345,National Cancer Institute (NCI),NIH,False,government
+NCT03169894,"Avalo Therapeutics, Inc.",INDUSTRY,True,industry
+NCT00801723,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT04857112,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT01984047,GlaxoSmithKline,INDUSTRY,True,industry
+NCT06614387,JAROSLAW KIERKUS,OTHER,False,other
+NCT01670240,Odense University Hospital,OTHER,False,academic
+NCT00747110,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT01040910,Meir Medical Center,OTHER,False,hospital
+NCT03869905,"Muhammad N Aslam, MD",OTHER,False,other
+NCT06260163,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT01216280,"Natrogen Therapeutics International, Inc",INDUSTRY,True,industry
+NCT00269438,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT02536404,Arena Pharmaceuticals,INDUSTRY,True,industry
+NCT00577473,Warner Chilcott,INDUSTRY,True,industry
+NCT00259545,Heidelberg University,OTHER,False,academic
+NCT04004611,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05076175,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT01640496,University of Chicago,OTHER,False,academic
+NCT00457171,GlaxoSmithKline,INDUSTRY,True,industry
+NCT05731128,Sanofi,INDUSTRY,True,industry
+NCT01465763,Pfizer,INDUSTRY,True,industry
+NCT07149441,Shanghai 10th People's Hospital,OTHER,False,hospital
+NCT03104036,Institute for Clinical and Experimental Medicine,OTHER_GOV,False,government
+NCT05988528,Mostafa Bahaa,OTHER,False,individual
+NCT04469062,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05715099,Minia University,OTHER,False,academic
+NCT05782907,AbbVie,INDUSTRY,True,industry
+NCT01772615,Hvidovre University Hospital,OTHER,False,academic
+NCT03574948,"University Hospital, Ghent",OTHER,False,academic
+NCT02365480,National Cancer Institute (NCI),NIH,False,government
+NCT01393405,"University of North Carolina, Chapel Hill",OTHER,False,academic
+NCT04074590,Novartis Pharmaceuticals,INDUSTRY,True,industry
+NCT07235904,University Hospital Schleswig-Holstein,OTHER,False,academic
+NCT00746447,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT02306798,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT07012395,"Spyre Therapeutics, Inc.",INDUSTRY,True,industry
+NCT03368118,Abivax S.A.,INDUSTRY,True,industry
+NCT06715540,Biocad,INDUSTRY,True,industry
+NCT06290934,Gilead Sciences,INDUSTRY,True,industry
+NCT06052059,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT03290781,Shire,INDUSTRY,True,industry
+NCT04090411,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT01482884,AstraZeneca,INDUSTRY,True,industry
+NCT01037322,Meir Medical Center,OTHER,False,hospital
+NCT01130844,Shire,INDUSTRY,True,industry
+NCT01536535,Connecticut Children's Medical Center,OTHER,False,hospital
+NCT03800420,"Bridge Biotherapeutics, Inc.",INDUSTRY,True,industry
+NCT04209556,Pfizer,INDUSTRY,True,industry
+NCT06254950,Takeda,INDUSTRY,True,industry
+NCT00299013,Alizyme,INDUSTRY,True,industry
+NCT02186886,Kliniken im Naturpark Altmuehltal,OTHER,False,hospital
+NCT07184996,Sanofi,INDUSTRY,True,industry
+NCT05807971,Athos Therapeutics Inc,INDUSTRY,True,industry
+NCT03093259,Abivax S.A.,INDUSTRY,True,industry
+NCT03196427,Takeda,INDUSTRY,True,industry
+NCT07654751,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02954159,Medical College of Wisconsin,OTHER,False,academic
+NCT06663332,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT02129439,Sterna Biologicals GmbH & Co. KG,INDUSTRY,True,industry
+NCT04753775,"Ospedale Sandro Pertini, Roma",OTHER,False,hospital
+NCT07062185,Tang-Du Hospital,OTHER,False,hospital
+NCT01694485,Amgen,INDUSTRY,True,industry
+NCT06758024,Pontificia Universidad Catolica de Chile,OTHER,False,academic
+NCT06993974,Alexandria University,OTHER,False,academic
+NCT05992142,Belgian Inflammatory Bowel Disease Research and Development (BIRD) VZW,OTHER,False,other
+NCT03581149,American University of Beirut Medical Center,OTHER,False,academic
+NCT03235752,I-Mab Biopharma HongKong Limited,INDUSTRY,True,industry
+NCT04309058,Second Affiliated Hospital of Wenzhou Medical University,OTHER,False,academic
+NCT06867094,Sanofi,INDUSTRY,True,industry
+NCT00167882,"Amsterdam UMC, location VUmc",OTHER,False,hospital
+NCT02998112,The Second Hospital of Nanjing Medical University,OTHER,False,academic
+NCT03843385,Andreas Stallmach,OTHER,False,individual
+NCT05092269,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT00065065,James Lewis,OTHER,False,individual
+NCT02913508,Takeda,INDUSTRY,True,industry
+NCT02522780,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT04018599,Fresenius Kabi SwissBioSim GmbH,INDUSTRY,True,industry
+NCT01408810,Grupo de Estudo da Doença Inflamatória Intestinal,OTHER,False,other
+NCT00889161,Seattle Children's Hospital,OTHER,False,hospital
+NCT02665845,Centre Hospitalier Universitaire de Saint Etienne,OTHER,False,academic
+NCT07582458,Radboud University Medical Center,OTHER,False,academic
+NCT00152841,"University Health Network, Toronto",OTHER,False,academic
+NCT00467922,Corewell Health West,OTHER,False,hospital
+NCT05117749,Shiraz University of Medical Sciences,OTHER,False,academic
+NCT05033431,AstraZeneca,INDUSTRY,True,industry
+NCT00063830,"Ionis Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT01666327,Tanabe Pharma Corporation,INDUSTRY,True,industry
+NCT01257386,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT04677179,Nektar Therapeutics,INDUSTRY,True,industry
+NCT01493960,InDex Pharmaceuticals,INDUSTRY,True,industry
+NCT03675477,Reistone Biopharma Company Limited,INDUSTRY,True,industry
+NCT06525974,Tanta University,OTHER,False,academic
+NCT00209300,Ferring Pharmaceuticals,INDUSTRY,True,industry
+NCT05912712,Xijing Hospital of Digestive Diseases,OTHER,False,hospital
+NCT00720538,IRCCS Burlo Garofolo,OTHER,False,other
+NCT05831670,"Kissei Pharmaceutical Co., Ltd.",INDUSTRY,True,industry
+NCT06589986,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT03478956,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT04919252,Yonsei University,OTHER,False,academic
+NCT02306785,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT02142725,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT00790933,Takeda,INDUSTRY,True,industry
+NCT05587673,Stanford University,OTHER,False,academic
+NCT00486031,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT06398808,Zydus Lifesciences Limited,INDUSTRY,True,industry
+NCT02039505,Takeda,INDUSTRY,True,industry
+NCT03059849,McMaster University,OTHER,False,academic
+NCT07229950,"Shandong Suncadia Medicine Co., Ltd.",INDUSTRY,True,industry
+NCT01991314,Queen Mary University of London,OTHER,False,academic
+NCT07577856,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT06975722,Sanofi,INDUSTRY,True,industry
+NCT02818543,Lycera Corp.,INDUSTRY,True,industry
+NCT05156125,Oppilan Pharma Ltd,INDUSTRY,True,industry
+NCT07428096,Palisade Bio,INDUSTRY,True,industry
+NCT04844606,Eli Lilly and Company,INDUSTRY,True,industry
+NCT05753267,Tanta University,OTHER,False,academic
+NCT00713310,Warner Chilcott,INDUSTRY,True,industry
+NCT03980080,OSE Immunotherapeutics,INDUSTRY,True,industry
+NCT01903252,Tillotts Pharma AG,INDUSTRY,True,industry
+NCT02895100,"Protagonist Therapeutics, Inc.",INDUSTRY,True,industry
+NCT06660693,McMaster University,OTHER,False,academic
+NCT05466890,"Palatin Technologies, Inc",INDUSTRY,True,industry
+NCT04979832,Zealand University Hospital,OTHER,False,academic
+NCT02611830,Takeda,INDUSTRY,True,industry
+NCT05672199,Amgen,INDUSTRY,True,industry
+NCT03415711,VSL Pharmaceuticals,INDUSTRY,True,industry
+NCT03341962,Immunic AG,INDUSTRY,True,industry
+NCT03648541,Boehringer Ingelheim,INDUSTRY,True,industry
+NCT04114292,Washington University School of Medicine,OTHER,False,academic
+NCT06095128,Takeda,INDUSTRY,True,industry
+NCT04434872,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT04348890,"ReveraGen BioPharma, Inc.",INDUSTRY,True,industry
+NCT07296315,MRM Health NV,INDUSTRY,True,industry
+NCT04882007,OSE Immunotherapeutics,INDUSTRY,True,industry
+NCT05404074,InDex Pharmaceuticals,INDUSTRY,True,industry
+NCT03943550,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT00963287,Shanghai University of Traditional Chinese Medicine,OTHER,False,academic
+NCT05058417,Sadat City University,OTHER,False,academic
+NCT01988506,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT00349388,Annette Langseder,OTHER,False,individual
+NCT01346826,Asan Medical Center,OTHER,False,hospital
+NCT02435992,Celgene,INDUSTRY,True,industry
+NCT01831427,Gilead Sciences,INDUSTRY,True,industry
+NCT02647866,"Kyowa Kirin, Inc.",INDUSTRY,True,industry
+NCT07692165,"Innatus Therapeutics (Shanghai) Co., Ltd.",INDUSTRY,True,industry
+NCT00036439,"Centocor, Inc.",INDUSTRY,True,industry
+NCT00659802,Hutchison Medipharma Limited,INDUSTRY,True,industry
+NCT06725017,"Guangzhou Zhiyi Biotechnology Co., Ltd.",OTHER,True,industry
+NCT07463183,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT02092285,Merck Sharp & Dohme LLC,INDUSTRY,True,industry
+NCT00572585,Novartis Pharmaceuticals,INDUSTRY,True,industry
+NCT03794765,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER,False,research_nonprofit
+NCT00790478,Emory University,OTHER,False,academic
+NCT04925973,McMaster University,OTHER,False,academic
+NCT07248644,Grupo Espanol de Trabajo en Enfermedad de Crohn y Colitis Ulcerosa,OTHER,False,research_nonprofit
+NCT00498589,Centre Hospitalier Universitaire de Besancon,OTHER,False,academic
+NCT06867042,Jina Pharmaceuticals Inc.,INDUSTRY,True,industry
+NCT03627052,Incyte Corporation,INDUSTRY,True,industry
+NCT06588855,Hoffmann-La Roche,INDUSTRY,True,industry
+NCT00628433,Harbor Therapeutics,INDUSTRY,True,industry
+NCT01959165,AstraZeneca,INDUSTRY,True,industry
+NCT02280629,Dr. Falk Pharma GmbH,INDUSTRY,True,industry
+NCT07196748,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT00317356,"Otsuka Pharmaceutical Co., Ltd.",INDUSTRY,True,industry
+NCT03716388,Dayanand Medical College and Hospital,OTHER,False,academic
+NCT01805791,Hutchison Medipharma Limited,INDUSTRY,True,industry
+NCT01008410,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT00326209,"Bausch Health Americas, Inc.",INDUSTRY,True,industry
+NCT03038711,Bristol-Myers Squibb,INDUSTRY,True,industry
+NCT03998488,Weill Medical College of Cornell University,OTHER,False,academic
+NCT03923478,Assembly Biosciences,INDUSTRY,True,industry
+NCT04277546,AstraZeneca,INDUSTRY,True,industry
+NCT05574387,Tanta University,OTHER,False,academic
+NCT05180175,Region Örebro County,OTHER,False,government
+NCT02335281,Yanling Wei,OTHER,False,individual
+NCT02914535,Alfasigma S.p.A.,INDUSTRY,True,industry
+NCT00463151,"Otsuka Pharmaceutical Co., Ltd.",INDUSTRY,True,industry
+NCT07529236,Centre Hospitalier Universitaire de Nice,OTHER,False,academic
+NCT02683733,"Asian Institute of Gastroenterology, India",OTHER,False,research_nonprofit
+NCT07269223,"University of Veterinary and Animal Sciences, Lahore - Pakistan",OTHER,False,academic
+NCT02517151,Istituto Clinico Humanitas,OTHER,False,research_nonprofit
+NCT06693908,"Genentech, Inc.",INDUSTRY,True,industry
+NCT02618187,"Seres Therapeutics, Inc.",INDUSTRY,True,industry
+NCT01697670,University of Zurich,OTHER,False,academic
+NCT01863771,Janssen Pharmaceutical K.K.,INDUSTRY,True,industry
+NCT04224857,Applied Molecular Transport,INDUSTRY,True,industry
+NCT07185009,Sanofi,INDUSTRY,True,industry
+NCT05507216,Abivax S.A.,INDUSTRY,True,industry
+NCT01971814,"University of California, San Francisco",OTHER,False,academic
+NCT03531892,"EA Pharma Co., Ltd.",INDUSTRY,True,industry
+NCT02579733,Kyungpook National University Hospital,OTHER,False,academic
+NCT00061282,Web,OTHER,False,other
+NCT02267694,UConn Health,OTHER,False,hospital
+NCT01461317,"Genentech, Inc.",INDUSTRY,True,industry
+NCT03662542,"Janssen Research & Development, LLC",INDUSTRY,True,industry
+NCT07232576,"Guangdong Hengrui Pharmaceutical Co., Ltd",INDUSTRY,True,industry
+NCT02452151,Onze Lieve Vrouwe Gasthuis,OTHER,False,other
+NCT05119140,Icahn School of Medicine at Mount Sinai,OTHER,False,academic
+NCT04000139,University of Zurich,OTHER,False,academic
+NCT01020708,"Altheus Therapeutics, Inc.",INDUSTRY,True,industry
+NCT07652294,"Spyre Therapeutics, Inc.",INDUSTRY,True,industry
+NCT01177228,"Millennium Pharmaceuticals, Inc.",INDUSTRY,True,industry
+NCT03948919,University of Minnesota,OTHER,False,academic
+NCT00727324,AM-Pharma,INDUSTRY,True,industry
+NCT01434576,Human Genome Sciences Inc.,INDUSTRY,True,industry
+NCT03996369,Arena Pharmaceuticals,INDUSTRY,True,industry
+NCT05313620,Fundación de Investigación Biomédica - Hospital Universitario de La Princesa,OTHER,False,academic
+NCT02864264,Bristol-Myers Squibb,INDUSTRY,True,industry

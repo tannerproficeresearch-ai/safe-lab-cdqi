@@ -1,0 +1,1557 @@
+nct,lead_sponsor_name,sponsor_class,sponsor_industry,sponsor_category
+NCT01898221,The Methodist Hospital Research Institute,OTHER,False,hospital
+NCT03682887,Yonsei University,OTHER,False,academic
+NCT01583075,University Medical Center Goettingen,OTHER,False,academic
+NCT05805189,Maria Cecilia Hospital,OTHER,False,hospital
+NCT00293943,Atrial Fibrillation Network,OTHER,False,individual
+NCT07575269,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT04740801,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05400928,Tongji Hospital,OTHER,False,hospital
+NCT01703247,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00519194,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07301190,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT01878539,Osakidetza,OTHER,False,other
+NCT04523545,"Galaxy Medical, Inc.",INDUSTRY,True,industry
+NCT00873067,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT00115843,Beth Israel Deaconess Medical Center,OTHER,False,hospital
+NCT01672346,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT07245147,Jacqueline Joza,OTHER,False,individual
+NCT04313296,Crystal Blake-Parlin,OTHER,False,individual
+NCT03501836,Manchester University NHS Foundation Trust,OTHER_GOV,False,government
+NCT05029570,Daniel Rodríguez Muñoz,OTHER,False,individual
+NCT05375877,iATROS GmbH,INDUSTRY,True,industry
+NCT05437549,"Amsterdam UMC, location VUmc",OTHER,False,hospital
+NCT00924638,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02675114,Edwards Lifesciences,INDUSTRY,True,industry
+NCT02232022,Northwell Health,OTHER,False,hospital
+NCT00469638,Abbott Medical Devices,INDUSTRY,True,industry
+NCT04539158,"Dr. Daniel P Morin, MD MPH FHRS",OTHER,False,other
+NCT07705425,"EchoPixel, Inc.",INDUSTRY,True,industry
+NCT01630330,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT05883722,Xu Liu,OTHER,False,individual
+NCT01910779,Maria Vittoria Hospital,OTHER,False,hospital
+NCT02441738,Maastricht University Medical Center,OTHER,False,academic
+NCT04479722,"Shanghai MicroPort Medical (Group) Co., Ltd.",INDUSTRY,True,industry
+NCT05034419,University of Oklahoma,OTHER,False,academic
+NCT06249347,Second Affiliated Hospital of Wenzhou Medical University,OTHER,False,academic
+NCT06719921,Sir Run Run Shaw Hospital,OTHER,False,hospital
+NCT07162597,Shanghai Zhongshan Hospital,OTHER,False,hospital
+NCT02275260,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT02513797,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT01924065,Suleyman Demirel University,OTHER,False,academic
+NCT00740272,Abbott Medical Devices,INDUSTRY,True,industry
+NCT04580953,Ziv HealthCare Ltd.,INDUSTRY,True,industry
+NCT04474054,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02364401,Keimyung University Dongsan Medical Center,OTHER,False,academic
+NCT02789358,Fundación para la Investigación del Hospital Clínico de Valencia,OTHER,False,hospital
+NCT03349476,Vivek Reddy,OTHER,False,individual
+NCT07007000,Chinese University of Hong Kong,OTHER,False,academic
+NCT06627959,Mid and South Essex NHS Foundation Trust,OTHER,False,government
+NCT07499531,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT07601763,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT01411371,Barts & The London NHS Trust,OTHER,False,government
+NCT04545619,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02429648,The Cleveland Clinic,OTHER,False,hospital
+NCT07008066,Uppsala University,OTHER,False,academic
+NCT02414815,Yonsei University,OTHER,False,academic
+NCT00313443,Hopital Lariboisière,OTHER,False,hospital
+NCT03365700,Luigi Sacco University Hospital,OTHER,False,academic
+NCT02817815,"University Hospital, Bordeaux",OTHER,False,academic
+NCT04198701,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT05467163,University Medical Centre Ljubljana,OTHER,False,academic
+NCT06546046,"Mezoo Co., Ltd.",OTHER,True,industry
+NCT00457834,Umeå University,OTHER,False,academic
+NCT05794386,Seoul National University Hospital,OTHER,False,academic
+NCT07714876,Kardium Inc.,INDUSTRY,True,industry
+NCT05476250,Masimo Corporation,INDUSTRY,True,industry
+NCT02571218,Abbott Medical Devices,INDUSTRY,True,industry
+NCT01103674,nContact Surgical Inc.,INDUSTRY,True,industry
+NCT03110627,Unity Health Toronto,OTHER,False,hospital
+NCT05575557,Shanghai 10th People's Hospital,OTHER,False,hospital
+NCT05207150,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT04704986,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT01873352,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02467166,"University of California, San Diego",OTHER,False,academic
+NCT04913207,RenJi Hospital,OTHER,False,hospital
+NCT02270151,UMC Utrecht,OTHER,False,hospital
+NCT02355730,Microvisk Technologies Ltd,INDUSTRY,True,industry
+NCT05472012,Masimo Corporation,INDUSTRY,True,industry
+NCT05153486,Shanghai Chest Hospital,OTHER,False,hospital
+NCT03564327,Centre Hospitalier Universitaire de Nīmes,OTHER,False,academic
+NCT07407790,Sorlandet Hospital HF,OTHER_GOV,False,government
+NCT07349121,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01851525,Southlake Health,OTHER,False,hospital
+NCT03259113,Region Gävleborg,OTHER,False,government
+NCT03242720,Stanford University,OTHER,False,academic
+NCT03199703,Jason Andrade,OTHER,False,individual
+NCT06212674,Medical University of Silesia,OTHER,False,academic
+NCT03115554,Wake Forest University Health Sciences,OTHER,False,academic
+NCT05136131,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT02257112,"Cardialen, Inc.",INDUSTRY,True,industry
+NCT00224757,The Interuniversity Cardiology Institute of the Netherlands,OTHER_GOV,False,government
+NCT04818645,University of Rochester,OTHER,False,academic
+NCT01203241,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT00415558,Maquet Cardiovascular,INDUSTRY,True,industry
+NCT05708027,"Federal Research Clinical Center of Federal Medical & Biological Agency, Russia",OTHER_GOV,False,government
+NCT04829929,Eclipse Medical Ltd.,INDUSTRY,True,industry
+NCT06157437,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT04298177,"Antonio Berruezo, MD, PhD",OTHER,False,other
+NCT06800781,Region Skane,OTHER,False,government
+NCT07424690,Karolinska University Hospital,OTHER,False,academic
+NCT03868150,Stanford University,OTHER,False,academic
+NCT05086861,University Hospital Plymouth NHS Trust,OTHER,False,government
+NCT04664686,Guy's and St Thomas' NHS Foundation Trust,OTHER,False,government
+NCT05758805,Quovadis Associazione,OTHER,False,individual
+NCT02150902,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT03882021,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07122336,Shanghai Chest Hospital,OTHER,False,hospital
+NCT04769310,Tulane University,OTHER,False,academic
+NCT06128174,Vivek Reddy,OTHER,False,individual
+NCT06296888,Jim Hansen,OTHER,False,individual
+NCT06386458,Hangzhou NOYA MedTech Co. Ltm.,INDUSTRY,True,industry
+NCT02779660,Jedrzej Kosiuk,OTHER,False,individual
+NCT04206982,"University Hospital, Bordeaux",OTHER,False,academic
+NCT05316350,Withings,INDUSTRY,True,industry
+NCT01920295,Yuksek Ihtisas Hospital,OTHER,False,hospital
+NCT03274401,Danderyd Hospital,OTHER,False,hospital
+NCT03239262,University Hospital Ostrava,OTHER,False,academic
+NCT02802488,Brugmann University Hospital,OTHER,False,academic
+NCT02959515,Centro Cardiologico Monzino,OTHER,False,individual
+NCT01558128,Weill Medical College of Cornell University,OTHER,False,academic
+NCT01700244,"Nanostim, Inc.",INDUSTRY,True,industry
+NCT06168942,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01645917,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT07332871,Yonsei University,OTHER,False,academic
+NCT04823299,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT06049615,"Conformal Medical, Inc",INDUSTRY,True,industry
+NCT06383975,Sebastien Knecht,OTHER,False,individual
+NCT05355948,Yonsei University,OTHER,False,academic
+NCT06299514,Habib Khan,OTHER,False,individual
+NCT02702063,Medical University of Vienna,OTHER,False,academic
+NCT01952743,Siva Mulpuru,OTHER,False,individual
+NCT01756300,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01116557,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02175043,Yonsei University,OTHER,False,academic
+NCT06019845,Stereotaxis,INDUSTRY,True,industry
+NCT02686749,The Cleveland Clinic,OTHER,False,hospital
+NCT05717725,"Charles University, Czech Republic",OTHER,False,academic
+NCT01088126,Korea University Anam Hospital,OTHER,False,academic
+NCT07153718,Xu Liu,OTHER,False,individual
+NCT02896595,Virginia Commonwealth University,OTHER,False,academic
+NCT01791218,Kuopio University Hospital,OTHER,False,academic
+NCT06029166,"University Hospital, Caen",OTHER,False,academic
+NCT02137798,Technische Universität Dresden,OTHER,False,academic
+NCT07563153,Samsung Medical Center,OTHER,False,hospital
+NCT05224375,"Laminar, Inc.",INDUSTRY,True,industry
+NCT01562912,Newmarket Electrophysiology Research Group Inc,OTHER,False,research_nonprofit
+NCT07590661,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT05845034,The Second Affiliated Hospital of Kunming Medical University,OTHER,False,academic
+NCT03204695,Coherex Medical,INDUSTRY,True,industry
+NCT04632641,Wake Forest University Health Sciences,OTHER,False,academic
+NCT06648837,Microvisk Technologies Ltd,INDUSTRY,True,industry
+NCT04814420,Tulane University,OTHER,False,academic
+NCT02565069,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00321282,Emory University,OTHER,False,academic
+NCT04211441,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT03761394,"University of Massachusetts, Worcester",OTHER,False,academic
+NCT03571789,Javelin Medical,INDUSTRY,True,industry
+NCT01442181,University of Florida,OTHER,False,academic
+NCT01182441,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05065112,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT06220006,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT05883631,Cortex,INDUSTRY,True,industry
+NCT03602742,"Sigknow Biomedical Co., Ltd.",INDUSTRY,True,industry
+NCT05396534,Centro Medico Teknon,OTHER,False,individual
+NCT01586910,Medtronic Cardiovascular,INDUSTRY,True,industry
+NCT06542770,Parc de Salut Mar,OTHER,False,other
+NCT05507749,Seoul National University Hospital,OTHER,False,academic
+NCT04180540,Michael S. Lloyd,OTHER,False,other
+NCT04715425,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT05743322,"Charles University, Czech Republic",OTHER,False,academic
+NCT02041832,Axel Brandes,OTHER,False,individual
+NCT06272981,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00367757,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03917563,Xijing Hospital,OTHER,False,hospital
+NCT05172765,University of Oklahoma,OTHER,False,academic
+NCT05939076,Region Örebro County,OTHER,False,government
+NCT04529785,AZ Sint-Jan AV,OTHER,False,other
+NCT04855890,Universitätsklinikum Köln,OTHER,False,academic
+NCT00562432,"LoneStar Heart, Inc.",INDUSTRY,True,industry
+NCT00566787,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT05872516,Chang Gung Memorial Hospital,OTHER,False,hospital
+NCT07320768,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02204566,Massachusetts General Hospital,OTHER,False,hospital
+NCT02294929,Uppsala University Hospital,OTHER,False,academic
+NCT07042529,Ole De Backer,OTHER,False,individual
+NCT03915691,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT04075500,Alfried Krupp Krankenhaus,OTHER,False,hospital
+NCT05860894,Centre Hospitalier Universitaire de Besancon,OTHER,False,academic
+NCT00844584,Xijing Hospital,OTHER,False,hospital
+NCT00889681,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT01229033,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT00340314,IRCCS San Raffaele,OTHER,False,other
+NCT00187252,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03003975,Uppsala University Hospital,OTHER,False,academic
+NCT06172738,Assiut University,OTHER,False,academic
+NCT02485925,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT03564951,Centre Hospitalier Universitaire de Nīmes,OTHER,False,academic
+NCT01558635,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT03750435,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT07187115,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT06071754,Masimo Corporation,INDUSTRY,True,industry
+NCT02393885,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT05779176,RenJi Hospital,OTHER,False,hospital
+NCT05449158,Shanghai 10th People's Hospital,OTHER,False,hospital
+NCT07483008,Chinese University of Hong Kong,OTHER,False,academic
+NCT05021601,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT03008811,Haukeland University Hospital,OTHER,False,academic
+NCT01760291,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT00528307,R&D Cardiologie,OTHER,False,other
+NCT04681872,"University Hospital, Bordeaux",OTHER,False,academic
+NCT07116525,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT05418725,"University Hospital, Bordeaux",OTHER,False,academic
+NCT06892808,Xu Liu,OTHER,False,individual
+NCT07399379,Hospital Universitario Getafe,OTHER,False,academic
+NCT06167434,"Future Cardia, Inc",INDUSTRY,True,industry
+NCT00848445,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03700385,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03645070,University of Sao Paulo General Hospital,OTHER,False,academic
+NCT00863213,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT01687036,afreeze GmbH,OTHER,True,industry
+NCT07633431,Xi'an Jiaotong University,OTHER,False,academic
+NCT04468321,Yale University,OTHER,False,academic
+NCT02359890,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07039032,"Shanghai MicroPort EP MedTech Co., Ltd.",INDUSTRY,True,industry
+NCT00129545,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02825134,Ole De Backer,OTHER,False,individual
+NCT02808897,Montreal Heart Institute,OTHER,False,research_nonprofit
+NCT00652522,Abbott Medical Devices,INDUSTRY,True,industry
+NCT05466266,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02428140,University of Alberta,OTHER,False,academic
+NCT06700226,Medlumics,INDUSTRY,True,industry
+NCT06096337,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07034378,Asan Medical Center,OTHER,False,hospital
+NCT04897204,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT06445439,Medstar Health Research Institute,OTHER,False,research_nonprofit
+NCT03912324,Yonsei University,OTHER,False,academic
+NCT05045079,Mayo Clinic,OTHER,False,hospital
+NCT02034526,Aarhus University Hospital,OTHER,False,academic
+NCT06747091,Stavros E Mountantonakis,OTHER,False,other
+NCT04942834,Ruijin Hospital,OTHER,False,hospital
+NCT01522911,University of Leipzig,OTHER,False,academic
+NCT03708471,Guangdong Academy of Medical Sciences,OTHER,False,academic
+NCT02588183,"Hospital San Carlos, Madrid",OTHER,False,hospital
+NCT05833373,Krankenhaus Hetzelstift,OTHER,False,hospital
+NCT05944575,Burrell College of Health Sciences,OTHER,False,academic
+NCT06405750,University Hospital Bispebjerg and Frederiksberg,OTHER,False,academic
+NCT00161538,Medtronic BRC,INDUSTRY,True,industry
+NCT00263757,Mayo Clinic,OTHER,False,hospital
+NCT05854238,"Tau-MEDICAL Co., Ltd.",INDUSTRY,True,industry
+NCT04922281,University of Rochester,OTHER,False,academic
+NCT03295422,Sequoia Hospital,OTHER,False,hospital
+NCT02530203,Medtronic BRC,INDUSTRY,True,industry
+NCT03239444,Conavi,INDUSTRY,True,industry
+NCT02298244,Krasnoyarsk Regional Hospital,OTHER,False,hospital
+NCT01420393,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT00741611,C. R. Bard,INDUSTRY,True,industry
+NCT07181590,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03830320,Massachusetts General Hospital,OTHER,False,hospital
+NCT05293639,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02036450,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT05971693,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01223469,Abbott Medical Devices,INDUSTRY,True,industry
+NCT06124690,Robert Bosch Medical Center,OTHER,False,hospital
+NCT05572047,Arga Medtech SA,INDUSTRY,True,industry
+NCT06156644,University Hospital Freiburg,OTHER,False,academic
+NCT03462628,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT05731882,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT01246466,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT04268875,"University Hospital, Clermont-Ferrand",OTHER,False,academic
+NCT03832959,Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,OTHER,False,hospital
+NCT07281521,CardioFocus,INDUSTRY,True,industry
+NCT05444335,"University of Maryland, Baltimore",OTHER,False,academic
+NCT01444573,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT06557876,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT07271238,LUMA Vision Ltd.,INDUSTRY,True,industry
+NCT01686542,The Second Affiliated Hospital of Chongqing Medical University,OTHER,False,academic
+NCT06598280,University of Luebeck,OTHER,False,academic
+NCT04394546,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02701062,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT02784587,"Christopher Connors, MD",OTHER,False,other
+NCT05970120,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT05342220,St. Josefs-Hospital Wiesbaden GmbH,OTHER,False,hospital
+NCT01091597,Johns Hopkins University,OTHER,False,academic
+NCT06931288,Shanghai Jiao Tong University School of Medicine,OTHER,False,academic
+NCT03850327,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT04108884,"University Hospital, Basel, Switzerland",OTHER,False,academic
+NCT00964392,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02329496,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01913522,University of British Columbia,OTHER,False,academic
+NCT02267889,Spectrum Dynamics,INDUSTRY,True,industry
+NCT01058980,Montreal Heart Institute,OTHER,False,research_nonprofit
+NCT02294955,Uppsala University Hospital,OTHER,False,academic
+NCT05316337,Withings,INDUSTRY,True,industry
+NCT00578617,Mayo Clinic,OTHER,False,hospital
+NCT06988202,University of Rochester,OTHER,False,academic
+NCT07414225,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT06938412,Icahn School of Medicine at Mount Sinai,OTHER,False,academic
+NCT04025710,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT04447300,Assiut University,OTHER,False,academic
+NCT01445925,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT07563257,Maxime Zabern,OTHER_GOV,False,government
+NCT02703454,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07547449,"Fu Wai Hospital, Beijing, China",OTHER,False,hospital
+NCT03370536,Vivek Reddy,OTHER,False,individual
+NCT05266235,Withings,INDUSTRY,True,industry
+NCT06355063,"Pulse Biosciences, Inc.",INDUSTRY,True,industry
+NCT02224378,Yonsei University,OTHER,False,academic
+NCT02064114,Universitätsklinikum Hamburg-Eppendorf,OTHER,False,academic
+NCT07645066,Shanghai Tong Ren Hospital,OTHER,False,hospital
+NCT06425614,"University Hospital, Bordeaux",OTHER,False,academic
+NCT00392054,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT06402617,Imperial College London,OTHER,False,academic
+NCT02754349,Onze Lieve Vrouw Hospital,OTHER,False,hospital
+NCT04649801,Heart and Diabetes Center North-Rhine Westfalia,OTHER,False,hospital
+NCT05113056,Acutus Medical,INDUSTRY,True,industry
+NCT02558699,Yonsei University,OTHER,False,academic
+NCT03062046,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT05125159,RenJi Hospital,OTHER,False,hospital
+NCT04529928,Cardiac Dimensions Pty Ltd,INDUSTRY,True,industry
+NCT02006524,UMC Utrecht,OTHER,False,hospital
+NCT06334250,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT07360899,"Institute of Cardiovascular Diseases, Vojvodina",OTHER,False,research_nonprofit
+NCT05426603,Buddhist Tzu Chi General Hospital,OTHER,False,hospital
+NCT02389218,"University Hospital, Ghent",OTHER,False,academic
+NCT04155879,Hillel Yaffe Medical Center,OTHER_GOV,False,government
+NCT04506814,University of Rochester,OTHER,False,academic
+NCT07173673,Yonsei University,OTHER,False,academic
+NCT03907982,Barts & The London NHS Trust,OTHER,False,government
+NCT05552963,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00744874,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02317029,Randers Regional Hospital,OTHER,False,hospital
+NCT07298473,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT04466358,University Medical Centre Ljubljana,OTHER,False,academic
+NCT05940597,"University Hospital, Grenoble",OTHER,False,academic
+NCT03646643,University of Pennsylvania,OTHER,False,academic
+NCT04092621,Our Lady of the Lake Hospital,OTHER,False,hospital
+NCT01683045,"Endoscopic Technologies, Inc",INDUSTRY,True,industry
+NCT04473963,Cortex,INDUSTRY,True,industry
+NCT04344743,Medicover Hospital,OTHER,False,hospital
+NCT04685317,Malini Madhavan,OTHER,False,individual
+NCT05072964,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01456000,CardioFocus,INDUSTRY,True,industry
+NCT07100834,Universitair Ziekenhuis Brussel,OTHER,False,academic
+NCT02274857,Abbott Medical Devices,INDUSTRY,True,industry
+NCT05371366,Shanghai Zhongshan Hospital,OTHER,False,hospital
+NCT02321085,Yonsei University,OTHER,False,academic
+NCT01477983,"Kyoto University, Graduate School of Medicine",OTHER,False,academic
+NCT01526343,Washington University School of Medicine,OTHER,False,academic
+NCT03811938,Imperial College London,OTHER,False,academic
+NCT03441022,Mayo Clinic,OTHER,False,hospital
+NCT07294742,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT01672138,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT07610018,Ivan Zeljkovic,OTHER,False,individual
+NCT00247780,University of Aarhus,OTHER,False,academic
+NCT06633523,Shanghai Chest Hospital,OTHER,False,hospital
+NCT01695824,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT03940066,Fundación EPIC,OTHER,False,research_nonprofit
+NCT01113294,Wuhan University,OTHER,False,academic
+NCT02008448,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT01061931,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT06058468,"St. Joseph's Centre, Poland",OTHER,False,hospital
+NCT02737215,Rodrigo Pinto Pedrosa,OTHER,False,individual
+NCT02028143,Gregory Jones,OTHER,False,individual
+NCT07035288,Tsiachris Dimitrios,OTHER,False,individual
+NCT02392338,Samsung Medical Center,OTHER,False,hospital
+NCT06739512,Shanghai Chest Hospital,OTHER,False,hospital
+NCT06510556,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05992259,Bakulev Scientific Center of Cardiovascular Surgery,OTHER_GOV,False,government
+NCT00524602,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT05905835,Synaptic Medical Corporation,INDUSTRY,True,industry
+NCT07087587,The Cleveland Clinic,OTHER,False,hospital
+NCT04182620,Vivek Reddy,OTHER,False,individual
+NCT03827915,American University of Beirut Medical Center,OTHER,False,academic
+NCT03453853,"Tau-MEDICAL Co., Ltd.",INDUSTRY,True,industry
+NCT06144632,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT03064451,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07281898,Zhibing Lu,OTHER,False,individual
+NCT03643224,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT05006105,Ziekenhuis Oost-Limburg,OTHER,False,individual
+NCT02529319,Tulane University School of Medicine,OTHER,False,academic
+NCT00292383,Medtronic BRC,INDUSTRY,True,industry
+NCT07424326,"Charles University, Czech Republic",OTHER,False,academic
+NCT02424110,Xinqiao Hospital of Chongqing,OTHER,False,hospital
+NCT03716934,"Hospital San Carlos, Madrid",OTHER,False,hospital
+NCT04180605,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07414121,Asklepios proresearch,INDUSTRY,True,industry
+NCT04269785,Karan Saraf,OTHER,False,individual
+NCT03437733,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02937025,Ya-Wei Xu,OTHER,False,individual
+NCT03975725,Assistance Publique Hopitaux De Marseille,OTHER,False,government
+NCT03127423,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT05239364,Evangelical Hospital Düsseldorf,OTHER,False,hospital
+NCT02814136,Mosaic Life Care,OTHER,False,individual
+NCT07385417,Cardioangiologisches Centrum Bethanien,OTHER,False,individual
+NCT03263702,Vivek Reddy,OTHER,False,individual
+NCT02553239,afreeze GmbH,OTHER,True,industry
+NCT05539040,Imperial College London,OTHER,False,academic
+NCT05316753,University National Heart Hospital,OTHER,False,government
+NCT05931835,LUMA Vision Ltd.,INDUSTRY,True,industry
+NCT00926783,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02681042,Baylor Research Institute,OTHER,False,research_nonprofit
+NCT00224341,Vitatron France,INDUSTRY,True,industry
+NCT06618417,Herlev and Gentofte Hospital,OTHER,False,hospital
+NCT02106663,"University of California, San Diego",OTHER,False,academic
+NCT04896424,Pomeranian Medical University Szczecin,OTHER,False,academic
+NCT02998866,Baylor Research Institute,OTHER,False,research_nonprofit
+NCT07210151,LUMA Vision Ltd.,INDUSTRY,True,industry
+NCT03056222,I-Med-Pro GmbH,OTHER,True,industry
+NCT00239226,Medtronic BRC,INDUSTRY,True,industry
+NCT03355456,Ohad Ziv,OTHER,False,individual
+NCT03122028,"Lifetech Scientific (Shenzhen) Co., Ltd.",INDUSTRY,True,industry
+NCT02979847,Korea University Anam Hospital,OTHER,False,academic
+NCT05445726,"Analog Device, Inc.",OTHER,True,industry
+NCT06053606,Wroclaw Medical University,OTHER,False,academic
+NCT01219621,Sorin Group Canada,INDUSTRY,True,industry
+NCT02954380,University of Florida,OTHER,False,academic
+NCT07018596,"Pulse Biosciences, Inc.",INDUSTRY,True,industry
+NCT06099106,Endomatic Ltd.,INDUSTRY,True,industry
+NCT01486316,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT01265758,"National Institute of Cardiology, Warsaw, Poland",OTHER,False,government
+NCT02059369,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT05311098,Shanghai 10th People's Hospital,OTHER,False,hospital
+NCT06676072,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02491255,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05856461,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02105584,Occlutech International AB,INDUSTRY,True,industry
+NCT06560047,Aalborg University Hospital,OTHER,False,academic
+NCT02617069,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT07461935,Cairdac SA,OTHER,True,industry
+NCT02503280,Joshua M Hare,OTHER,False,other
+NCT07684053,Medical University Innsbruck,OTHER,False,academic
+NCT00512915,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07064616,Kitasato University,OTHER,False,academic
+NCT02854319,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02107027,Association de Recherche pour le Traitement des Arythmies Cardiaques,OTHER,False,research_nonprofit
+NCT06282380,Qompium NV,INDUSTRY,True,industry
+NCT04239534,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT02002923,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02654353,Johannes Gutenberg University Mainz,OTHER,False,academic
+NCT02451995,Imperial College London,OTHER,False,academic
+NCT07390175,"Hospital San Carlos, Madrid",OTHER,False,hospital
+NCT02246803,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT05549544,"Fu Wai Hospital, Beijing, China",OTHER,False,hospital
+NCT06580275,"Conformal Medical, Inc",INDUSTRY,True,industry
+NCT02261766,Herlev Hospital,OTHER,False,hospital
+NCT06152406,"University Hospitals, Leicester",OTHER,False,academic
+NCT03714178,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01635998,Vivek Reddy,OTHER,False,individual
+NCT06930599,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT00133211,Danish Heart Foundation,OTHER,False,research_nonprofit
+NCT05116384,University of Rochester,OTHER,False,academic
+NCT07523620,Abbott Medical Devices,INDUSTRY,True,industry
+NCT05780996,Medical University of Warsaw,OTHER,False,academic
+NCT03492554,Apple Inc.,INDUSTRY,True,industry
+NCT00861133,Transoma Medical,INDUSTRY,True,industry
+NCT01118299,Abbott Medical Devices,INDUSTRY,True,industry
+NCT04600245,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT06539819,Zhujiang Hospital,OTHER,False,hospital
+NCT06181578,Ning Zhou,OTHER,False,individual
+NCT02547168,McMaster University,OTHER,False,academic
+NCT00296166,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT02487654,Imperial College London,OTHER,False,academic
+NCT01583855,University of Leicester,OTHER,False,academic
+NCT01095952,Medtronic BRC,INDUSTRY,True,industry
+NCT04118270,"University of Massachusetts, Worcester",OTHER,False,academic
+NCT06962176,AZ Sint-Jan AV,OTHER,False,other
+NCT04942171,Yonsei University,OTHER,False,academic
+NCT02821351,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT02514876,Conavi,INDUSTRY,True,industry
+NCT04061603,Adagio Medical,INDUSTRY,True,industry
+NCT07130773,Cardiocentro Ticino,OTHER,False,individual
+NCT06721221,Semmelweis University,OTHER,False,academic
+NCT01897545,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT03920891,Yonsei University,OTHER,False,academic
+NCT01924377,Maria Cecilia Hospital,OTHER,False,hospital
+NCT04403412,Ruiqin xie,OTHER,False,other
+NCT02474108,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00116428,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01319747,Medisch Spectrum Twente,OTHER,False,individual
+NCT00272636,University of Michigan,OTHER,False,academic
+NCT07610980,Motol and Homolka University Hospital,OTHER,False,academic
+NCT05196412,PulseOn Oy,INDUSTRY,True,industry
+NCT06123130,"HeartBeam, Inc.",INDUSTRY,True,industry
+NCT07095959,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT06728826,Changhai Hospital,OTHER,False,hospital
+NCT02878213,"EPD Solutions, A Philips Company",INDUSTRY,True,industry
+NCT01176617,University of Pennsylvania,OTHER,False,academic
+NCT03539354,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT03526471,Vascular Innovations Co. Ltd.,INDUSTRY,True,industry
+NCT00267137,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT03735667,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01661205,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT06871228,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT02341105,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT02401451,Cardiocity Limited,INDUSTRY,True,industry
+NCT05573633,"Centre Hospitalier Universitaire, Amiens",OTHER,False,academic
+NCT02506621,Eastbourne General Hospital,OTHER,False,hospital
+NCT06845085,Aarhus University Hospital,OTHER,False,academic
+NCT04429646,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT02031705,Yong Seog Oh,OTHER,False,individual
+NCT06106594,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02246790,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02758002,"University of California, San Diego",OTHER,False,academic
+NCT06876896,Wake Forest University Health Sciences,OTHER,False,academic
+NCT02885883,Assistance Publique Hopitaux De Marseille,OTHER,False,government
+NCT03114124,University of Florida,OTHER,False,academic
+NCT03564925,The Second Affiliated Hospital of Chongqing Medical University,OTHER,False,academic
+NCT01824394,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00826826,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT00769938,R&D Cardiologie,OTHER,False,other
+NCT07227532,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06751459,"HUINNO Co., Ltd",INDUSTRY,True,industry
+NCT00032591,US Department of Veterans Affairs,FED,False,government
+NCT07027969,Ali Aminian,OTHER,False,individual
+NCT04011800,"Charles University, Czech Republic",OTHER,False,academic
+NCT00345592,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05324371,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01593150,Odense University Hospital,OTHER,False,academic
+NCT05633797,Jessa Hospital,OTHER,False,hospital
+NCT01900678,"VytronUS, Inc.",INDUSTRY,True,industry
+NCT05987670,Imperial College London,OTHER,False,academic
+NCT04983797,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00369330,Atrial Fibrillation Network,OTHER,False,individual
+NCT06615596,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT03088072,Scripps Health,OTHER,False,hospital
+NCT02564302,Newmarket Electrophysiology Research Group Inc,OTHER,False,research_nonprofit
+NCT04391504,Ruiqin xie,OTHER,False,other
+NCT00392613,University Medical Center Groningen,OTHER,False,academic
+NCT00785902,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT06575348,"University of Wisconsin, Madison",OTHER,False,academic
+NCT04111731,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT03732794,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT01834872,Instituto de Investigación Sanitaria Gregorio Marañón,OTHER,False,research_nonprofit
+NCT02923414,University of Aarhus,OTHER,False,academic
+NCT03723070,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03805555,"University Hospital, Gentofte, Copenhagen",OTHER,False,academic
+NCT03332862,Institute for Clinical and Experimental Medicine,OTHER_GOV,False,government
+NCT06823778,Vasily I. Kaleda,OTHER,False,other
+NCT05144503,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT02238392,Johannes Gutenberg University Mainz,OTHER,False,academic
+NCT02665442,"Northeast Scientific, Inc.",INDUSTRY,True,industry
+NCT04563572,"University Hospital, Basel, Switzerland",OTHER,False,academic
+NCT05081310,University of Zagreb,OTHER,False,academic
+NCT04612244,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02204267,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT02169037,"University of California, San Diego",OTHER,False,academic
+NCT03334630,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT07197931,Yonsei University,OTHER,False,academic
+NCT00863382,"Dhanunjaya Lakkireddy, MD, FACC",OTHER,False,other
+NCT00886080,Maastricht University Medical Center,OTHER,False,academic
+NCT02984371,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT01363895,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT00821353,"National Institute of Cardiology, Warsaw, Poland",OTHER,False,government
+NCT04056390,Cardioangiologisches Centrum Bethanien,OTHER,False,individual
+NCT05963698,Hamilton Health Sciences Corporation,OTHER,True,industry
+NCT02471131,Maastricht University Medical Center,OTHER,False,academic
+NCT03720639,Sparrow Clinical Research Institute,OTHER,False,research_nonprofit
+NCT05153291,University of Vermont,OTHER,False,academic
+NCT04652778,"Galaxy Medical, Inc.",INDUSTRY,True,industry
+NCT03724318,Helena DOMINGUEZ,OTHER,False,other
+NCT02583178,Aegis Medical Innovations,INDUSTRY,True,industry
+NCT06061978,"University Hospital, Rouen",OTHER,False,academic
+NCT00589303,Mayo Clinic,OTHER,False,hospital
+NCT05217485,Cambridge University Hospitals NHS Foundation Trust,OTHER,False,government
+NCT06199180,University Medical Center Groningen,OTHER,False,academic
+NCT05514860,University of British Columbia,OTHER,False,academic
+NCT03166969,Versailles Hospital,OTHER,False,hospital
+NCT00268320,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT05055921,"Cardialen, Inc.",INDUSTRY,True,industry
+NCT07079813,"Shanghai MicroPort EP MedTech Co., Ltd.",INDUSTRY,True,industry
+NCT01013688,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT00721149,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01814111,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT02948140,Hopital Foch,OTHER,False,hospital
+NCT05567172,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07560891,Yonsei University,OTHER,False,academic
+NCT06748157,Icahn School of Medicine at Mount Sinai,OTHER,False,academic
+NCT03461094,Poitiers University Hospital,OTHER,False,academic
+NCT05534581,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT07012460,Chinese University of Hong Kong,OTHER,False,academic
+NCT06740539,Shanghai Chest Hospital,OTHER,False,hospital
+NCT06263608,"University Hospital, Antwerp",OTHER,False,academic
+NCT02611869,G.Gennimatas General Hospital,OTHER,False,hospital
+NCT03242941,Medtronic BRC,INDUSTRY,True,industry
+NCT00157807,Medtronic Cardiac Surgery,INDUSTRY,True,industry
+NCT03463317,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT04939584,"Cardialen, Inc.",INDUSTRY,True,industry
+NCT05618340,"Shanghai Shangyang Medical Technology Co., Ltd.",INDUSTRY,True,industry
+NCT06458907,P+F Products + Features USA Inc.,INDUSTRY,True,industry
+NCT04327596,University of Rochester,OTHER,False,academic
+NCT02171364,Yonsei University,OTHER,False,academic
+NCT00247533,Far Eastern Memorial Hospital,OTHER,False,hospital
+NCT03190395,Zhujiang Hospital,OTHER,False,hospital
+NCT07191626,Changhai Hospital,OTHER,False,hospital
+NCT03343860,AZ Sint-Jan AV,OTHER,False,other
+NCT01656772,Stereotaxis,INDUSTRY,True,industry
+NCT00338715,London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's,OTHER,False,research_nonprofit
+NCT06527105,Amrita Institute of Medical Sciences & Research Center,OTHER,False,research_nonprofit
+NCT07523750,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06039722,"Shenzhen Pulsecare Medical Technology Co., Ltd.",INDUSTRY,True,industry
+NCT03819946,"St. George's Hospital, London",OTHER,False,hospital
+NCT06866704,lingzhiyu,OTHER,False,other
+NCT01229475,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT06505798,"University College, London",OTHER,False,academic
+NCT00180336,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01254474,"University Hospital, Bordeaux",OTHER,False,academic
+NCT07649603,University of Rochester,OTHER,False,academic
+NCT01581437,Virginia Commonwealth University,OTHER,False,academic
+NCT06829446,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02354989,Azienda Ospedaliera Cardinale G. Panico,OTHER,False,other
+NCT06842147,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT05827172,Shanghai Chest Hospital,OTHER,False,hospital
+NCT06837441,Shanghai Chest Hospital,OTHER,False,hospital
+NCT03964025,Institut de Recherches Internationales Servier,OTHER,False,research_nonprofit
+NCT03448562,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT00846924,Sunnybrook Health Sciences Centre,OTHER,False,hospital
+NCT04632680,Barts & The London NHS Trust,OTHER,False,government
+NCT04898361,"University Hospital, Saarland",OTHER,False,academic
+NCT00940056,Region Örebro County,OTHER,False,government
+NCT02914860,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT06521463,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT04264117,Yonsei University,OTHER,False,academic
+NCT02039167,University of Magdeburg,OTHER,False,academic
+NCT03616028,"Conformal Medical, Inc",INDUSTRY,True,industry
+NCT01891825,Neil Sulke,OTHER,False,individual
+NCT07362134,"Taipei Veterans General Hospital, Taiwan",OTHER_GOV,False,government
+NCT06322017,Nantes University Hospital,OTHER,False,academic
+NCT04206917,"Cardialen, Inc.",INDUSTRY,True,industry
+NCT03446222,"The University of Texas Health Science Center, Houston",OTHER,False,academic
+NCT02702271,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07446244,University Medical Centre Ljubljana,OTHER,False,academic
+NCT01680757,"University of California, San Francisco",OTHER,False,academic
+NCT06791629,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT05298553,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT04293757,University of Zagreb,OTHER,False,academic
+NCT01196897,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT06392932,Cedars-Sinai Medical Center,OTHER,False,hospital
+NCT01336075,Aalborg University Hospital,OTHER,False,academic
+NCT03091972,Korea University Anam Hospital,OTHER,False,academic
+NCT07604727,University Medical Center Groningen,OTHER,False,academic
+NCT00000556,"National Heart, Lung, and Blood Institute (NHLBI)",NIH,False,government
+NCT04497376,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT06099730,Massachusetts General Hospital,OTHER,False,hospital
+NCT05922917,České Budějovice Hospital,OTHER,False,hospital
+NCT03998956,The Third Xiangya Hospital of Central South University,OTHER,False,academic
+NCT00157820,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT06578793,Second Xiangya Hospital of Central South University,OTHER,False,academic
+NCT04050982,Stanford University,OTHER,False,academic
+NCT05656170,Rush University Medical Center,OTHER,False,academic
+NCT02721121,Yonsei University,OTHER,False,academic
+NCT06078735,Kansas City Heart Rhythm Research Foundation,OTHER,False,research_nonprofit
+NCT04657835,Centre Hospitalier Universitaire de Saint Etienne,OTHER,False,academic
+NCT07188129,"Zywie, Inc.",INDUSTRY,True,industry
+NCT02463851,L.V.A. Boersma,OTHER,False,other
+NCT03367325,Fundacio d'Investigacio en Atencio Primaria Jordi Gol i Gurina,OTHER,False,other
+NCT00908700,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT06935591,Vektor Medical,INDUSTRY,True,industry
+NCT07450755,Asklepios proresearch,INDUSTRY,True,industry
+NCT04493437,Aalborg University,OTHER,False,academic
+NCT06344494,"ICE Intelligent Healthcare Co., Ltd",INDUSTRY,True,industry
+NCT05550792,"National Medical Research Center for Cardiology, Ministry of Health of Russian Federation",OTHER_GOV,False,government
+NCT02793895,Unity Health Toronto,OTHER,False,hospital
+NCT06784466,Arga Medtech SA,INDUSTRY,True,industry
+NCT00851578,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03920917,Yonsei University,OTHER,False,academic
+NCT01863472,Boris Schmidt,OTHER,False,individual
+NCT01260220,London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's,OTHER,False,research_nonprofit
+NCT06765356,Vivek Reddy,OTHER,False,individual
+NCT01907828,Abbott Medical Devices,INDUSTRY,True,industry
+NCT01503268,Eastbourne General Hospital,OTHER,False,hospital
+NCT02533843,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT01504451,Neil Sulke,OTHER,False,individual
+NCT03642509,University of Aarhus,OTHER,False,academic
+NCT03481023,Riverside Medical Center,OTHER,False,hospital
+NCT07445360,Shenyang Northern Hospital,OTHER,False,hospital
+NCT06959121,"Pulse Biosciences, Inc.",INDUSTRY,True,industry
+NCT02011256,University of Southern Denmark,OTHER,False,academic
+NCT04310046,University of Zurich,OTHER,False,academic
+NCT00379301,University of Pennsylvania,OTHER,False,academic
+NCT06828939,CardioFocus,INDUSTRY,True,industry
+NCT06125925,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT06647485,VZW Cardiovascular Research Center Aalst,OTHER,False,research_nonprofit
+NCT05459831,Semmelweis University,OTHER,False,academic
+NCT04190186,University of Rochester,OTHER,False,academic
+NCT05085912,Shanghai Chest Hospital,OTHER,False,hospital
+NCT05214170,"NeuTrace, Inc.",INDUSTRY,True,industry
+NCT02451254,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT04428944,McGill University Health Centre/Research Institute of the McGill University Health Centre,OTHER,False,academic
+NCT03989726,Keimyung University Dongsan Medical Center,OTHER,False,academic
+NCT01362738,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT00744835,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02217254,"University of California, San Francisco",OTHER,False,academic
+NCT03706677,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT00671905,"Cardiovascular Research Society, Greece",OTHER,False,research_nonprofit
+NCT01920412,"Lifetech Scientific (Shenzhen) Co., Ltd.",INDUSTRY,True,industry
+NCT06701292,"The University of Texas Health Science Center, Houston",OTHER,False,academic
+NCT06589700,Luciano A. Sposato,OTHER,False,other
+NCT03816033,"St. George's Hospital, London",OTHER,False,hospital
+NCT07621003,Asklepios proresearch,INDUSTRY,True,industry
+NCT00587899,Mayo Clinic,OTHER,False,hospital
+NCT07220525,"University of California, San Francisco",OTHER,False,academic
+NCT04904354,Acutus Medical,INDUSTRY,True,industry
+NCT03443232,The Second Hospital of Hebei Medical University,OTHER,False,academic
+NCT01407588,Norwegian University of Science and Technology,OTHER,False,academic
+NCT00734058,"EndoPhotonix, Inc.",INDUSTRY,True,industry
+NCT07272902,Nova Scotia Health Authority,OTHER,False,government
+NCT04726943,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT04659213,S4 Medical,INDUSTRY,True,industry
+NCT04633265,Barts & The London NHS Trust,OTHER,False,government
+NCT03650556,Abbott Medical Devices,INDUSTRY,True,industry
+NCT05171985,Tanta University,OTHER,False,academic
+NCT02783898,NHS Lothian,OTHER_GOV,False,government
+NCT06098989,Haukeland University Hospital,OTHER,False,academic
+NCT00971204,CardioFocus,INDUSTRY,True,industry
+NCT04645615,Medtronic Cardiovascular,INDUSTRY,True,industry
+NCT07047235,Barts & The London NHS Trust,OTHER,False,government
+NCT02700945,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT05717504,London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's,OTHER,False,research_nonprofit
+NCT06722651,Shanghai Golden Leaf MedTec Co. Ltd,INDUSTRY,True,industry
+NCT07421076,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02504567,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT03044925,Ruijin Hospital,OTHER,False,hospital
+NCT06351761,Withings,INDUSTRY,True,industry
+NCT05125042,Shanghai Chest Hospital,OTHER,False,hospital
+NCT05794464,University Hospital Ostrava,OTHER,False,academic
+NCT07173777,Boston Medical Center,OTHER,False,hospital
+NCT02830152,Karolinska Institutet,OTHER,False,academic
+NCT06200311,University Medical Center Groningen,OTHER,False,academic
+NCT07036068,"Shanghai MicroPort EP MedTech Co., Ltd.",INDUSTRY,True,industry
+NCT03777631,Nippon Medical School,OTHER,False,academic
+NCT07428564,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07444372,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT03198858,Universitätsklinikum Hamburg-Eppendorf,OTHER,False,academic
+NCT01570361,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02186314,Instituto Dante Pazzanese de Cardiologia,OTHER,False,research_nonprofit
+NCT05992623,Inova Health Care Services,OTHER,False,hospital
+NCT01521988,"University Hospital, Rouen",OTHER,False,academic
+NCT04193826,"Conformal Medical, Inc",INDUSTRY,True,industry
+NCT04210622,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT01298986,Inova Health Care Services,OTHER,False,hospital
+NCT02101541,Oslo University Hospital,OTHER,False,academic
+NCT05093868,Corewell Health East,OTHER,False,hospital
+NCT01696136,L.V.A. Boersma,OTHER,False,other
+NCT02310100,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02064764,Medtronic Vascular,INDUSTRY,True,industry
+NCT04298723,Jena University Hospital,OTHER,False,academic
+NCT07527299,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07059208,Sunshine Coast Hospital and Health Service,OTHER,False,hospital
+NCT01391091,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT02459574,Imperial College London,OTHER,False,academic
+NCT06516822,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT06654401,"Saint Petersburg State University, Russia",OTHER,False,academic
+NCT05893199,Universidad Miguel Hernandez de Elche,OTHER,False,academic
+NCT04923009,Centre of Postgraduate Medical Education,OTHER,False,hospital
+NCT01965899,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT01276093,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07560644,Martín Negreira Caamaño,OTHER,False,individual
+NCT00356057,"Biotronik, Inc.",INDUSTRY,True,industry
+NCT02248753,Maastricht University Medical Center,OTHER,False,academic
+NCT03351816,Centre Hospitalier Universitaire de Besancon,OTHER,False,academic
+NCT03033134,Boston Scientific Japan K.K.,INDUSTRY,True,industry
+NCT05442203,Tempus AI,INDUSTRY,True,industry
+NCT05016791,Barts & The London NHS Trust,OTHER,False,government
+NCT04701112,Region Skane,OTHER,False,government
+NCT01952925,Oregon Health and Science University,OTHER,False,academic
+NCT03932604,Samsung Medical Center,OTHER,False,hospital
+NCT06358391,Starmed,INDUSTRY,True,industry
+NCT07587541,University of Luebeck,OTHER,False,academic
+NCT02008461,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00408200,University of Pennsylvania,OTHER,False,academic
+NCT01803438,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT02731326,Columbia University,OTHER,False,academic
+NCT00678340,Pier Lambiase,OTHER,False,individual
+NCT02817776,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07612683,Monash University,OTHER,False,academic
+NCT07429214,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00703157,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02028130,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT05045131,René Husted Worck,OTHER,False,individual
+NCT03593486,University of Oklahoma,OTHER,False,academic
+NCT03919786,Han Yuan,OTHER,False,individual
+NCT05357690,Mayo Clinic,OTHER,False,hospital
+NCT00911508,Mayo Clinic,OTHER,False,hospital
+NCT02755688,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT01981590,Medtronic BRC,INDUSTRY,True,industry
+NCT01185613,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02307188,Angelo Biviano,OTHER,False,individual
+NCT05496088,Asklepios proresearch,INDUSTRY,True,industry
+NCT04148664,"University of California, San Francisco",OTHER,False,academic
+NCT02924181,Seoul National University Hospital,OTHER,False,academic
+NCT05120193,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT03164395,University of Kentucky,OTHER,False,academic
+NCT05323786,Qianfoshan Hospital,OTHER,False,hospital
+NCT05367037,Quovadis Associazione,OTHER,False,individual
+NCT04602169,AZ Sint-Jan AV,OTHER,False,other
+NCT01032317,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02115100,Diagram B.V.,OTHER,True,industry
+NCT00932425,"University of California, San Francisco",OTHER,False,academic
+NCT00477230,CardioFocus,INDUSTRY,True,industry
+NCT06438692,Qianfoshan Hospital,OTHER,False,hospital
+NCT01891058,Ottawa Hospital Research Institute,OTHER,False,hospital
+NCT04514757,"University of California, Los Angeles",OTHER,False,academic
+NCT03816410,University of Giessen,OTHER,False,academic
+NCT04857268,Seoul National University Bundang Hospital,OTHER,False,academic
+NCT04512586,Region Skane,OTHER,False,government
+NCT02192957,David Birnie,OTHER,False,individual
+NCT07453407,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT01371279,Centre of Postgraduate Medical Education,OTHER,False,hospital
+NCT01570530,Fundación General Universidad de Valladolid,OTHER,False,research_nonprofit
+NCT05468528,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT02002988,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT01710150,University of Pennsylvania,OTHER,False,academic
+NCT02743520,University of Miami,OTHER,False,academic
+NCT02879448,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02269774,University of Zurich,OTHER,False,academic
+NCT07236619,Erasmus Medical Center,OTHER,False,hospital
+NCT07266935,Taiz University - Faculty of Medicine,OTHER,False,academic
+NCT02217657,LMU Klinikum,OTHER,False,hospital
+NCT03700307,The Second Hospital of Hebei Medical University,OTHER,False,academic
+NCT07278869,Append Medical Ltd.,INDUSTRY,True,industry
+NCT07452211,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT00729911,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT00650728,Luzerner Kantonsspital,OTHER,False,individual
+NCT04683692,Mayo Clinic,OTHER,False,hospital
+NCT06707688,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03040661,Inova Health Care Services,OTHER,False,hospital
+NCT05723536,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT02799043,Abbott Medical Devices,INDUSTRY,True,industry
+NCT00745706,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT02696265,Diagram B.V.,OTHER,True,industry
+NCT01439386,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT03810820,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT00419640,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02507986,Leiden University,OTHER,False,academic
+NCT04662489,Fundacion para la Innovacion en Biomedicina (FIBMED),OTHER,False,research_nonprofit
+NCT02523534,Northwestern University,OTHER,False,academic
+NCT07018648,KARDI AI Technologies s.r.o.,INDUSTRY,True,industry
+NCT01038115,Barts & The London NHS Trust,OTHER,False,government
+NCT02639793,Heikki Huikuri,OTHER,False,individual
+NCT06166524,"Charles University, Czech Republic",OTHER,False,academic
+NCT00560885,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT06188247,Herlev and Gentofte Hospital,OTHER,False,hospital
+NCT07621432,Second Affiliated Hospital of Nanchang University,OTHER,False,academic
+NCT02392754,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT02438176,Yonsei University,OTHER,False,academic
+NCT01959997,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT05986526,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT03515083,Saint Luke's Health System,OTHER,False,hospital
+NCT04684290,St. Antonius Hospital,OTHER,False,hospital
+NCT05431972,Asan Medical Center,OTHER,False,hospital
+NCT04337567,Vivantes Netzwerk für Gesundheit GmbH,OTHER,True,industry
+NCT05443594,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT00697359,Odense University Hospital,OTHER,False,academic
+NCT00231296,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01798277,Newmarket Electrophysiology Research Group Inc,OTHER,False,research_nonprofit
+NCT05809596,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT00787800,Mayo Clinic,OTHER,False,hospital
+NCT00789139,Dr Ange FERRACCI,OTHER,False,other
+NCT05333952,"Taipei Veterans General Hospital, Taiwan",OTHER_GOV,False,government
+NCT06014996,"Insight Medtech Co., Ltd.",INDUSTRY,True,industry
+NCT06657170,Centro Medico Teknon,OTHER,False,individual
+NCT01925885,Indiana University,OTHER,False,academic
+NCT03546374,Medtronic Cardiac Surgery,INDUSTRY,True,industry
+NCT00246805,Medtronic BRC,INDUSTRY,True,industry
+NCT02986282,Medical University of Warsaw,OTHER,False,academic
+NCT07271615,Xijing Hospital,OTHER,False,hospital
+NCT02506244,Scripps Translational Science Institute,OTHER,False,research_nonprofit
+NCT04773119,AZ Sint-Jan AV,OTHER,False,other
+NCT01687166,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02521896,Kalila Medical,INDUSTRY,True,industry
+NCT04577859,"Advanced Cooling Therapy LLC, d/b/a Attune Medical",INDUSTRY,True,industry
+NCT05842499,Hospital Universitario 12 de Octubre,OTHER,False,academic
+NCT02925624,AZ Sint-Jan AV,OTHER,False,other
+NCT03478410,Sheba Medical Center,OTHER_GOV,False,government
+NCT06620705,srdpiers,OTHER,False,other
+NCT03811639,Centre of Postgraduate Medical Education,OTHER,False,hospital
+NCT00773539,Herz-Zentrums Bad Krozingen,OTHER,False,individual
+NCT02814851,Brugmann University Hospital,OTHER,False,academic
+NCT01103661,nContact Surgical Inc.,INDUSTRY,True,industry
+NCT00584415,University of Oklahoma,OTHER,False,academic
+NCT01206452,"Dhanunjaya Lakkireddy, MD, FACC",OTHER,False,other
+NCT03817372,University of Aarhus,OTHER,False,academic
+NCT05563142,University of Luebeck,OTHER,False,academic
+NCT07320560,German Heart Institute,OTHER,False,research_nonprofit
+NCT00903370,Annetine Gelijns,OTHER,False,individual
+NCT06164808,HelpWear Inc.,INDUSTRY,True,industry
+NCT04489004,Shanghai Chest Hospital,OTHER,False,hospital
+NCT07067372,"Shanghai MicroPort EP MedTech Co., Ltd.",INDUSTRY,True,industry
+NCT01209260,"University of California, San Francisco",OTHER,False,academic
+NCT06989580,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT03639597,"VytronUS, Inc.",INDUSTRY,True,industry
+NCT05362656,Volta Medical,INDUSTRY,True,industry
+NCT04486924,Kardium Inc.,INDUSTRY,True,industry
+NCT06903845,Dong-Ju Choi,OTHER,False,individual
+NCT07572253,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT05351775,University of Turku,OTHER,False,academic
+NCT02047279,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT04402931,Instituto Dante Pazzanese de Cardiologia,OTHER,False,research_nonprofit
+NCT04624646,Ewha Womans University Mokdong Hospital,OTHER,False,academic
+NCT01181414,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT03570996,Swedish Medical Center,OTHER,False,hospital
+NCT04461691,St. Josefs-Hospital Wiesbaden GmbH,OTHER,False,hospital
+NCT05148923,Nemocnice AGEL Trinec-Podlesi a.s.,OTHER,False,other
+NCT00180414,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05461612,Maxwell Biomedical,INDUSTRY,True,industry
+NCT01291953,Hospital Universitario Reina Sofia de Cordoba,OTHER_GOV,False,government
+NCT01360918,Medisch Spectrum Twente,OTHER,False,individual
+NCT03477734,CardiacSense Ltd.,INDUSTRY,True,industry
+NCT00774566,Staedtisches Klinikum Karlsruhe,OTHER,False,hospital
+NCT04796714,"University Hospital, Bordeaux",OTHER,False,academic
+NCT07238452,University of British Columbia,OTHER,False,academic
+NCT06701383,Medisch Spectrum Twente,OTHER,False,individual
+NCT07217392,Abbott Medical Devices,INDUSTRY,True,industry
+NCT06260670,"Ablacon, Inc.",INDUSTRY,True,industry
+NCT06850064,Shanghai Chest Hospital,OTHER,False,hospital
+NCT05790707,Poitiers University Hospital,OTHER,False,academic
+NCT03026413,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT04055285,Hippocration General Hospital,OTHER,False,hospital
+NCT05824923,"Pulnovo Medical (Wuxi) Co., Ltd.",INDUSTRY,True,industry
+NCT03866148,University Hospitals Coventry and Warwickshire NHS Trust,OTHER,False,government
+NCT01582828,Medisch Spectrum Twente,OTHER,False,individual
+NCT02684825,Danilo Toni,OTHER,False,individual
+NCT03513029,"VytronUS, Inc.",INDUSTRY,True,industry
+NCT00982475,Dr. Kai Jaquet,INDUSTRY,True,industry
+NCT07390214,Cardioangiologisches Centrum Bethanien,OTHER,False,individual
+NCT07260721,Yonsei University,OTHER,False,academic
+NCT00259623,"University Hospital, Toulouse",OTHER,False,academic
+NCT02834221,Kenichiro Yamagata,OTHER_GOV,False,government
+NCT05686330,"Amsterdam University Medical Centers (UMC), Location Academic Medical Center (AMC)",OTHER,False,academic
+NCT01535807,Inova Health Care Services,OTHER,False,hospital
+NCT00281073,EP MedSystems,INDUSTRY,True,industry
+NCT04272762,East Sussex Hospitals NHS Trust,OTHER,False,government
+NCT02825979,Jason Andrade,OTHER,False,individual
+NCT00184249,Norwegian University of Science and Technology,OTHER,False,academic
+NCT07141745,Wroclaw Medical University,OTHER,False,academic
+NCT07389434,University Hospital Dubrava,OTHER,False,academic
+NCT07633509,Yunlong Wang,OTHER,False,individual
+NCT04104191,"LIVMOR, Inc.",INDUSTRY,True,industry
+NCT07118046,Daniel Rodríguez Muñoz,OTHER,False,individual
+NCT06455098,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT05896592,"4th Military Clinical Hospital with Polyclinic, Poland",OTHER,False,government
+NCT05043883,CathVision ApS,INDUSTRY,True,industry
+NCT07456540,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07541989,Xu Liu,OTHER,False,individual
+NCT03737929,"University Hospital, Toulouse",OTHER,False,academic
+NCT06608823,"JenaValve Technology, Inc.",INDUSTRY,True,industry
+NCT00151723,Radboud University Medical Center,OTHER,False,academic
+NCT02656537,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02619396,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT01842529,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00841529,Medtronic Cardiovascular,INDUSTRY,True,industry
+NCT04394923,Centro Medico Teknon,OTHER,False,individual
+NCT06065124,University Medical Center Groningen,OTHER,False,academic
+NCT00262119,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT07515040,Second Affiliated Hospital of Nanchang University,OTHER,False,academic
+NCT02562391,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT04906668,St. Josefs-Hospital Wiesbaden GmbH,OTHER,False,hospital
+NCT07077811,Affiliated Hospital of Nantong University,OTHER,False,academic
+NCT03043404,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT00540787,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00137540,Biosense Webster EMEA,INDUSTRY,True,industry
+NCT02547584,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT06056557,Vivek Reddy,OTHER,False,individual
+NCT04519489,"Philips (China) Investment CO., LTD",INDUSTRY,True,industry
+NCT02766712,NYU Langone Health,OTHER,False,hospital
+NCT04090437,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT06927908,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT04704791,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT03057548,"Arash Aryana, MD",OTHER,False,other
+NCT02268539,Mid and South Essex NHS Foundation Trust,OTHER,False,government
+NCT05153642,University Hospital Ostrava,OTHER,False,academic
+NCT07582523,"University of California, San Francisco",OTHER,False,academic
+NCT05462145,Kardium Inc.,INDUSTRY,True,industry
+NCT05871983,P+F Products + Features GmbH,INDUSTRY,True,industry
+NCT06836999,The First Affiliated Hospital of Dalian Medical University,OTHER,False,academic
+NCT04807283,"Laminar, Inc.",INDUSTRY,True,industry
+NCT00882622,Patrick Meybohm,OTHER,False,individual
+NCT01877473,Valley Health System,OTHER,False,hospital
+NCT05907694,Josep Rodes-Cabau,OTHER,False,individual
+NCT06832579,University of Leipzig,OTHER,False,academic
+NCT01522898,University of Adelaide,OTHER,False,academic
+NCT07647939,Northwell Health,OTHER,False,hospital
+NCT04945746,"Hospital St. Joseph, Marseille, France",OTHER,False,hospital
+NCT02522364,Sheba Medical Center,OTHER_GOV,False,government
+NCT05185310,University of Pennsylvania,OTHER,False,academic
+NCT03221764,University of Louisville,OTHER,False,academic
+NCT05817318,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT05908955,"Chinese Academy of Medical Sciences, Fuwai Hospital",OTHER,False,hospital
+NCT07580547,Anat Milman,OTHER_GOV,False,government
+NCT06529978,CoreMap Inc.,INDUSTRY,True,industry
+NCT04625946,University of Michigan,OTHER,False,academic
+NCT06460831,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02303639,Central Finland Hospital District,OTHER,False,hospital
+NCT02578979,Chang Gung Memorial Hospital,OTHER,False,hospital
+NCT05089435,"Sigknow Biomedical Co., Ltd.",INDUSTRY,True,industry
+NCT05560204,"Prince of Wales Hospital, Shatin, Hong Kong",OTHER,False,hospital
+NCT02579889,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT03046043,Keimyung University Dongsan Medical Center,OTHER,False,academic
+NCT01037296,Barts & The London NHS Trust,OTHER,False,government
+NCT06985901,Centre Hospitalier Universitaire de Nice,OTHER,False,academic
+NCT04842253,Maastricht University Medical Center,OTHER,False,academic
+NCT01385202,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06696170,"Pulse Biosciences, Inc.",INDUSTRY,True,industry
+NCT03854006,Medical University of Lodz,OTHER,False,academic
+NCT01512381,"Federal State Budgetary Institution, V. A. Almazov Federal North-West Medical Research Centre, of the Ministry of Health",OTHER,False,government
+NCT03988244,CardioFocus,INDUSTRY,True,industry
+NCT03533140,Medical University of Vienna,OTHER,False,academic
+NCT06698159,Hospital Universitario 12 de Octubre,OTHER,False,academic
+NCT04523649,The University of Hong Kong,OTHER,False,academic
+NCT00933634,Valduce Hospital,OTHER,False,hospital
+NCT00410839,University of Toronto,OTHER,False,academic
+NCT04032678,University National Heart Hospital,OTHER,False,government
+NCT00745602,University of Texas Southwestern Medical Center,OTHER,False,academic
+NCT06737848,"Army Medical University, China",OTHER,False,government
+NCT06223789,Abbott Medical Devices,INDUSTRY,True,industry
+NCT00506493,Medtronic Cardiac Surgery,INDUSTRY,True,industry
+NCT03232645,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05264831,Elsan,OTHER,False,private_practice
+NCT07021313,R&D Cardiologie,OTHER,False,other
+NCT02732626,Mödling Hospital,OTHER,False,hospital
+NCT04560387,Martin Haluzik,OTHER_GOV,False,government
+NCT04174885,University of Campania Luigi Vanvitelli,OTHER,False,academic
+NCT00674401,Felipe Atienza,OTHER,False,individual
+NCT03992157,Hopital Foch,OTHER,False,hospital
+NCT03700372,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02825992,Acutus Medical,INDUSTRY,True,industry
+NCT04682704,University of Oklahoma,OTHER,False,academic
+NCT04954404,"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,False,academic
+NCT03261973,Massachusetts General Hospital,OTHER,False,hospital
+NCT05387954,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT01563848,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT04282850,Inova Health Care Services,OTHER,False,hospital
+NCT04160130,Optimapharm,INDUSTRY,True,industry
+NCT05753644,Peking University People's Hospital,OTHER,False,academic
+NCT04133168,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT05561244,Centre Hospitalier Universitaire de Nīmes,OTHER,False,academic
+NCT01229306,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT07532317,Meril Life Sciences Pvt. Ltd.,INDUSTRY,True,industry
+NCT01716143,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT03335800,Apple Inc.,INDUSTRY,True,industry
+NCT04775264,Atrian Medical Ltd.,INDUSTRY,True,industry
+NCT02805465,First Affiliated Hospital of Wenzhou Medical University,OTHER,False,academic
+NCT00116987,University of Calgary,OTHER,False,academic
+NCT07444320,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT06817148,Cedars-Sinai Medical Center,OTHER,False,hospital
+NCT03354663,Abbott Medical Devices,INDUSTRY,True,industry
+NCT04513483,National Taiwan University Hospital,OTHER,False,academic
+NCT04809701,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07487532,Shanghai Zhongshan Hospital,OTHER,False,hospital
+NCT05353140,Xijing Hospital,OTHER,False,hospital
+NCT01505296,Valley Health System,OTHER,False,hospital
+NCT05565599,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT04684212,Brian O'Neill MD,OTHER,False,other
+NCT02528604,Eastbourne General Hospital,OTHER,False,hospital
+NCT04462653,Huami Corporation,INDUSTRY,True,industry
+NCT06364215,Jorge Romero,OTHER,False,individual
+NCT04405258,"Institute for Clinical Effectiveness, Japan",OTHER,False,research_nonprofit
+NCT02695277,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT02549963,Shulin Wu,OTHER,False,individual
+NCT04592497,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT04220047,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT01015859,Montreal Heart Institute,OTHER,False,research_nonprofit
+NCT01448265,Heidelberg University,OTHER,False,academic
+NCT03226847,The Cleveland Clinic,OTHER,False,hospital
+NCT05222711,KU Leuven,OTHER,False,other
+NCT06846502,"Amsterdam UMC, location VUmc",OTHER,False,hospital
+NCT03302494,Coherex Medical,INDUSTRY,True,industry
+NCT01580124,Universitätsklinikum Hamburg-Eppendorf,OTHER,False,academic
+NCT00662701,St. Antonius Hospital,OTHER,False,hospital
+NCT03459196,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT00680290,University of Texas Southwestern Medical Center,OTHER,False,academic
+NCT00478933,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02271152,"University Health Network, Toronto",OTHER,False,academic
+NCT02120560,"University of California, San Francisco",OTHER,False,academic
+NCT05427435,"University Hospital, Bordeaux",OTHER,False,academic
+NCT01747837,Vivek Reddy,OTHER,False,individual
+NCT02426944,"Charles University, Czech Republic",OTHER,False,academic
+NCT03053570,China Cardiometabolic Registries,NETWORK,False,network
+NCT04226547,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03991754,Luis Nombela Franco,OTHER,False,individual
+NCT04833985,xieruiqin,OTHER,False,other
+NCT03401099,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT07014423,University Medical Center Groningen,OTHER,False,academic
+NCT04699812,Apple Inc.,INDUSTRY,True,industry
+NCT01160393,Kuopio University Hospital,OTHER,False,academic
+NCT00323661,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT06735534,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT04247581,Apple Inc.,INDUSTRY,True,industry
+NCT06735001,"University Hospital, Bordeaux",OTHER,False,academic
+NCT02110537,Kyunghee University Medical Center,OTHER,False,academic
+NCT06969118,Shanghai Zhongshan Hospital,OTHER,False,hospital
+NCT03363087,University Hospital Southampton NHS Foundation Trust,OTHER,False,government
+NCT06729866,Xu Liu,OTHER,False,individual
+NCT04509180,University Medical Centre Ljubljana,OTHER,False,academic
+NCT01057394,CardioFocus,INDUSTRY,True,industry
+NCT07453940,Sir Run Run Shaw Hospital,OTHER,False,hospital
+NCT02875730,Aspire Foundation,OTHER,False,research_nonprofit
+NCT02918396,Johns Hopkins University,OTHER,False,academic
+NCT06495216,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06969378,Boston Children's Hospital,OTHER,False,hospital
+NCT03795298,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01994252,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT03852420,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03350581,Korea University Guro Hospital,OTHER,False,academic
+NCT01341353,Wuhan University,OTHER,False,academic
+NCT05009914,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT02606552,Yonsei University,OTHER,False,academic
+NCT00486915,London Health Sciences Centre,OTHER,False,hospital
+NCT04468334,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT03347227,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT00190112,Far Eastern Memorial Hospital,OTHER,False,hospital
+NCT03489096,University of Utah,OTHER,False,academic
+NCT02035163,Yong Seog Oh,OTHER,False,individual
+NCT00309439,University of Toronto,OTHER,False,academic
+NCT02548754,University of Oklahoma,OTHER,False,academic
+NCT04237389,"National Research Center of Surgery, Russia",OTHER_GOV,False,government
+NCT07061054,Shanghai Golden Leaf MedTec Co. Ltd,INDUSTRY,True,industry
+NCT07705282,Region Skane,OTHER,False,government
+NCT02082366,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT04122963,AZ Sint-Jan AV,OTHER,False,other
+NCT05932485,Yangzhou University,OTHER,False,academic
+NCT02838199,Seung-Jung Park,OTHER,False,individual
+NCT06175234,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03246594,Heart Center Leipzig - University Hospital,OTHER,False,academic
+NCT03080857,Nova Scotia Health Authority,OTHER,False,government
+NCT07428967,St. Josefs-Hospital Wiesbaden GmbH,OTHER,False,hospital
+NCT04522024,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT03960346,Baylor Research Institute,OTHER,False,research_nonprofit
+NCT03392649,University of Chicago,OTHER,False,academic
+NCT02637453,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT05557123,Seoul National University Bundang Hospital,OTHER,False,academic
+NCT07396493,Shanghai Zhongshan Hospital,OTHER,False,hospital
+NCT05723926,Javelin Medical,INDUSTRY,True,industry
+NCT07112716,Centro Medico Teknon,OTHER,False,individual
+NCT05007847,Barts & The London NHS Trust,OTHER,False,government
+NCT04240366,University of Luebeck,OTHER,False,academic
+NCT01761188,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT06182566,The Cleveland Clinic,OTHER,False,hospital
+NCT07575828,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT07541339,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT01794416,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00111488,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT04101539,Johns Hopkins University,OTHER,False,academic
+NCT01056328,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07175727,Alfried Krupp Krankenhaus,OTHER,False,hospital
+NCT04247685,Dr. Graham Wright,OTHER,False,individual
+NCT04160000,Electrophysiology Research Foundation,OTHER,False,research_nonprofit
+NCT03683030,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT02351999,Transseptal Solutions Ltd.,INDUSTRY,True,industry
+NCT01361295,Serge A. Trines,OTHER,False,other
+NCT04529941,Cedars-Sinai Medical Center,OTHER,False,hospital
+NCT04353453,CardiacSense Ltd.,INDUSTRY,True,industry
+NCT03246568,Chinese University of Hong Kong,OTHER,False,academic
+NCT01912326,Abbott Medical Devices,INDUSTRY,True,industry
+NCT05393180,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT01305148,"Iverson Genetic Diagnostics, Inc.",INDUSTRY,True,industry
+NCT01629056,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT02747498,Yonsei University,OTHER,False,academic
+NCT05911685,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT05159492,"University Hospital, Bordeaux",OTHER,False,academic
+NCT00894400,Barts & The London NHS Trust,OTHER,False,government
+NCT03835429,Texas A&M University,OTHER,False,academic
+NCT06207383,"University Hospital, Geneva",OTHER,False,academic
+NCT06989775,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT00571779,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT04050969,Stanford University,OTHER,False,academic
+NCT05408754,Adagio Medical,INDUSTRY,True,industry
+NCT00950092,nContact Surgical Inc.,INDUSTRY,True,industry
+NCT05870306,Instituto de investigación e innovación biomédica de Cádiz,OTHER,False,research_nonprofit
+NCT01353586,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT04282993,Campus Bio-Medico University,OTHER,False,academic
+NCT00265629,C. R. Bard,INDUSTRY,True,industry
+NCT05752487,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT04063761,"Advanced Cooling Therapy, Inc., d/b/a Attune Medical",INDUSTRY,True,industry
+NCT05114382,CathVision ApS,INDUSTRY,True,industry
+NCT04023461,University of Sao Paulo General Hospital,OTHER,False,academic
+NCT01984346,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT02770989,Vimecon GmbH,INDUSTRY,True,industry
+NCT07118488,Fundacion para la Innovacion en Biomedicina (FIBMED),OTHER,False,research_nonprofit
+NCT00958165,CardioFocus,INDUSTRY,True,industry
+NCT03268707,Universitätsklinikum Hamburg-Eppendorf,OTHER,False,academic
+NCT04877327,Galaxia Empírica,NETWORK,False,network
+NCT07247422,Chinese University of Hong Kong,OTHER,False,academic
+NCT04442113,Rhythm AI Ltd,INDUSTRY,True,industry
+NCT00839566,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02293070,Saint Luke's Health System,OTHER,False,hospital
+NCT02838914,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT07068646,Yonsei University,OTHER,False,academic
+NCT06322836,RAV Brabant MWN,OTHER,False,other
+NCT04940156,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT01611701,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT06929897,Ewha Womans University Mokdong Hospital,OTHER,False,academic
+NCT04784013,AZ Sint-Jan AV,OTHER,False,other
+NCT01074749,Abbott Medical Devices,INDUSTRY,True,industry
+NCT01898910,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT01173796,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT00820625,Asklepios proresearch,INDUSTRY,True,industry
+NCT01057485,Eastbourne General Hospital,OTHER,False,hospital
+NCT04124328,AZ Sint-Jan AV,OTHER,False,other
+NCT05603637,"Charles University, Czech Republic",OTHER,False,academic
+NCT00192972,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07586176,"Shanghai Shangyang Medical Technology Co., Ltd.",INDUSTRY,True,industry
+NCT07028502,National Taiwan University Hospital,OTHER,False,academic
+NCT04053361,"General University Hospital, Prague",OTHER,False,academic
+NCT06021808,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT01867060,University of Surrey,OTHER,False,academic
+NCT00821015,Vivek Reddy,OTHER,False,individual
+NCT06159985,Seoul National University Hospital,OTHER,False,academic
+NCT07106970,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02378116,Frederiksberg University Hospital,OTHER,False,academic
+NCT03173534,samir kapadia,OTHER,False,other
+NCT05454111,Shanghai Chest Hospital,OTHER,False,hospital
+NCT06096246,Barts & The London NHS Trust,OTHER,False,government
+NCT05610215,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT04186169,Johns Hopkins University,OTHER,False,academic
+NCT02982434,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT01430949,C. R. Bard,INDUSTRY,True,industry
+NCT01385358,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT04632550,Yonsei University,OTHER,False,academic
+NCT00284830,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT07316270,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT05951101,AuriGen Medical Ltd,INDUSTRY,True,industry
+NCT00746564,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07540065,National Taiwan University Hospital,OTHER,False,academic
+NCT07078071,"Huawei Device Co., Ltd",INDUSTRY,True,industry
+NCT04342832,Maastricht University,OTHER,False,academic
+NCT04204330,I.M. Sechenov First Moscow State Medical University,OTHER,False,academic
+NCT02234102,Prof. Dr. med. Bernd Lemke,OTHER,False,other
+NCT04580914,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT02630914,"University Hospital, Toulouse",OTHER,False,academic
+NCT01812356,Samsung Medical Center,OTHER,False,hospital
+NCT07032948,"Shanghai MicroPort EP MedTech Co., Ltd.",INDUSTRY,True,industry
+NCT06415149,People's Friendship University of Russia,OTHER,False,academic
+NCT01942408,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT04545723,KU Leuven,OTHER,False,other
+NCT03624881,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07174206,University of Sao Paulo,OTHER,False,academic
+NCT04830774,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT06377046,Maastricht University Medical Center,OTHER,False,academic
+NCT02698631,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT04079634,Northwestern University,OTHER,False,academic
+NCT04087122,"Advanced Cooling Therapy, Inc., d/b/a Attune Medical",INDUSTRY,True,industry
+NCT07521800,Medical University of Silesia,OTHER,False,academic
+NCT04170621,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07358611,Hospital Clinic of Barcelona,OTHER,False,hospital
+NCT01095770,Eastbourne General Hospital,OTHER,False,hospital
+NCT03042104,Edwards Lifesciences,INDUSTRY,True,industry
+NCT05976685,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT02713737,Henan Institute of Cardiovascular Epidemiology,OTHER,False,research_nonprofit
+NCT04390841,Biotronik (Beijing) Medical Device Ltd.,INDUSTRY,True,industry
+NCT04218604,Centro Medico Teknon,OTHER,False,individual
+NCT03243175,"University Hospital, Lille",OTHER,False,academic
+NCT00816192,"University Hospital, Bordeaux",OTHER,False,academic
+NCT01694563,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT02839304,Adagio Medical,INDUSTRY,True,industry
+NCT05310461,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT06032884,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT06170606,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07462910,French Cardiology Society,OTHER,False,research_nonprofit
+NCT00196183,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT04037397,University of Pennsylvania,OTHER,False,academic
+NCT05420701,Chinese University of Hong Kong,OTHER,False,academic
+NCT02727192,Oslo University Hospital,OTHER,False,academic
+NCT07627672,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT07171463,"St. Joseph's Centre, Poland",OTHER,False,hospital
+NCT02655731,Cardioangiologisches Centrum Bethanien,OTHER,False,individual
+NCT01724437,Universitätsklinikum Hamburg-Eppendorf,OTHER,False,academic
+NCT06165510,Barts & The London NHS Trust,OTHER,False,government
+NCT04170608,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT07403760,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT04332718,Sarawak Heart Centre,OTHER,False,hospital
+NCT07447297,Samsung Medical Center,OTHER,False,hospital
+NCT06101485,Aalborg University,OTHER,False,academic
+NCT03604432,Corewell Health West,OTHER,False,hospital
+NCT00182416,Hamilton Health Sciences Corporation,OTHER,True,industry
+NCT06091514,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT03514693,Osaka Cardiovascular Conference,OTHER,False,individual
+NCT01711047,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT04524364,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07295769,Asan Medical Center,OTHER,False,hospital
+NCT07036965,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT05114954,"Hangzhou Dinova EP Technology Co., Ltd",INDUSTRY,True,industry
+NCT03197090,"Stéphane Cook, Prof",OTHER,False,other
+NCT00959205,Korea University,OTHER,False,academic
+NCT00599976,Azienda Policlinico Umberto I,OTHER,False,other
+NCT01546168,Vivek Reddy,OTHER,False,individual
+NCT07469579,Cairdac SA,OTHER,True,industry
+NCT02378155,Hasselt University,OTHER,False,academic
+NCT00227344,Biosense Webster EMEA,INDUSTRY,True,industry
+NCT05373862,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT01693120,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT06499818,Yantai Yuhuangding Hospital,OTHER,False,hospital
+NCT05115214,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT05211453,East Sussex Hospitals NHS Trust,OTHER,False,government
+NCT05599308,"Omron Healthcare Co., Ltd.",INDUSTRY,True,industry
+NCT01490814,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT03775512,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07063381,Bakulev Scientific Center of Cardiovascular Surgery,OTHER_GOV,False,government
+NCT06363604,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT03798613,The Cleveland Clinic,OTHER,False,hospital
+NCT02898545,University of Cincinnati,OTHER,False,academic
+NCT03012841,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT03943693,University of Oklahoma,OTHER,False,academic
+NCT00158977,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT06694610,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT05144932,Region Skane,OTHER,False,government
+NCT03626649,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT03276169,Ruiqin xie,OTHER,False,other
+NCT06953778,VA Office of Research and Development,FED,False,government
+NCT03691571,University of Pennsylvania,OTHER,False,academic
+NCT00556595,"University Hospital, Bonn",OTHER,False,academic
+NCT00811382,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT04356040,Abbott Medical Devices,INDUSTRY,True,industry
+NCT06699342,Seoul National University Hospital,OTHER,False,academic
+NCT03835338,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT01466842,Maastricht University Medical Center,OTHER,False,academic
+NCT03573869,G.Gennimatas General Hospital,OTHER,False,hospital
+NCT00523978,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02467179,"University of California, San Diego",OTHER,False,academic
+NCT00605748,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT01649544,Centre Hospitalier Universitaire de Saint Etienne,OTHER,False,academic
+NCT05416086,Adagio Medical,INDUSTRY,True,industry
+NCT01196923,CardioFocus,INDUSTRY,True,industry
+NCT05024630,Shanghai 10th People's Hospital,OTHER,False,hospital
+NCT01203748,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03256812,Keimyung University Dongsan Medical Center,OTHER,False,academic
+NCT03589742,Medlumics,INDUSTRY,True,industry
+NCT02439424,Hartford Hospital,OTHER,False,hospital
+NCT01997905,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT05773768,University Medical Center Groningen,OTHER,False,academic
+NCT05508256,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT07441382,Guangdong Provincial People's Hospital,OTHER,False,hospital
+NCT03635034,St. Vincent Cardiovascular Research Institute,OTHER,False,research_nonprofit
+NCT01278953,Abbott Medical Devices,INDUSTRY,True,industry
+NCT07492901,Kasr El Aini Hospital,OTHER,False,hospital
+NCT00157781,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT05921734,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02991313,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT07564349,Medical University Innsbruck,OTHER,False,academic
+NCT02051621,University of Rostock,OTHER,False,academic
+NCT03095131,Ostar Meditech Corp,INDUSTRY,True,industry
+NCT04379557,Seoul National University Hospital,OTHER,False,academic
+NCT03769207,Apple Inc.,INDUSTRY,True,industry
+NCT06486636,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT02783157,Duke University,OTHER,False,academic
+NCT00434694,University of Pennsylvania,OTHER,False,academic
+NCT04997824,Yonsei University,OTHER,False,academic
+NCT05711589,Pusan National University Hospital,OTHER,False,academic
+NCT03088098,University of Zurich,OTHER,False,academic
+NCT05575544,Shanghai Chest Hospital,OTHER,False,hospital
+NCT04377594,Karolinska University Hospital,OTHER,False,academic
+NCT05988411,Vivek Reddy,OTHER,False,individual
+NCT01058551,Dr. Adrian Baranchuk,OTHER,False,individual
+NCT03525860,Mayo Clinic,OTHER,False,hospital
+NCT03082963,Jeffrey Goldberger,OTHER,False,individual
+NCT01091389,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT05119231,University of Leipzig,OTHER,False,academic
+NCT00779857,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT07630857,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT02946853,University of Rochester,OTHER,False,academic
+NCT02509754,"University of Turin, Italy",OTHER,False,academic
+NCT01019759,Maastricht University Medical Center,OTHER,False,academic
+NCT05152966,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT04844801,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT04229160,"University Hospital, Rouen",OTHER,False,academic
+NCT03347695,Fujian Medical University,OTHER,False,academic
+NCT05872776,Ziv HealthCare Ltd.,INDUSTRY,True,industry
+NCT01917981,University of Surrey,OTHER,False,academic
+NCT06315192,Region Skane,OTHER,False,government
+NCT05652517,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT05164107,Kardium Inc.,INDUSTRY,True,industry
+NCT06023784,Peking Union Medical College Hospital,OTHER,False,academic
+NCT02477592,RenJi Hospital,OTHER,False,hospital
+NCT01107184,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER,False,academic
+NCT07459387,Cardioangiologisches Centrum Bethanien,OTHER,False,individual
+NCT04918303,"University Hospital, Bordeaux",OTHER,False,academic
+NCT03557034,The Cleveland Clinic,OTHER,False,hospital
+NCT02176616,Yonsei University,OTHER,False,academic
+NCT07156877,Sebastien Knecht,OTHER,False,individual
+NCT07320976,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT03470636,CardioFocus,INDUSTRY,True,industry
+NCT00161551,Medtronic BRC,INDUSTRY,True,industry
+NCT06883864,Beijing Anzhen Hospital,OTHER,False,hospital
+NCT07405359,"Edward Gerstenfeld, MD",OTHER,False,other
+NCT05760833,University Medical Center Groningen,OTHER,False,academic
+NCT02928497,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03118518,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT01291771,Hospices Civils de Lyon,OTHER,False,hospital
+NCT07100483,Corewell Health West,OTHER,False,hospital
+NCT06699368,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT01587404,Barts & The London NHS Trust,OTHER,False,government
+NCT05428787,Habib Khan,OTHER,False,individual
+NCT05643235,Northwell Health,OTHER,False,hospital
+NCT07455539,"Prince of Wales Hospital, Shatin, Hong Kong",OTHER,False,hospital
+NCT01727297,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT05781282,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,OTHER,False,academic
+NCT02029014,"Lifetech Scientific (Shenzhen) Co., Ltd.",INDUSTRY,True,industry
+NCT07321002,The Third People's Hospital of Chengdu,OTHER,False,hospital
+NCT06351553,Hospital General Universitario de Alicante,OTHER,False,academic
+NCT03892824,Javelin Medical,INDUSTRY,True,industry
+NCT00123344,University of Calgary,OTHER,False,academic
+NCT04505163,Dignity Health Medical Foundation,OTHER,False,research_nonprofit
+NCT05147792,"Conformal Medical, Inc",INDUSTRY,True,industry
+NCT02875405,Weill Medical College of Cornell University,OTHER,False,academic
+NCT06188351,Tongji Hospital,OTHER,False,hospital
+NCT00196209,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT00260546,"University Hospital, Basel, Switzerland",OTHER,False,academic
+NCT01265303,"National Institute of Cardiology, Warsaw, Poland",OTHER,False,government
+NCT00448656,University Medical Center Groningen,OTHER,False,academic
+NCT02664311,Beth Israel Deaconess Medical Center,OTHER,False,hospital
+NCT01247974,Elutia Inc.,INDUSTRY,True,industry
+NCT00969735,"Hospital San Carlos, Madrid",OTHER,False,hospital
+NCT02968147,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT03033641,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT04067089,Hospital do Coracao,OTHER,False,hospital
+NCT01122173,Hansen Medical,INDUSTRY,True,industry
+NCT02184013,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT06647251,Institut Mutualiste Montsouris,OTHER,False,research_nonprofit
+NCT03786822,University of Texas Southwestern Medical Center,OTHER,False,academic
+NCT01850277,"National Institute of Cardiology, Warsaw, Poland",OTHER,False,government
+NCT02132767,Icahn School of Medicine at Mount Sinai,OTHER,False,academic
+NCT06745167,Shanghai Chest Hospital,OTHER,False,hospital
+NCT04376606,Ruiqin xie,OTHER,False,other
+NCT05996159,Seoul National University Hospital,OTHER,False,academic
+NCT06271967,Abbott Medical Devices,INDUSTRY,True,industry
+NCT01997736,"Toray Industries (America), Inc.",INDUSTRY,True,industry
+NCT03857711,"National Research Center of Surgery, Russia",OTHER_GOV,False,government
+NCT06465706,Kansas City Heart Rhythm Research Foundation,OTHER,False,research_nonprofit
+NCT04676880,R&D Cardiologie,OTHER,False,other
+NCT02002962,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT03856632,University of Miami,OTHER,False,academic
+NCT06973031,Kardium Inc.,INDUSTRY,True,industry
+NCT01740102,Norwegian University of Science and Technology,OTHER,False,academic
+NCT02019407,Yonsei University,OTHER,False,academic
+NCT03410966,University of Campania Luigi Vanvitelli,OTHER,False,academic
+NCT05494034,National and Kapodistrian University of Athens,OTHER,False,academic
+NCT01730924,Queen Mary University of London,OTHER,False,academic
+NCT05903170,Wellington Hospital,OTHER_GOV,False,government
+NCT05411614,"St. George's Hospital, London",OTHER,False,hospital
+NCT07254455,Tulane University,OTHER,False,academic
+NCT02285387,Yonsei University,OTHER,False,academic
+NCT01456949,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT06007872,The Cleveland Clinic,OTHER,False,hospital
+NCT05477147,Volta Medical,INDUSTRY,True,industry
+NCT04645342,"University of California, San Francisco",OTHER,False,academic
+NCT07620262,Northwell Health,OTHER,False,hospital
+NCT03133806,Cardia Inc.,INDUSTRY,True,industry
+NCT00878384,Royal Brompton & Harefield NHS Foundation Trust,OTHER,False,government
+NCT01117025,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02095691,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06061757,Kansas City Heart Rhythm Research Foundation,OTHER,False,research_nonprofit
+NCT03911986,"National University of Ireland, Galway, Ireland",OTHER,False,academic
+NCT00268294,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT01432743,Barts & The London NHS Trust,OTHER,False,government
+NCT00765089,University of Pittsburgh,OTHER,False,academic
+NCT03322085,The Second Hospital of Hebei Medical University,OTHER,False,academic
+NCT05565781,Hospital Universitari Vall d'Hebron Research Institute,OTHER,False,academic
+NCT06652191,"Sixth Affiliated Hospital, Sun Yat-sen University",OTHER,False,academic
+NCT06556667,Ottawa Heart Institute Research Corporation,OTHER,False,research_nonprofit
+NCT06183879,University of Zagreb,OTHER,False,academic
+NCT05272852,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT06422468,Qompium NV,INDUSTRY,True,industry
+NCT04408716,The Second Affiliated Hospital of Chongqing Medical University,OTHER,False,academic
+NCT05653583,"Cala Health, Inc.",INDUSTRY,True,industry
+NCT02344394,Wake Forest University Health Sciences,OTHER,False,academic
+NCT00735722,Abbott Medical Devices,INDUSTRY,True,industry
+NCT03394404,Barts & The London NHS Trust,OTHER,False,government
+NCT03747263,University of Luebeck,OTHER,False,academic
+NCT01164319,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT02262351,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT06617442,Semmelweis University,OTHER,False,academic
+NCT07686328,LUMA Vision Ltd.,INDUSTRY,True,industry
+NCT02476227,Military Institute od Medicine National Research Institute,OTHER,False,government
+NCT04549714,Yuehui Yin,OTHER,False,individual
+NCT02325778,NYU Langone Health,OTHER,False,hospital
+NCT03062241,Medical University of Silesia,OTHER,False,academic
+NCT02202434,Boston Scientific Corporation,INDUSTRY,True,industry
+NCT03604263,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT07308847,Medtronic Cardiac Ablation Solutions,INDUSTRY,True,industry
+NCT05023590,Herz- und Gefaesszentrum Bad Bevensen,OTHER,False,other
+NCT03044951,Ruijin Hospital,OTHER,False,hospital
+NCT06817447,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT07641582,Seoul St. Mary's Hospital,OTHER,False,hospital
+NCT00566176,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT03557242,Medstar Health Research Institute,OTHER,False,research_nonprofit
+NCT07250529,University Hospital of Patras,OTHER,False,academic
+NCT06327425,Qilu Hospital of Shandong University,OTHER,False,academic
+NCT05426759,Atrian Medical Ltd.,INDUSTRY,True,industry
+NCT02492256,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT00872079,US Department of Veterans Affairs,FED,False,government
+NCT01713270,The First Affiliated Hospital with Nanjing Medical University,OTHER,False,academic
+NCT01990911,Pace Clinic,OTHER,False,hospital
+NCT05369195,Silesian Centre for Heart Diseases,OTHER,False,hospital
+NCT03535818,Imperial College London,OTHER,False,academic
+NCT00196157,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT01461434,Medical University of Graz,OTHER,False,academic
+NCT00514735,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT03377751,Korea University Guro Hospital,OTHER,False,academic
+NCT00292162,NHS Greater Glasgow and Clyde,OTHER,False,government
+NCT06924151,Osaka University,OTHER,False,academic
+NCT04744480,Qianfoshan Hospital,OTHER,False,hospital
+NCT07675395,"Taipei Veterans General Hospital, Taiwan",OTHER_GOV,False,government
+NCT02628730,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT00289289,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT02944968,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT03168659,CardioFocus,INDUSTRY,True,industry
+NCT00431834,Medtronic Cardiovascular,INDUSTRY,True,industry
+NCT03966976,GCS Ramsay Santé pour l'Enseignement et la Recherche,OTHER,False,private_practice
+NCT07300358,"Shanghai Lingsi Medical Technology Co., Ltd.",OTHER,True,industry
+NCT03368781,Acutus Medical,INDUSTRY,True,industry
+NCT05173779,Shanghai Chest Hospital,OTHER,False,hospital
+NCT01660100,Texas Cardiac Arrhythmia Research Foundation,OTHER,False,research_nonprofit
+NCT02168972,Kardium Inc.,INDUSTRY,True,industry
+NCT01538277,University of Aarhus,OTHER,False,academic
+NCT06833138,French Cardiology Society,OTHER,False,research_nonprofit
+NCT02929836,Shanghai Chest Hospital,OTHER,False,hospital
+NCT02222818,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT05195268,Liverpool Heart and Chest Hospital NHS Foundation Trust,OTHER,False,government
+NCT01709682,Meshalkin Research Institute of Pathology of Circulation,NETWORK,False,network
+NCT06253000,Bakulev Scientific Center of Cardiovascular Surgery,OTHER_GOV,False,government
+NCT02137187,Centro Prevenzione Malattie Cardiovascolari N. e V. Corbella,OTHER,False,other
+NCT07385599,"Lifetech Scientific (Shenzhen) Co., Ltd.",INDUSTRY,True,industry
+NCT05434819,Population Health Research Institute,OTHER,False,research_nonprofit
+NCT00392106,"ProRhythm, Inc.",INDUSTRY,True,industry
+NCT02456233,Stanford University,OTHER,False,academic
+NCT06452589,Field Medical,INDUSTRY,True,industry
+NCT04702451,Volta Medical,INDUSTRY,True,industry
+NCT01639495,"Biosense Webster, Inc.",INDUSTRY,True,industry
+NCT06005233,Technical University of Munich,OTHER,False,academic
+NCT00196144,Deutsches Herzzentrum Muenchen,OTHER,False,hospital
+NCT06952023,The First Affiliated Hospital of Dalian Medical University,OTHER,False,academic
+NCT07183605,Centre Hospitalier Régional d'Orléans,OTHER,False,hospital
+NCT02317068,Urmia University of Medical Sciences,OTHER,False,academic
+NCT00256152,Abbott Medical Devices,INDUSTRY,True,industry
+NCT02917044,Imperial College Healthcare NHS Trust,OTHER,False,government
+NCT02892162,China National Center for Cardiovascular Diseases,OTHER_GOV,False,government
+NCT05776797,University Hospital Ostrava,OTHER,False,academic
+NCT04216667,Montefiore Medical Center,OTHER,False,hospital
+NCT05836987,Johns Hopkins University,OTHER,False,academic
+NCT00466973,Maimonides Medical Center,OTHER,False,hospital
+NCT00238706,"University Hospitals, Leicester",OTHER,False,academic
+NCT02211456,Oxford University Hospitals NHS Trust,OTHER,False,government
+NCT00170313,Medtronic Cardiac Rhythm and Heart Failure,INDUSTRY,True,industry
+NCT00567515,"AtriCure, Inc.",INDUSTRY,True,industry
+NCT00904982,University of Pennsylvania,OTHER,False,academic
+NCT00156728,Medtronic BRC,INDUSTRY,True,industry
+NCT07410962,"SuZhou Sinus Medical Technologies Co.,Ltd",INDUSTRY,True,industry
+NCT02968056,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",OTHER,False,academic
+NCT00643188,Biotronik SE & Co. KG,INDUSTRY,True,industry
+NCT07354737,Ajou University School of Medicine,OTHER,False,academic
+NCT05881733,Erasmus Medical Center,OTHER,False,hospital
+NCT05294445,Asklepios proresearch,INDUSTRY,True,industry
+NCT02714907,Cortrium,INDUSTRY,True,industry
+NCT06584370,Henry Ford Health System,OTHER,False,hospital
+NCT01845974,Wake Forest University Health Sciences,OTHER,False,academic
+NCT04845750,afreeze GmbH,OTHER,True,industry
+NCT02243891,Neil Sulke,OTHER,False,individual

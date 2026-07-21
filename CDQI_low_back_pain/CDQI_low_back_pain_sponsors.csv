@@ -1,0 +1,697 @@
+nct,lead_sponsor_name,sponsor_class,sponsor_industry,sponsor_category
+NCT03433443,University of Aarhus,OTHER,False,academic
+NCT03771716,University of Pittsburgh,OTHER,False,academic
+NCT03791164,Teesside University,OTHER,False,academic
+NCT03892278,Federal University of Pelotas,OTHER,False,government
+NCT03909048,University of Alabama at Birmingham,OTHER,False,academic
+NCT05437861,"University Hospital, Akershus",OTHER,False,academic
+NCT06025201,Stanford University,OTHER,False,academic
+NCT02803190,National Taiwan University Hospital,OTHER,False,academic
+NCT07137065,Guillaume Christe,OTHER,False,individual
+NCT00410319,University of Southern Denmark,OTHER,False,academic
+NCT07181395,Gazi University,OTHER,False,academic
+NCT05273203,University of Thessaly,OTHER,False,academic
+NCT04164225,University of Minnesota,OTHER,False,academic
+NCT01060280,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT03440736,Novartis Pharmaceuticals,INDUSTRY,True,industry
+NCT01993355,Hospital Universitari Vall d'Hebron Research Institute,OTHER,False,academic
+NCT06781541,Gdansk University of Physical Education and Sport,OTHER,False,academic
+NCT06552962,Istanbul University,OTHER,False,academic
+NCT05259449,University of Cadiz,OTHER,False,academic
+NCT02648373,University of Utah,OTHER,False,academic
+NCT03342885,Central Finland Hospital District,OTHER,False,hospital
+NCT02653768,VA Office of Research and Development,FED,False,government
+NCT07437833,Poznan University of Physical Education,OTHER,False,academic
+NCT06351774,Ohio University,OTHER,False,academic
+NCT04860128,Universidad Católica San Antonio de Murcia,OTHER,False,academic
+NCT04968821,Vanderbilt University Medical Center,OTHER,False,academic
+NCT06429189,Grupo Lusófona,OTHER,False,individual
+NCT00373867,University of Florida,OTHER,False,academic
+NCT04783532,Vanderbilt University Medical Center,OTHER,False,academic
+NCT07384637,Cumhuriyet University,OTHER,False,academic
+NCT07277517,Iran University of Medical Sciences,OTHER,False,academic
+NCT03660956,China Medical University Hospital,OTHER,False,academic
+NCT07167888,The University of The West Indies,OTHER,False,academic
+NCT02133976,Rush University Medical Center,OTHER,False,academic
+NCT04730700,University of Kansas Medical Center,OTHER,False,academic
+NCT01467843,Kaiser Permanente,OTHER,False,hospital
+NCT04257539,Iowa State University,OTHER,False,academic
+NCT06030128,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT07418983,Hacettepe University,OTHER,False,academic
+NCT05810519,Józef Piłsudski University of Physical Education,OTHER,False,academic
+NCT07573995,Taipei Medical University,OTHER,False,academic
+NCT03677726,Singapore General Hospital,OTHER,False,hospital
+NCT07647809,Gaziosmanpasa Research and Education Hospital,OTHER_GOV,False,government
+NCT06921694,University of Nottingham,OTHER,False,academic
+NCT05846087,Woolcock Institute of Medical Research,OTHER,False,research_nonprofit
+NCT04494490,Sara Gorczynski,FED,False,government
+NCT00596076,Tehran University of Medical Sciences,OTHER,False,academic
+NCT07380048,University of Vigo,OTHER,False,academic
+NCT07099755,Gehad Alaa,OTHER,False,individual
+NCT06758414,VA Office of Research and Development,FED,False,government
+NCT02009995,University of Calgary,OTHER,False,academic
+NCT03426709,Javier Garcia Campayo,OTHER,False,individual
+NCT06944730,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT02674711,Brooke Army Medical Center,FED,False,government
+NCT01124188,University of Pittsburgh,OTHER,False,academic
+NCT01981798,Orthopedic Hospital Vienna Speising,OTHER,False,hospital
+NCT05753579,Muş Alparslan University,OTHER,False,academic
+NCT02019498,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT01474447,Tel-Aviv Sourasky Medical Center,OTHER_GOV,False,government
+NCT06619418,University of Minnesota,OTHER,False,academic
+NCT06820073,Universidad San Jorge,OTHER,False,academic
+NCT03816007,VA Office of Research and Development,FED,False,government
+NCT03686748,"Children's Hospital Medical Center, Cincinnati",OTHER,False,hospital
+NCT04019119,University of Malaga,OTHER,False,academic
+NCT06251414,Yang Liu,OTHER,False,individual
+NCT01484418,Philipps University Marburg,OTHER,False,academic
+NCT07470307,Maheen Rauf,OTHER,False,individual
+NCT07596602,Instituto Politécnico de Leiria,OTHER,False,research_nonprofit
+NCT06704412,Boung-hyoun Moon,OTHER_GOV,False,government
+NCT04953364,University of British Columbia,OTHER,False,academic
+NCT04255199,"University of California, Davis",OTHER,False,academic
+NCT01802671,Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la Comunitat Valenciana,OTHER,False,research_nonprofit
+NCT03861611,Montefiore Medical Center,OTHER,False,hospital
+NCT05780021,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT00386243,VA Office of Research and Development,FED,False,government
+NCT01576978,"University of Campinas, Brazil",OTHER,False,academic
+NCT02483468,Medical University of South Carolina,OTHER,False,academic
+NCT02497625,Universidade Cidade de Sao Paulo,OTHER,False,academic
+NCT04740710,University of Florida,OTHER,False,academic
+NCT02060617,Hendricks Regional Health,OTHER,False,government
+NCT07415889,Zaandam Medical Center,OTHER,False,hospital
+NCT04270617,NYU Langone Health,OTHER,False,hospital
+NCT07228585,Necmettin Erbakan University,OTHER,False,academic
+NCT07104448,Hebei Medical University Third Hospital,OTHER,False,academic
+NCT07621302,Dokuz Eylul University,OTHER,False,academic
+NCT05396014,"University of North Carolina, Chapel Hill",OTHER,False,academic
+NCT05136729,Billings Clinic,OTHER,False,hospital
+NCT05480982,Centro Universitário Augusto Motta,OTHER,False,academic
+NCT05215509,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT02189356,Saglik Bilimleri Universitesi Gulhane Tip Fakultesi,OTHER,False,academic
+NCT05437016,Thibaut Guiraud,OTHER,False,individual
+NCT04447508,University of Manitoba,OTHER,False,academic
+NCT04859309,Universidad de Granada,OTHER,False,academic
+NCT02731196,Ottawa Hospital Research Institute,OTHER,False,hospital
+NCT06984354,Neuroscience Research Australia,OTHER,False,individual
+NCT05285462,University of Utah,OTHER,False,academic
+NCT04824248,Vrije Universiteit Brussel,OTHER,False,academic
+NCT03705676,University Ghent,OTHER,False,academic
+NCT07486505,McMaster University,OTHER,False,academic
+NCT04280796,susanne becker,OTHER,False,other
+NCT01800604,University of Washington,OTHER,False,academic
+NCT05666427,Hasan Kalyoncu University,OTHER,False,academic
+NCT04012866,Chang Gung Memorial Hospital,OTHER,False,hospital
+NCT00761111,"University Hospital, Clermont-Ferrand",OTHER,False,academic
+NCT01147120,William G Elder JR,OTHER,False,other
+NCT04172038,Brooke Army Medical Center,FED,False,government
+NCT07391449,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT06069193,Philipps University Marburg,OTHER,False,academic
+NCT07415941,Florida State University,OTHER,False,academic
+NCT06384001,Florida State University,OTHER,False,academic
+NCT07067619,University of Haifa,OTHER,False,academic
+NCT07379606,Poznan University of Physical Education,OTHER,False,academic
+NCT07155291,University of Potsdam,OTHER,False,academic
+NCT00864422,The University of Queensland,OTHER,False,academic
+NCT07700589,Istanbul Aydın University,OTHER,False,academic
+NCT07334782,Hacettepe University,OTHER,False,academic
+NCT06949007,Brigham and Women's Hospital,OTHER,False,hospital
+NCT00056212,National Center for Complementary and Integrative Health (NCCIH),NIH,False,government
+NCT07411053,Recep Tayyip Erdogan University,OTHER,False,academic
+NCT06286553,University of Patras,OTHER,False,academic
+NCT05995145,Józef Piłsudski University of Physical Education,OTHER,False,academic
+NCT05895630,Mathieu Roy,OTHER,False,individual
+NCT05611476,University of Salford,OTHER,False,academic
+NCT00269321,Northwestern Health Sciences University,OTHER,False,academic
+NCT05022121,University of Minnesota,OTHER,False,academic
+NCT05607381,University of Utah,OTHER,False,academic
+NCT06859645,Istanbul Bilgi University,OTHER,False,academic
+NCT02552992,"University of California, San Francisco",OTHER,False,academic
+NCT07378735,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT05815576,Université Catholique de Louvain,OTHER,False,academic
+NCT03354585,"University of California, San Diego",OTHER,False,academic
+NCT07675551,Trillium Health Partners,OTHER,False,hospital
+NCT06437314,University of Vigo,OTHER,False,academic
+NCT05998889,University of Vic - Central University of Catalonia,OTHER,False,academic
+NCT07553702,Federal University of Maranhao,OTHER,False,government
+NCT07058480,Shanjiao Luo,OTHER,False,individual
+NCT02375386,University of Florida,OTHER,False,academic
+NCT06668129,University of the Balearic Islands,OTHER,False,academic
+NCT06922981,Cairo University,OTHER,False,academic
+NCT07003802,"University of California, San Diego",OTHER,False,academic
+NCT07713082,University of Valladolid,OTHER,False,academic
+NCT01814995,McGill University Health Centre/Research Institute of the McGill University Health Centre,OTHER,False,academic
+NCT07005375,"Polyclinic of the Hospitaller Brothers of St. John of God, Budapest",OTHER,False,hospital
+NCT06443229,University of Sao Paulo General Hospital,OTHER,False,academic
+NCT04284137,The University of Texas at San Antonio,OTHER,False,academic
+NCT03068897,Montefiore Medical Center,OTHER,False,hospital
+NCT05441722,Northumbria University,OTHER,False,academic
+NCT04549532,University of Pittsburgh,OTHER,False,academic
+NCT07538674,Shanghai Yueyang Integrated Medicine Hospital,OTHER,False,hospital
+NCT06821607,Johns Hopkins University,OTHER,False,academic
+NCT06916533,Saglik Bilimleri Universitesi,OTHER,False,academic
+NCT03707288,The University of The West Indies,OTHER,False,academic
+NCT00373009,University of Florida,OTHER,False,academic
+NCT01769729,Butler Hospital,OTHER,False,hospital
+NCT01833104,Max Planck Institute for Human Cognitive and Brain Sciences,OTHER,False,government
+NCT03831841,Universidad de Zaragoza,OTHER,False,academic
+NCT00360802,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT05302882,Halic University,OTHER,False,academic
+NCT04103970,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07292519,South West Sydney Local Health District,OTHER,False,hospital
+NCT04142177,VA Office of Research and Development,FED,False,government
+NCT05843149,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT04436003,The Hospital of Vestfold,OTHER,False,hospital
+NCT02777983,Brooke Army Medical Center,FED,False,government
+NCT07441850,Beijing Friendship Hospital,OTHER,False,hospital
+NCT07158567,VA Office of Research and Development,FED,False,government
+NCT06766903,Cristian Alvarez,OTHER,False,individual
+NCT02784782,Elisabeth-TweeSteden Ziekenhuis,OTHER,False,individual
+NCT06546956,University of Florida,OTHER,False,academic
+NCT01761617,Boston Medical Center,OTHER,False,hospital
+NCT06679205,University of Barcelona,OTHER,False,academic
+NCT00155662,National Taiwan University Hospital,OTHER,False,academic
+NCT06699511,University of Beykent,OTHER,False,academic
+NCT03244046,University of Southern Denmark,OTHER,False,academic
+NCT00600197,Tehran University of Medical Sciences,OTHER,False,academic
+NCT05261581,Bezmialem Vakif University,OTHER,False,academic
+NCT05453110,Keller Army Community Hospital,FED,False,government
+NCT03825614,University of Yalova,OTHER,False,academic
+NCT03115359,"University of Wisconsin, Madison",OTHER,False,academic
+NCT01171274,Universität Duisburg-Essen,OTHER,False,academic
+NCT02364726,Memorial Sloan Kettering Cancer Center,OTHER,False,hospital
+NCT05544331,Marmara University,OTHER,False,academic
+NCT06931158,Rhode Island Hospital,OTHER,False,hospital
+NCT06946342,University of Sistan and Baluchestan,OTHER,False,academic
+NCT06114264,IBS Granada,OTHER,False,other
+NCT04039789,"Gerencia de Atención Primaria, Madrid",OTHER_GOV,False,government
+NCT01025752,VA Office of Research and Development,FED,False,government
+NCT07369089,"University of California, San Diego",OTHER,False,academic
+NCT05878145,Pusan National University Yangsan Hospital,OTHER,False,academic
+NCT06785909,Hasselt University,OTHER,False,academic
+NCT02541136,"University of Dublin, Trinity College",OTHER,False,academic
+NCT06977958,University of Sistan and Baluchestan,OTHER,False,academic
+NCT06236529,Johns Hopkins University,OTHER,False,academic
+NCT02837653,Universidad Autonoma de Madrid,OTHER,False,academic
+NCT07417527,University of the Basque Country (UPV/EHU),OTHER,False,academic
+NCT02538900,Northwestern University,OTHER,False,academic
+NCT07532070,University of Sydney,OTHER,False,academic
+NCT04424407,Stanford University,OTHER,False,academic
+NCT05843890,University of Michigan,OTHER,False,academic
+NCT04816305,Universidade Federal de Pernambuco,OTHER,False,government
+NCT01346423,Sykehuset Innlandet HF,OTHER,False,other
+NCT05103462,University of Utah,OTHER,False,academic
+NCT02714803,Ataturk Training and Research Hospital,OTHER,False,hospital
+NCT01775995,"University of Wisconsin, Madison",OTHER,False,academic
+NCT03554018,Montefiore Medical Center,OTHER,False,hospital
+NCT04851587,University of Florida,OTHER,False,academic
+NCT07495475,Karabuk University,OTHER,False,academic
+NCT01794988,University of Vermont,OTHER,False,academic
+NCT02524158,VA Office of Research and Development,FED,False,government
+NCT02517762,Göteborg University,OTHER,False,academic
+NCT05764382,New York Presbyterian Hospital,OTHER,False,hospital
+NCT07005765,Serra Sürel,OTHER,False,individual
+NCT06169488,Oslo University Hospital,OTHER,False,academic
+NCT00526604,Ullevaal University Hospital,OTHER,False,academic
+NCT07153653,Peking Union Medical College Hospital,OTHER,False,academic
+NCT01808664,"University of California, Davis",OTHER,False,academic
+NCT00476567,Norwegian University of Science and Technology,OTHER,False,academic
+NCT06614647,University of Aarhus,OTHER,False,academic
+NCT03827174,Uppsala University,OTHER,False,academic
+NCT05009433,Gdansk University of Physical Education and Sport,OTHER,False,academic
+NCT04229446,Oslo University Hospital,OTHER,False,academic
+NCT00454064,Philipps University Marburg,OTHER,False,academic
+NCT01783704,"University of Maryland, Baltimore",OTHER,False,academic
+NCT05050526,Ander Espin,OTHER,False,individual
+NCT03986047,Laval University,OTHER,False,academic
+NCT05804357,Muş Alparslan University,OTHER,False,academic
+NCT00840697,Ullevaal University Hospital,OTHER,False,academic
+NCT05103475,VA Office of Research and Development,FED,False,government
+NCT03463824,Virginia Commonwealth University,OTHER,False,academic
+NCT03523793,University of Florida,OTHER,False,academic
+NCT02469077,Vanderbilt University Medical Center,OTHER,False,academic
+NCT05623046,Indiana University,OTHER,False,academic
+NCT02027623,Washington University School of Medicine,OTHER,False,academic
+NCT00209820,Human Locomotion Science,OTHER,False,individual
+NCT06809790,Istanbul Training and Research Hospital,OTHER_GOV,False,government
+NCT03798288,University of Southern Denmark,OTHER,False,academic
+NCT06643923,Lokman Hekim University,OTHER_GOV,False,government
+NCT04801316,Changi General Hospital,OTHER,False,hospital
+NCT03393104,"Bayero University Kano, Nigeria",OTHER,False,academic
+NCT05496699,Istinye University,OTHER,False,academic
+NCT07504094,Universidad de Zaragoza,OTHER,False,academic
+NCT03705741,"Värmland County Council, Sweden",OTHER_GOV,False,government
+NCT03068000,Universidade Estadual Paulista Júlio de Mesquita Filho,OTHER,False,academic
+NCT02106741,University of Michigan,OTHER,False,academic
+NCT04428892,Universidad de la Sabana,OTHER,False,academic
+NCT03952741,University of Bergen,OTHER,False,academic
+NCT07507604,John Paul II University in Biała Podlaska,OTHER,False,academic
+NCT05423145,VA Office of Research and Development,FED,False,government
+NCT07139483,University of Haifa,OTHER,False,academic
+NCT02409420,King's College London,OTHER,False,academic
+NCT06440551,Medical College of Wisconsin,OTHER,False,academic
+NCT02308189,Ohio University,OTHER,False,academic
+NCT04287413,"Jordan Miller, PT, PhD",OTHER,False,other
+NCT07282925,Lahore University of Biological and Applied Sciences,OTHER,False,academic
+NCT00118859,National Center for Complementary and Integrative Health (NCCIH),NIH,False,government
+NCT03994458,Jordan University of Science and Technology,OTHER,False,academic
+NCT05138471,Universidad de Murcia,OTHER,False,academic
+NCT07009067,Guangdong Provincial People's Hospital,OTHER,False,hospital
+NCT07208435,Medipol University,OTHER,False,academic
+NCT06419738,Hanoi Medical University,OTHER,False,academic
+NCT05706103,University Ghent,OTHER,False,academic
+NCT03859713,University of Utah,OTHER,False,academic
+NCT02286232,Stamford Hospital,OTHER,False,hospital
+NCT07573254,Istinye University,OTHER,False,academic
+NCT02378519,Luleå Tekniska Universitet,OTHER,False,academic
+NCT07324538,National Yang Ming Chiao Tung University,OTHER,False,academic
+NCT05528536,The University of Hong Kong,OTHER,False,academic
+NCT07290361,San Diego State University,OTHER,False,academic
+NCT04790461,Kafkas University,OTHER,False,academic
+NCT06915532,Hopital Charles Nicolle,OTHER,False,hospital
+NCT04976790,Beijing University of Chinese Medicine,OTHER,False,academic
+NCT04916626,"Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital",OTHER,False,hospital
+NCT00463970,NORCE Norwegian Research Centre AS,OTHER,False,research_nonprofit
+NCT07182812,Mehmet Akif Guler,OTHER,False,individual
+NCT03756519,Queen's University,OTHER,False,academic
+NCT04981132,Okan University,OTHER,False,academic
+NCT05679726,Kafkas University,OTHER,False,academic
+NCT07172828,Hacettepe University,OTHER,False,academic
+NCT04076618,Wake Forest University Health Sciences,OTHER,False,academic
+NCT07353372,"Xuanwu Hospital, Beijing",OTHER,False,hospital
+NCT06050083,University of Washington,OTHER,False,academic
+NCT07129356,University of Mosul,OTHER,False,academic
+NCT07600372,Green International University,OTHER,False,academic
+NCT01967342,"University of Alabama, Tuscaloosa",OTHER,False,academic
+NCT06977919,University of Sistan and Baluchestan,OTHER,False,academic
+NCT07011537,"Hinge Health, Inc",INDUSTRY,True,industry
+NCT07194746,The University of The West Indies,OTHER,False,academic
+NCT06910982,University of Karachi,OTHER,False,academic
+NCT03409562,Universidad Complutense de Madrid,OTHER,False,academic
+NCT06940596,University of Melbourne,OTHER,False,academic
+NCT07480460,McGill University,OTHER,False,academic
+NCT06299683,Vanderbilt University Medical Center,OTHER,False,academic
+NCT03141541,Central Jutland Regional Hospital,OTHER,False,hospital
+NCT07065851,Bahçeşehir University,OTHER,False,academic
+NCT05634122,Parc de Salut Mar,OTHER,False,other
+NCT07089472,University of Lahore,OTHER,False,academic
+NCT07338045,Universiti Sains Malaysia,OTHER,False,academic
+NCT07686237,Guangxi Normal University,OTHER,False,academic
+NCT01236521,VA Office of Research and Development,FED,False,government
+NCT05811624,Vrije Universiteit Brussel,OTHER,False,academic
+NCT05199415,Massachusetts Institute of Technology,OTHER,False,academic
+NCT05478200,Escuela Universitaria de Fisioterapia de la Once,OTHER,False,academic
+NCT06128538,Korey Kennelty,OTHER,False,individual
+NCT03722394,"University of Nevada, Las Vegas",OTHER,False,academic
+NCT05577910,Chinese University of Hong Kong,OTHER,False,academic
+NCT05607459,Camilo Jose Cela University,OTHER,False,academic
+NCT01407549,Meir Medical Center,OTHER,False,hospital
+NCT07481838,Uskudar University,OTHER,False,academic
+NCT02476812,University of Michigan,OTHER,False,academic
+NCT05030389,Université de Caen Normandie,OTHER,False,academic
+NCT02503410,Spaulding Rehabilitation Hospital,OTHER,False,hospital
+NCT03959449,Universidad Autonoma de Madrid,OTHER,False,academic
+NCT06575920,University of Agder,OTHER,False,academic
+NCT00865358,Boston Medical Center,OTHER,False,hospital
+NCT05115227,Spine Centre of Southern Denmark,OTHER,False,hospital
+NCT06353568,University of Nove de Julho,OTHER,False,academic
+NCT05021718,Chittagong Medical College,OTHER,False,academic
+NCT04770480,Dan Rhon,FED,False,government
+NCT05781763,Halmstad University,OTHER,False,academic
+NCT03637998,University of Connecticut,OTHER,False,academic
+NCT00269347,Northwestern Health Sciences University,OTHER,False,academic
+NCT07443150,Jagiellonian University,OTHER,False,academic
+NCT03651804,"University of California, Davis",OTHER,False,academic
+NCT02399644,Linkoeping University,OTHER_GOV,False,government
+NCT01243554,Norwegian University of Science and Technology,OTHER,False,academic
+NCT07249710,Ayşe ŞİMŞEK,OTHER,False,other
+NCT04518891,University of Sao Paulo,OTHER,False,academic
+NCT04706676,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07135843,Heidelberg University,OTHER,False,academic
+NCT03600532,University of Tulsa,OTHER,False,academic
+NCT06730633,"University of North Carolina, Chapel Hill",OTHER,False,academic
+NCT01303588,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT03273114,Centro Universitário Augusto Motta,OTHER,False,academic
+NCT03520387,VA Office of Research and Development,FED,False,government
+NCT00728377,"University of Massachusetts, Amherst",OTHER,False,academic
+NCT07603609,Gaziler Physical Medicine and Rehabilitation Education and Research Hospital,OTHER,False,hospital
+NCT03749564,University of Utah,OTHER,False,academic
+NCT02611427,"Hospital for Special Surgery, New York",OTHER,False,hospital
+NCT00441038,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT03986489,Drexel University,OTHER,False,academic
+NCT04089774,"Hospital St. Joseph, Marseille, France",OTHER,False,hospital
+NCT07034040,Norwegian University of Science and Technology,OTHER,False,academic
+NCT06347991,University of Alberta,OTHER,False,academic
+NCT07590050,University of Medicine and Pharmacy at Ho Chi Minh City,OTHER,False,academic
+NCT06374108,University of Aarhus,OTHER,False,academic
+NCT02624687,University of Pittsburgh,OTHER,False,academic
+NCT05261828,Assistance Publique - Hôpitaux de Paris,OTHER,False,government
+NCT07438470,Riphah International University,OTHER,False,academic
+NCT07150702,Istanbul Training and Research Hospital,OTHER_GOV,False,government
+NCT06957951,Gazi University,OTHER,False,academic
+NCT06853132,Yale University,OTHER,False,academic
+NCT05391165,University of Vigo,OTHER,False,academic
+NCT04785963,Baylor University,OTHER,False,academic
+NCT07497711,Nanyang Technological University,OTHER,False,academic
+NCT03398174,"Bayero University Kano, Nigeria",OTHER,False,academic
+NCT03634527,Johns Hopkins University,OTHER,False,academic
+NCT02301741,Ohio University,OTHER,False,academic
+NCT02546466,University of Sao Paulo,OTHER,False,academic
+NCT07631949,Halic University,OTHER,False,academic
+NCT07677189,Najran University,OTHER,False,academic
+NCT04958499,Universidad Católica San Antonio de Murcia,OTHER,False,academic
+NCT00803413,University of Sao Paulo,OTHER,False,academic
+NCT06224998,Izmir Katip Celebi University,OTHER,False,academic
+NCT00926744,National Institute of Health and Nutrition,OTHER_GOV,False,government
+NCT02503475,Stanford University,OTHER,False,academic
+NCT02148965,Federal University of Pelotas,OTHER,False,government
+NCT07205991,Neuroscience Research Australia,OTHER,False,individual
+NCT04276051,Emory University,OTHER,False,academic
+NCT07467070,University of Health Sciences Lahore,OTHER,False,academic
+NCT06506604,University of Valencia,OTHER,False,academic
+NCT04870957,University of Michigan,OTHER,False,academic
+NCT04922190,"Teachers College, Columbia University",OTHER,False,academic
+NCT07589790,The First Affiliated Hospital of Soochow University,OTHER,False,academic
+NCT04775589,Durham VA Medical Center,FED,False,government
+NCT03299192,Kaiser Permanente,OTHER,False,hospital
+NCT07403305,Instituto Politécnico de Bragança,OTHER,False,research_nonprofit
+NCT07083219,"University of Texas, El Paso",OTHER,False,academic
+NCT01893073,"Charite University, Berlin, Germany",OTHER,False,academic
+NCT05421871,Superior University,OTHER,False,academic
+NCT04164043,Wake Forest University Health Sciences,OTHER,False,academic
+NCT01559948,Texas Woman's University,OTHER,False,academic
+NCT06400602,Vanderbilt University Medical Center,OTHER,False,academic
+NCT06436131,Cyprus University of Technology,OTHER,False,academic
+NCT07165249,Palestine Ahliya University,OTHER,False,academic
+NCT05271006,University of British Columbia,OTHER,False,academic
+NCT00672880,Duke University,OTHER,False,academic
+NCT01705600,Keystone Rehabilitation Systems,OTHER,False,individual
+NCT07440784,Khyber Medical University Peshawar,OTHER,False,academic
+NCT06368076,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT06360341,University of Florida,OTHER,False,academic
+NCT07139288,Cairo University,OTHER,False,academic
+NCT06975501,Duke Kunshan University,OTHER,False,academic
+NCT03327753,McMaster University,OTHER,False,academic
+NCT01653782,Karolinska Institutet,OTHER,False,academic
+NCT03147300,Linkoeping University,OTHER_GOV,False,government
+NCT07539116,Democritus University of Thrace,OTHER,False,academic
+NCT07248813,"Coordinación de Investigación en Salud, Mexico",OTHER_GOV,False,government
+NCT03502187,University of Tennessee,OTHER,False,academic
+NCT07030582,Jiawei Jiang,OTHER,False,individual
+NCT04334096,Tumor Center Regensburg,OTHER,False,hospital
+NCT05479435,Istanbul Medipol University Hospital,OTHER,False,academic
+NCT02029131,Hannover Medical School,OTHER,False,academic
+NCT02391350,University of Utah,OTHER,False,academic
+NCT06268522,Brigham and Women's Hospital,OTHER,False,hospital
+NCT07429682,Atlas University,OTHER,False,academic
+NCT07570641,lee kyoungju,OTHER,False,other
+NCT00594243,University of Pittsburgh,OTHER,False,academic
+NCT06956664,Çankırı Karatekin University,OTHER,False,academic
+NCT07573722,Yuanpei University of Medical Technology,OTHER,False,academic
+NCT06265506,Washington State University,OTHER,False,academic
+NCT07604168,University of Faisalabad,OTHER,False,academic
+NCT06971809,Integrative Pain Science Institute,INDUSTRY,True,industry
+NCT07355595,National Yang Ming Chiao Tung University,OTHER,False,academic
+NCT07318454,National Yang Ming Chiao Tung University,OTHER,False,academic
+NCT03413839,Columbia University,OTHER,False,academic
+NCT06895317,IRCCS Centro Neurolesi Bonino Pulejo,OTHER,False,other
+NCT05684497,Kastamonu University,OTHER,False,academic
+NCT07639216,Centro Universitário Augusto Motta,OTHER,False,academic
+NCT06214884,Universiti Sains Malaysia,OTHER,False,academic
+NCT04034004,"University of California, San Diego",OTHER,False,academic
+NCT03031158,University of Delaware,OTHER,False,academic
+NCT03466008,Haute École Robert Schuman Libramont,OTHER,False,academic
+NCT05901142,University Hospitals of Derby and Burton NHS Foundation Trust,OTHER,False,government
+NCT03644927,Boston University,OTHER,False,academic
+NCT05233254,Hacettepe University,OTHER,False,academic
+NCT02636751,Université de Montréal,OTHER,False,academic
+NCT07599098,Federal University of Maranhao,OTHER,False,government
+NCT07058844,Wanyu Shu,OTHER,False,individual
+NCT00070915,Kaiser Permanente,OTHER,False,hospital
+NCT07535047,Cairo University,OTHER,False,academic
+NCT06605248,Neuroscience Research Australia,OTHER,False,individual
+NCT05085782,Université de Sherbrooke,OTHER,False,academic
+NCT02938169,Seoul National University Hospital,OTHER,False,academic
+NCT06771856,Vrije Universiteit Brussel,OTHER,False,academic
+NCT07576062,Centro Universitário Augusto Motta,OTHER,False,academic
+NCT07251959,Catholic University of Murcia,OTHER,False,academic
+NCT03902847,Universidad Autonoma de Madrid,OTHER,False,academic
+NCT00329342,Forschungsinstitut für Balneologie und Kurortwissenschaft Bad Elster,OTHER_GOV,False,government
+NCT07298941,University of Virginia,OTHER,False,academic
+NCT05774002,Montefiore Medical Center,OTHER,False,hospital
+NCT01971151,Maastricht University Medical Center,OTHER,False,academic
+NCT00439764,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT03581123,University of Minnesota,OTHER,False,academic
+NCT04715789,Cairo University,OTHER,False,academic
+NCT07558993,University of Sharjah,OTHER,False,academic
+NCT07207083,dongmin kang,OTHER,False,other
+NCT06343129,University of Rochester,OTHER,False,academic
+NCT06164847,Hochschule Osnabruck,OTHER,False,academic
+NCT02868034,University of Utah,OTHER,False,academic
+NCT06741956,University of Seville,OTHER,False,academic
+NCT02647658,University of Pittsburgh,OTHER,False,academic
+NCT06063408,European University Cyprus,OTHER,False,academic
+NCT03167086,Stanford University,OTHER,False,academic
+NCT07346651,Fenerbahce University,OTHER,False,academic
+NCT04381975,McGill University,OTHER,False,academic
+NCT07452029,Peking University Third Hospital,OTHER,False,academic
+NCT05419297,Carolinas Pain Institute,OTHER,False,research_nonprofit
+NCT01250600,China Medical University Hospital,OTHER,False,academic
+NCT07667062,University of Health Sciences Lahore,OTHER,False,academic
+NCT04074798,Hasselt University,OTHER,False,academic
+NCT07264231,Universidad Pública de Navarra,OTHER,False,academic
+NCT04411420,Duke University,OTHER,False,academic
+NCT05434130,"University of Colorado, Denver",OTHER,False,academic
+NCT05651490,Singapore Eye Research Institute,OTHER,False,research_nonprofit
+NCT02284958,University of Saskatchewan,OTHER,False,academic
+NCT05807685,Sinop University,OTHER,False,academic
+NCT06696352,University of Minnesota,OTHER,False,academic
+NCT07053787,VA Office of Research and Development,FED,False,government
+NCT02633917,Universidad Complutense de Madrid,OTHER,False,academic
+NCT00802724,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH,False,government
+NCT07177001,The University of The West Indies,OTHER,False,academic
+NCT03026374,"The First Affiliated Hospital, Guangzhou University of Traditional Chinese Medicine",OTHER,False,academic
+NCT03679130,Nordsjaellands Hospital,OTHER,False,hospital
+NCT04528693,Poznan University of Physical Education,OTHER,False,academic
+NCT03169140,Sport and Spine Rehab Clinical Research Foundation,OTHER,False,research_nonprofit
+NCT03546153,University of Kansas Medical Center,OTHER,False,academic
+NCT06017934,University of Southampton,OTHER,False,academic
+NCT06576414,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT07448766,Cairo University,OTHER,False,academic
+NCT02222935,Baskaran Chandrasekaran,OTHER,False,individual
+NCT04673773,Lund University,OTHER,False,academic
+NCT02384928,Jaseng Medical Foundation,OTHER,False,research_nonprofit
+NCT07696741,"University Health Network, Toronto",OTHER,False,academic
+NCT03658226,Charlotte Morgan,OTHER,False,individual
+NCT01699256,University of Aarhus,OTHER,False,academic
+NCT02799628,Taoyuan General Hospital,OTHER_GOV,False,government
+NCT00937365,Oregon Health and Science University,OTHER,False,academic
+NCT06630676,Northwestern University,OTHER,False,academic
+NCT00170118,Mayo Clinic,OTHER,False,hospital
+NCT04824846,Universiti Sains Malaysia,OTHER,False,academic
+NCT07126860,Ludwig-Maximilians - University of Munich,OTHER,False,academic
+NCT02145728,University of Limerick,OTHER,False,academic
+NCT02875301,University of Pittsburgh,OTHER,False,academic
+NCT01918189,VA Office of Research and Development,FED,False,government
+NCT07163546,Hacettepe University,OTHER,False,academic
+NCT05870371,University of West Attica,OTHER,False,academic
+NCT06208514,University of Michigan,OTHER,False,academic
+NCT01465698,UKK Institute,OTHER,False,research_nonprofit
+NCT00796536,University of Vermont,OTHER,False,academic
+NCT01739140,"University of California, San Francisco",OTHER,False,academic
+NCT02235207,UKK Institute,OTHER,False,research_nonprofit
+NCT02247050,University of Michigan,OTHER,False,academic
+NCT04226716,Hasselt University,OTHER,False,academic
+NCT03852667,University Ghent,OTHER,False,academic
+NCT06600074,Cairo University,OTHER,False,academic
+NCT07454811,Osijek University Hospital,OTHER,False,academic
+NCT03969602,Neurocenter of Southern Switzerland,OTHER,False,hospital
+NCT01632618,University of Delaware,OTHER,False,academic
+NCT04610905,Vrije Universiteit Brussel,OTHER,False,academic
+NCT06923800,Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis,OTHER,False,other
+NCT05578781,University of Washington,OTHER,False,academic
+NCT07239427,University of Valladolid,OTHER,False,academic
+NCT04797871,Universidad Pública de Navarra,OTHER,False,academic
+NCT07182825,Mehmet Akif Guler,OTHER,False,individual
+NCT04284982,Norwegian University of Science and Technology,OTHER,False,academic
+NCT00201513,Norwegian University of Science and Technology,OTHER,False,academic
+NCT07458776,University of Lahore,OTHER,False,academic
+NCT07664267,EverEx Inc.,INDUSTRY,True,industry
+NCT06419439,VA Office of Research and Development,FED,False,government
+NCT05860205,Kailea Manning,OTHER,False,individual
+NCT05585294,Gulf Medical University,OTHER,False,academic
+NCT06226298,Universidad Rey Juan Carlos,OTHER,False,academic
+NCT05273346,Beijing University of Chinese Medicine,OTHER,False,academic
+NCT01378793,University of Michigan,OTHER,False,academic
+NCT07475481,"Charles University, Czech Republic",OTHER,False,academic
+NCT07136480,Prof. Dr. Cemil Tascıoglu Education and Research Hospital Organization,OTHER,False,hospital
+NCT03427099,Universitaire Ziekenhuizen KU Leuven,OTHER,False,academic
+NCT05393492,"University Hospital, Strasbourg, France",OTHER,False,academic
+NCT06888544,Hong Kong Baptist University,OTHER,False,academic
+NCT07335926,Atlas University,OTHER,False,academic
+NCT04809610,University of Valencia,OTHER,False,academic
+NCT02327325,VA Office of Research and Development,FED,False,government
+NCT03633578,Centre Hospitalier Universitaire de Nīmes,OTHER,False,academic
+NCT00361556,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT05970796,National Taiwan University,OTHER,False,academic
+NCT03483168,Hacettepe University,OTHER,False,academic
+NCT07125027,National University of Natural Medicine,OTHER,False,academic
+NCT02354430,"Rigshospitalet, Denmark",OTHER,False,hospital
+NCT07649707,University of Artois,OTHER,False,academic
+NCT04259294,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT05102968,Kaohsiung Veterans General Hospital.,OTHER,False,hospital
+NCT01155804,Center for Research on Reproductive Health of Campinas,OTHER,False,hospital
+NCT07497425,McGill University,OTHER,False,academic
+NCT00394732,Ullevaal University Hospital,OTHER,False,academic
+NCT01666639,University of Erlangen-Nürnberg,OTHER,False,academic
+NCT03863808,Marwa Elsayed,OTHER,False,individual
+NCT00361270,VA Office of Research and Development,FED,False,government
+NCT05487027,Norwegian University of Science and Technology,OTHER,False,academic
+NCT04355104,Jordan University of Science and Technology,OTHER,False,academic
+NCT01918228,"Glostrup University Hospital, Copenhagen",OTHER,False,academic
+NCT01922063,Medical University of Vienna,OTHER,False,academic
+NCT06594796,Willeke Boonstra,OTHER,False,individual
+NCT03484403,Dallas VA Medical Center,FED,False,government
+NCT05404399,Liverpool University Hospitals NHS Foundation Trust,OTHER_GOV,False,government
+NCT07126977,Bahçeşehir University,OTHER,False,academic
+NCT03349580,Dejan Kernc,OTHER,False,individual
+NCT06668077,Raquel Vilar López,OTHER,False,individual
+NCT05571215,High Point University,OTHER,False,academic
+NCT06106191,Boston Medical Center,OTHER,False,hospital
+NCT07152171,University of Chile,OTHER,False,academic
+NCT06784245,Marina Alvarado,OTHER,False,individual
+NCT05049772,Izmir Katip Celebi University,OTHER,False,academic
+NCT06835439,San Diego State University,OTHER,False,academic
+NCT02996955,Maastricht University Medical Center,OTHER,False,academic
+NCT05721027,Montefiore Medical Center,OTHER,False,hospital
+NCT07067489,Uludag University,OTHER,False,academic
+NCT07082660,Şebnem Nur Alkan,OTHER,False,other
+NCT07285824,Evidence In Motion,OTHER,False,individual
+NCT03356886,University of Sao Paulo,OTHER,False,academic
+NCT02731339,Ataturk Training and Research Hospital,OTHER,False,hospital
+NCT05553444,Aalborg University,OTHER,False,academic
+NCT04023162,Antonija Hrkać,OTHER,False,individual
+NCT07425964,Aalborg University,OTHER,False,academic
+NCT00624533,Carlos III Health Institute,OTHER_GOV,False,government
+NCT04009837,University of Delaware,OTHER,False,academic
+NCT06471920,Johns Hopkins University,OTHER,False,academic
+NCT02884466,Sano,OTHER,False,other
+NCT03116451,University of Turku,OTHER,False,academic
+NCT05849064,University of Pittsburgh,OTHER,False,academic
+NCT04923334,University of Utah,OTHER,False,academic
+NCT00665821,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT07065318,Ankara City Hospital Bilkent,OTHER,False,hospital
+NCT02871739,Massachusetts General Hospital,OTHER,False,hospital
+NCT01158339,Norwegian University of Science and Technology,OTHER,False,academic
+NCT04115670,Fundació Universitària del Bages,OTHER,False,academic
+NCT03799952,University of New Brunswick,OTHER,False,academic
+NCT07688564,Universiti Sains Malaysia,OTHER,False,academic
+NCT04691258,Universidade Federal de Goias,OTHER,False,government
+NCT02420236,Norwegian University of Science and Technology,OTHER,False,academic
+NCT03572452,Central Finland Hospital District,OTHER,False,hospital
+NCT04352543,Universidade Federal de Goias,OTHER,False,government
+NCT03157622,Philipps University Marburg,OTHER,False,academic
+NCT02224183,Boston Medical Center,OTHER,False,hospital
+NCT03399409,Universidade do Porto,OTHER,False,academic
+NCT05698914,Vanderbilt University Medical Center,OTHER,False,academic
+NCT06771713,University of Michigan,OTHER,False,academic
+NCT03221439,Centro Universitário Augusto Motta,OTHER,False,academic
+NCT06221956,Gaia AG,INDUSTRY,True,industry
+NCT07652944,Joe X. Zhang,FED,False,government
+NCT07173335,University of Sydney,OTHER,False,academic
+NCT07522593,University of Southern Queensland,OTHER,False,academic
+NCT07476911,Instituto Politécnico de Castelo Branco,OTHER,False,research_nonprofit
+NCT00494845,University of Pittsburgh,OTHER,False,academic
+NCT07321171,Shira Barzilay,OTHER,False,individual
+NCT05331586,Universidade do Porto,OTHER,False,academic
+NCT05998434,"First Affiliated Hospital, Sun Yat-Sen University",OTHER,False,academic
+NCT03524378,University of Florida,OTHER,False,academic
+NCT02801123,Linda E. Carlson,OTHER,False,other
+NCT04610073,Nahid Zarifsanaiey,OTHER,False,individual
+NCT04935606,"University of California, Los Angeles",OTHER,False,academic
+NCT04399772,Odense University Hospital,OTHER,False,academic
+NCT04544735,Duke University,OTHER,False,academic
+NCT05450263,Orton Orthopaedic Hospital,OTHER,False,hospital
+NCT04980612,"University of California, San Francisco",OTHER,False,academic
+NCT04744883,Rush University Medical Center,OTHER,False,academic
+NCT05582889,University of New Mexico,OTHER,False,academic
+NCT05005416,San Diego State University,OTHER,False,academic
+NCT02498197,"National Research Centre for the Working Environment, Denmark",OTHER_GOV,False,government
+NCT03385083,New York Institute of Technology,OTHER,False,academic
+NCT01950091,"Oregon Center for Applied Science, Inc.",INDUSTRY,True,industry
+NCT06054074,University of Valencia,OTHER,False,academic
+NCT03766100,Bente Appel Esbensen,OTHER,False,individual
+NCT05102097,"Bayero University Kano, Nigeria",OTHER,False,academic
+NCT02724930,VA Connecticut Healthcare System,FED,False,government
+NCT01499784,Anne Deutsch,OTHER,False,individual
+NCT03157570,Chinese University of Hong Kong,OTHER,False,academic
+NCT05443880,IBS Granada,OTHER,False,other
+NCT05359107,Talita Cumi Ltd.,INDUSTRY,True,industry
+NCT04111315,"Insel Gruppe AG, University Hospital Bern",OTHER,False,academic
+NCT06239753,Dondu Kurnaz,OTHER,False,individual
+NCT06161753,University Hospitals Coventry and Warwickshire NHS Trust,OTHER,False,government
+NCT06835270,Uşak University,OTHER,False,academic
+NCT05890326,Uskudar University,OTHER,False,academic
+NCT06672809,Kyungdong University,OTHER,False,academic
+NCT04967534,University of Erlangen-Nürnberg Medical School,OTHER,False,academic
+NCT05919446,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT07000006,Pardis Specialized Wellness Institute,OTHER,False,research_nonprofit
+NCT03482856,University Ghent,OTHER,False,academic
+NCT06787209,Lucía Pilar Vicente Pina,OTHER,False,other
+NCT05093543,Hospital Universitari de Bellvitge,OTHER,False,academic
+NCT07406711,Osijek University Hospital,OTHER,False,academic
+NCT02415660,Brooke Army Medical Center,FED,False,government
+NCT07216417,Taylor Rees,OTHER,False,individual
+NCT00809640,Kovacs Foundation,OTHER,False,research_nonprofit
+NCT02871284,German Cancer Research Center,OTHER,False,research_nonprofit
+NCT06148896,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT07061743,Çankırı Karatekin University,OTHER,False,academic
+NCT06153199,University of Florida,OTHER,False,academic
+NCT00741650,NORCE Norwegian Research Centre AS,OTHER,False,research_nonprofit
+NCT03481504,Maastricht University Medical Center,OTHER,False,academic
+NCT05086159,Keller Army Community Hospital,FED,False,government
+NCT03294148,"University of Colorado, Boulder",OTHER,False,academic
+NCT06872515,University of Pittsburgh,OTHER,False,academic
+NCT00573612,Indiana University,OTHER,False,academic
+NCT07211464,The Hong Kong Polytechnic University,OTHER,False,academic
+NCT06621264,University Hospital of Ferrara,OTHER,False,academic
+NCT04068922,University of Florida,OTHER,False,academic
+NCT07161232,Li Xiang,OTHER,False,individual
+NCT02348983,University of Utah,OTHER,False,academic
+NCT06452030,University Ghent,OTHER,False,academic
+NCT04591249,Vanderbilt University Medical Center,OTHER,False,academic
+NCT03157544,Sport and Spine Rehab Clinical Research Foundation,OTHER,False,research_nonprofit
+NCT01744015,Walsh University,OTHER,False,academic
+NCT01405716,University of Pittsburgh,OTHER,False,academic
+NCT04648683,Vanderbilt University Medical Center,OTHER,False,academic
+NCT07396051,"Xuanwu Hospital, Beijing",OTHER,False,hospital
+NCT01704677,Oslo University Hospital,OTHER,False,academic
+NCT02514148,Universidad Autonoma de Madrid,OTHER,False,academic
+NCT07250568,Suci Wahyu Ismiyasa,OTHER,False,individual
+NCT05257356,susanne becker,OTHER,False,other
+NCT04120532,Taipei Medical University Shuang Ho Hospital,OTHER,False,academic
+NCT00608530,VA Office of Research and Development,FED,False,government
+NCT06889389,Universidad Miguel Hernandez de Elche,OTHER,False,academic
+NCT03456050,King Saud University,OTHER,False,academic
+NCT05806593,Sophiahemmet University,OTHER,False,academic
+NCT01343927,Boston Medical Center,OTHER,False,hospital
+NCT05319691,Robert Saper,OTHER,False,individual
+NCT07258927,Istanbul University - Cerrahpasa,OTHER,False,academic
+NCT03759951,University of Thessaly,OTHER,False,academic
+NCT02015572,Frederiksberg University Hospital,OTHER,False,academic
+NCT06669702,Loughborough University,OTHER,False,academic
+NCT02244645,Chang Bing Show Chwan Memorial Hospital,OTHER,False,hospital
+NCT05679167,Vastra Gotaland Region,OTHER_GOV,False,government
+NCT05294081,University of Kaiserslautern-Landau,OTHER,False,academic
+NCT04678297,University of Connecticut,OTHER,False,academic
+NCT03324659,Duquesne University,OTHER,False,academic
+NCT00447668,Kaiser Permanente,OTHER,False,hospital
+NCT01992770,Uppsala University,OTHER,False,academic
+NCT01932723,University of Social Welfare and Rehabilitation Science,OTHER,False,academic
+NCT05845086,Aydin Adnan Menderes University,OTHER,False,academic
+NCT01545986,Helen Hayes Hospital,OTHER,False,hospital
+NCT04377529,Memorial University of Newfoundland,OTHER,False,academic
+NCT04690465,Hong Kong Baptist University,OTHER,False,academic
+NCT04751890,University Hospital of Ferrara,OTHER,False,academic
+NCT03172962,"National Research Centre for the Working Environment, Denmark",OTHER_GOV,False,government
+NCT00561652,US Department of Veterans Affairs,FED,False,government

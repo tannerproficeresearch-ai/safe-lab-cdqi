@@ -1,0 +1,12 @@
+group,k,n,prevalence,ci_low,ci_high
+industry (lead),1091,1460,0.7473,0.7243,0.7689
+non-industry (lead),369,1460,0.2527,0.2311,0.2757
+category: industry,1091,1460,0.7473,0.7243,0.7689
+category: academic,217,1460,0.1486,0.1313,0.1678
+category: hospital,50,1460,0.0342,0.0261,0.0449
+category: government,31,1460,0.0212,0.015,0.03
+category: individual,27,1460,0.0185,0.0127,0.0268
+category: private_practice,17,1460,0.0116,0.0073,0.0186
+category: research_nonprofit,13,1460,0.0089,0.0052,0.0152
+category: other,9,1460,0.0062,0.0032,0.0117
+category: network,5,1460,0.0034,0.0015,0.008
