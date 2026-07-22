@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:26:56.466440+00:00",
+  "utc": "2026-07-22T02:02:42.705027+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "atopic dermatitis",
   "python": "3.13.9",
@@ -9,5 +9,5 @@
   "terms": [],
   "n_scored": 982,
   "completeness": 1.0,
-  "stamp_hash": "adb610657bb8"
+  "stamp_hash": "a3aeaea84fc9"
 }

@@ -38,3 +38,23 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_atopic_dermatitis
 
+- **2026-07-22T02:02:38.991159+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='atopic dermatitis' query='atopic dermatitis' field=query.cond scope=DRUG
+
+- **2026-07-22T02:02:42.234938+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='atopic dermatitis' -> 1427 trials
+
+- **2026-07-22T02:02:42.235022+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: single-strategy (no positive-term list) -> degenerate completeness=1.0; reflects unambiguous terminology, not a strong statistical estimate (protocol §4.3)
+
+- **2026-07-22T02:02:42.235088+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=DRUG types=['DRUG'] -> 982 scoped trials
+
+- **2026-07-22T02:02:42.705961+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_atopic_dermatitis
+
