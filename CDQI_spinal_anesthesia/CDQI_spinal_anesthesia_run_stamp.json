@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:26:54.717676+00:00",
+  "utc": "2026-07-22T02:02:38.920891+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "spinal anesthesia",
   "python": "3.13.9",
@@ -7,7 +7,7 @@
   "query_field": "query.cond",
   "scope": "DRUG",
   "terms": [],
-  "n_scored": 690,
+  "n_scored": 691,
   "completeness": 1.0,
-  "stamp_hash": "a5da67db6e5a"
+  "stamp_hash": "f2e74bd7b436"
 }

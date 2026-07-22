@@ -1,10 +1,15 @@
 component,k,n,prevalence,ci_low,ci_high
-Randomized (A1),657,690,0.9522,0.9336,0.9657
-Any blinding (A2),592,690,0.858,0.8299,0.882
-Double-blind+ (A2),494,690,0.7159,0.6812,0.7483
-Meets power floor (A4),470,690,0.6812,0.6455,0.7148
-Pivotal phase 3/4 (B1),330,690,0.4783,0.4412,0.5156
-Treatment purpose (B2),347,690,0.5029,0.4657,0.5401
-Multi-arm >=3 (B3),162,690,0.2348,0.2047,0.2678
-Results posted,56,690,0.0812,0.063,0.1039
-Own publication linked,55,690,0.0797,0.0618,0.1023
+Randomized (A1),658,691,0.9522,0.9337,0.9658
+Any blinding (A2),593,691,0.8582,0.8302,0.8822
+Double-blind+ (A2),495,691,0.7164,0.6816,0.7487
+Meets power floor (A4),470,691,0.6802,0.6445,0.7139
+Has comparator arm (A6),586,691,0.848,0.8194,0.8729
+"Attrition <20% (A3, results-posted)",54,56,0.9643,0.8788,0.9902
+Pivotal phase 3/4 (B1),331,691,0.479,0.442,0.5163
+Treatment purpose (B2),348,691,0.5036,0.4664,0.5408
+Multi-arm >=3 (B3),162,691,0.2344,0.2044,0.2674
+Results posted,56,691,0.081,0.0629,0.1038
+Own publication linked,55,691,0.0796,0.0617,0.1022
+Independent citation (DERIVED),106,691,0.1534,0.1285,0.1822
+IPD-sharing pledged,69,691,0.0999,0.0797,0.1245
+DMC oversight,183,544,0.3364,0.298,0.3771

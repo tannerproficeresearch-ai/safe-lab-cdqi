@@ -7,3 +7,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:26:54.337934+00:00,records_fetched,1116,
 2026-07-20T19:26:54.338072+00:00,reconciliation_ok,1116,fetched == totalCount (1116)
 2026-07-20T19:26:54.340449+00:00,scoped_trials,690,scope=DRUG
+2026-07-22T02:02:37.852692+00:00,api_totalCount,1119,query.cond='spinal anesthesia'
+2026-07-22T02:02:38.509142+00:00,records_fetched,1119,
+2026-07-22T02:02:38.509502+00:00,reconciliation_ok,1119,fetched == totalCount (1119)
+2026-07-22T02:02:38.514056+00:00,scoped_trials,691,scope=DRUG

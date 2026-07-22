@@ -1,14 +1,28 @@
 characteristic,value
-N trials,690
+N trials,691
 Date range (start year),2002-2027
 Enrollment median [IQR],80 [56-124]
-"Pivotal (phase 3/4), n (%)",330 (48%)
-"Treatment purpose, n (%)",347 (50%)
+"Pivotal (phase 3/4), n (%)",331 (48%)
+"Treatment purpose, n (%)",348 (50%)
 "Results posted, n (%)",56 (8%)
-Intervention type: drug,614 (89%)
+"Attrition median [IQR], results-posted",2.0% [0.0%-9.3%] (n=56)
+Intervention type: drug,615 (89%)
 Intervention type: both,76 (11%)
-Sponsor class: OTHER,639 (93%)
+Sponsor class: OTHER,640 (93%)
 Sponsor class: OTHER_GOV,35 (5%)
 Sponsor class: INDUSTRY,14 (2%)
 Sponsor class: NETWORK,1 (0%)
 Sponsor class: INDIV,1 (0%)
+Intervention model (A5): PARALLEL,638 (92%)
+Intervention model (A5): SINGLE_GROUP,18 (3%)
+Intervention model (A5): FACTORIAL,14 (2%)
+Intervention model (A5): CROSSOVER,13 (2%)
+Intervention model (A5): SEQUENTIAL,8 (1%)
+Comparator (A6): active,374 (54%)
+Comparator (A6): placebo/sham,202 (29%)
+Comparator (A6): none/single-group,105 (15%)
+Comparator (A6): no-intervention,10 (1%)
+IPD-sharing statement: (not stated),285 (41%)
+IPD-sharing statement: NO,257 (37%)
+IPD-sharing statement: UNDECIDED,80 (12%)
+IPD-sharing statement: YES,69 (10%)
