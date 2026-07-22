@@ -50,3 +50,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_total_knee_arthroplasty
 
+- **2026-07-22T02:03:43.059008+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='total knee arthroplasty' query='total knee arthroplasty' field=query.term scope=PROC_DEVICE
+
+- **2026-07-22T02:03:56.797160+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.term='total knee arthroplasty' -> 2753 trials
+
+- **2026-07-22T02:03:56.797253+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['knee', 'arthroplasty', 'knee', 'replacement', 'tka'] -> 1393 trials
+
+- **2026-07-22T02:03:56.797293+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=2753 N_hat=2753.0 completeness=1.0 degenerate=True
+
+- **2026-07-22T02:03:56.797327+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=PROC_DEVICE types=['DEVICE', 'PROCEDURE'] -> 1413 scoped trials
+
+- **2026-07-22T02:03:57.292261+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_total_knee_arthroplasty
+

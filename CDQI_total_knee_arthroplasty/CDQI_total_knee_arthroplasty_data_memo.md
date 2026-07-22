@@ -1,18 +1,18 @@
 # CDQI data memo — total knee arthroplasty
 
-**Query:** `total knee arthroplasty`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `1aa735c8dff1`
-**N scored trials:** 1412  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
+**Query:** `total knee arthroplasty`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `1440b0a13261`
+**N scored trials:** 1413  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
 
 ## Headline CDQI components (prevalence, Wilson 95% CI)
-- Randomized (A1): 82.2% [80.1%, 84.1%] (n=1412)
-- Any blinding (A2): 61.3% [58.8%, 63.8%] (n=1412)
-- Double-blind+ (A2): 37.0% [34.6%, 39.6%] (n=1412)
-- Meets power floor (A4): 79.6% [77.4%, 81.6%] (n=1409)
-- Pivotal phase 3/4 (B1): 13.2% [11.6%, 15.1%] (n=1412)
-- Results posted: 16.0% [14.2%, 18.0%] (n=1412)
-- Own publication linked: 7.0% [5.8%, 8.5%] (n=1412)
+- Randomized (A1): 82.2% [80.1%, 84.1%] (n=1413)
+- Any blinding (A2): 61.4% [58.8%, 63.9%] (n=1413)
+- Double-blind+ (A2): 37.1% [34.6%, 39.6%] (n=1413)
+- Meets power floor (A4): 79.6% [77.4%, 81.6%] (n=1410)
+- Pivotal phase 3/4 (B1): 13.2% [11.6%, 15.1%] (n=1413)
+- Results posted: 16.0% [14.2%, 18.0%] (n=1413)
+- Own publication linked: 7.0% [5.8%, 8.5%] (n=1413)
 
 ## Standing caveats (protocol §6)
 - Read blinding WITHIN intervention type: procedure/device trials cannot blind the operator; a low
