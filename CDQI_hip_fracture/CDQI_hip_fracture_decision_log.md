@@ -50,3 +50,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_hip_fracture
 
+- **2026-07-22T02:03:37.309755+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='hip fracture' query='hip fracture' field=query.cond scope=PROC_DEVICE
+
+- **2026-07-22T02:03:42.652415+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='hip fracture' -> 815 trials
+
+- **2026-07-22T02:03:42.652517+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['fixation', 'arthroplasty', 'nail', 'screw'] -> 271 trials
+
+- **2026-07-22T02:03:42.652571+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=888 N_hat=1114.3 completeness=0.7969 degenerate=False
+
+- **2026-07-22T02:03:42.652617+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=PROC_DEVICE types=['DEVICE', 'PROCEDURE'] -> 493 scoped trials
+
+- **2026-07-22T02:03:42.993317+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_hip_fracture
+

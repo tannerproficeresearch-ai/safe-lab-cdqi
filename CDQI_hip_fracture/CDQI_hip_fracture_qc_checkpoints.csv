@@ -13,3 +13,10 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:27:09.384795+00:00,records_fetched,1449,
 2026-07-20T19:27:09.385014+00:00,reconciliation_ok,1449,fetched == totalCount (1449)
 2026-07-20T19:27:09.397108+00:00,scoped_trials,490,scope=PROC_DEVICE
+2026-07-22T02:03:38.913110+00:00,api_totalCount,815,query.cond='hip fracture'
+2026-07-22T02:03:38.913514+00:00,records_fetched,815,
+2026-07-22T02:03:38.913577+00:00,reconciliation_ok,815,fetched == totalCount (815)
+2026-07-22T02:03:41.223828+00:00,api_totalCount,1453,query.term='hip fracture'
+2026-07-22T02:03:42.638955+00:00,records_fetched,1453,
+2026-07-22T02:03:42.639096+00:00,reconciliation_ok,1453,fetched == totalCount (1453)
+2026-07-22T02:03:42.652657+00:00,scoped_trials,493,scope=PROC_DEVICE

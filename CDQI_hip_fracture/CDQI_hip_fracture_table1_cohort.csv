@@ -1,15 +1,30 @@
 characteristic,value
-N trials,490
-Date range (start year),1990-2026
+N trials,493
+Date range (start year),1990-2027
 Enrollment median [IQR],80 [40-164]
 "Pivotal (phase 3/4), n (%)",57 (12%)
-"Treatment purpose, n (%)",380 (78%)
+"Treatment purpose, n (%)",382 (77%)
 "Results posted, n (%)",37 (8%)
-Intervention type: proc_device,454 (93%)
+"Attrition median [IQR], results-posted",12.3% [1.7%-24.4%] (n=36)
+Intervention type: proc_device,457 (93%)
 Intervention type: both,36 (7%)
-Sponsor class: OTHER,389 (79%)
+Sponsor class: OTHER,391 (79%)
 Sponsor class: INDUSTRY,57 (12%)
-Sponsor class: OTHER_GOV,37 (8%)
-Sponsor class: NETWORK,3 (1%)
+Sponsor class: OTHER_GOV,38 (8%)
 Sponsor class: NIH,3 (1%)
+Sponsor class: NETWORK,3 (1%)
 Sponsor class: INDIV,1 (0%)
+Intervention model (A5): PARALLEL,389 (79%)
+Intervention model (A5): SINGLE_GROUP,80 (16%)
+Intervention model (A5): CROSSOVER,13 (3%)
+Intervention model (A5): FACTORIAL,6 (1%)
+Intervention model (A5): SEQUENTIAL,4 (1%)
+Intervention model (A5): (not stated),1 (0%)
+Comparator (A6): active,269 (55%)
+Comparator (A6): none/single-group,156 (32%)
+Comparator (A6): no-intervention,37 (8%)
+Comparator (A6): placebo/sham,31 (6%)
+IPD-sharing statement: (not stated),210 (43%)
+IPD-sharing statement: NO,195 (40%)
+IPD-sharing statement: YES,45 (9%)
+IPD-sharing statement: UNDECIDED,43 (9%)

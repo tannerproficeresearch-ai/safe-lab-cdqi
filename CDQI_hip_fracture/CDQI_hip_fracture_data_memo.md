@@ -1,18 +1,18 @@
 # CDQI data memo — hip fracture
 
-**Query:** `hip fracture`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `8664c09569b4`
-**N scored trials:** 490  |  **search completeness estimate:** 80%
+**Query:** `hip fracture`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `34564fcd6662`
+**N scored trials:** 493  |  **search completeness estimate:** 80%
 
 Cite the run-stamp hash in the data-availability statement.
 
 ## Headline CDQI components (prevalence, Wilson 95% CI)
-- Randomized (A1): 79.2% [75.4%, 82.5%] (n=490)
-- Any blinding (A2): 49.4% [45.0%, 53.8%] (n=490)
-- Double-blind+ (A2): 24.3% [20.7%, 28.3%] (n=490)
-- Meets power floor (A4): 80.6% [76.8%, 83.8%] (n=489)
-- Pivotal phase 3/4 (B1): 11.6% [9.1%, 14.8%] (n=490)
-- Results posted: 7.5% [5.5%, 10.2%] (n=490)
-- Own publication linked: 9.0% [6.8%, 11.8%] (n=490)
+- Randomized (A1): 79.3% [75.5%, 82.7%] (n=493)
+- Any blinding (A2): 49.7% [45.3%, 54.1%] (n=493)
+- Double-blind+ (A2): 24.5% [20.9%, 28.5%] (n=493)
+- Meets power floor (A4): 80.7% [77.0%, 83.9%] (n=492)
+- Pivotal phase 3/4 (B1): 11.6% [9.0%, 14.7%] (n=493)
+- Results posted: 7.5% [5.5%, 10.2%] (n=493)
+- Own publication linked: 9.1% [6.9%, 12.0%] (n=493)
 
 ## Standing caveats (protocol §6)
 - Read blinding WITHIN intervention type: procedure/device trials cannot blind the operator; a low
