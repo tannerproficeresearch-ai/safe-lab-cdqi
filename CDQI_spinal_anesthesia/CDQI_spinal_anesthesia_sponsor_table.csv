@@ -1,11 +1,11 @@
 group,k,n,prevalence,ci_low,ci_high
-industry (lead),14,690,0.0203,0.0121,0.0338
-non-industry (lead),676,690,0.9797,0.9662,0.9879
-category: academic,440,690,0.6377,0.6011,0.6727
-category: hospital,117,690,0.1696,0.1434,0.1994
-category: government,48,690,0.0696,0.0529,0.091
-category: individual,29,690,0.042,0.0294,0.0597
-category: other,22,690,0.0319,0.0211,0.0478
-category: research_nonprofit,19,690,0.0275,0.0177,0.0426
-category: industry,14,690,0.0203,0.0121,0.0338
-category: network,1,690,0.0014,0.0003,0.0082
+industry (lead),14,691,0.0203,0.0121,0.0337
+non-industry (lead),677,691,0.9797,0.9663,0.9879
+category: academic,440,691,0.6368,0.6002,0.6718
+category: hospital,118,691,0.1708,0.1445,0.2006
+category: government,48,691,0.0695,0.0528,0.0909
+category: individual,29,691,0.042,0.0294,0.0596
+category: other,22,691,0.0318,0.0211,0.0477
+category: research_nonprofit,19,691,0.0275,0.0177,0.0425
+category: industry,14,691,0.0203,0.0121,0.0337
+category: network,1,691,0.0014,0.0003,0.0082
