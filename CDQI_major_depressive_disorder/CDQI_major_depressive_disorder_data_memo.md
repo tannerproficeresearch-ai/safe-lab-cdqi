@@ -1,6 +1,6 @@
 # CDQI data memo — major depressive disorder
 
-**Query:** `major depressive disorder`  |  **interventionType scope:** DRUG  |  **run-stamp:** `140231d377d9`
+**Query:** `major depressive disorder`  |  **interventionType scope:** DRUG  |  **run-stamp:** `0e560e3afe44`
 **N scored trials:** 1679  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.

@@ -7,3 +7,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:27:24.916346+00:00,records_fetched,3221,
 2026-07-20T19:27:24.916890+00:00,reconciliation_ok,3221,fetched == totalCount (3221)
 2026-07-20T19:27:24.927984+00:00,scoped_trials,1679,scope=DRUG
+2026-07-22T02:04:15.670921+00:00,api_totalCount,3221,query.cond='major depressive disorder'
+2026-07-22T02:04:22.391130+00:00,records_fetched,3221,
+2026-07-22T02:04:22.391688+00:00,reconciliation_ok,3221,fetched == totalCount (3221)
+2026-07-22T02:04:22.403713+00:00,scoped_trials,1679,scope=DRUG
