@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:26:50.632601+00:00",
+  "utc": "2026-07-22T02:02:29.425327+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "postoperative pain",
   "python": "3.13.9",
@@ -7,7 +7,7 @@
   "query_field": "query.cond",
   "scope": "DRUG",
   "terms": [],
-  "n_scored": 3574,
+  "n_scored": 3575,
   "completeness": 1.0,
-  "stamp_hash": "c14277db689a"
+  "stamp_hash": "9f2ee379f67e"
 }

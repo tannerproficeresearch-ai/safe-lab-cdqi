@@ -1,6 +1,6 @@
 # CDQI data memo — inguinal hernia
 
-**Query:** `inguinal hernia`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `0734b59c93aa`
+**Query:** `inguinal hernia`  |  **interventionType scope:** PROC_DEVICE  |  **run-stamp:** `239f50190f1b`
 **N scored trials:** 360  |  **search completeness estimate:** 96%
 
 Cite the run-stamp hash in the data-availability statement.

@@ -7,3 +7,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:26:49.805843+00:00,records_fetched,6815,
 2026-07-20T19:26:49.806180+00:00,reconciliation_ok,6815,fetched == totalCount (6815)
 2026-07-20T19:26:49.823118+00:00,scoped_trials,3574,scope=DRUG
+2026-07-22T02:02:16.104359+00:00,api_totalCount,6820,query.cond='postoperative pain'
+2026-07-22T02:02:28.452003+00:00,records_fetched,6820,
+2026-07-22T02:02:28.452935+00:00,reconciliation_ok,6820,fetched == totalCount (6820)
+2026-07-22T02:02:28.461971+00:00,scoped_trials,3575,scope=DRUG

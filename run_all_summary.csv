@@ -1,16 +1,2 @@
 condition,n,completeness,degenerate,stamp,status
-postoperative pain,3574,1.0,True,c14277db689a,OK
-acute pain,1254,1.0,True,8f7059dde968,OK
-spinal anesthesia,690,1.0,True,a5da67db6e5a,OK
-atopic dermatitis,982,1.0,True,adb610657bb8,OK
-head and neck cancer,4217,1.0,True,b63f32b3ee89,OK
-hearing loss,553,0.9403,False,67f86833bf30,OK
-inguinal hernia,360,0.9638,False,0734b59c93aa,OK
-hip fracture,490,0.7971,False,8664c09569b4,OK
-total knee arthroplasty,1412,1.0,True,1aa735c8dff1,OK
-psoriasis,1460,1.0,True,6e6b19a6aad2,OK
-ulcerative colitis,768,1.0,True,2f170e7d34a7,OK
-rheumatoid arthritis,1616,1.0,True,d59edecebe2f,OK
-major depressive disorder,1679,1.0,True,140231d377d9,OK
-low back pain,696,0.8244,False,61c8946191e2,OK
-atrial fibrillation,1556,0.9526,False,dc18609db072,OK
+inguinal hernia,360,0.9638,False,239f50190f1b,OK
