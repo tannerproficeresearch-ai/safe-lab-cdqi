@@ -13,3 +13,10 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:27:05.586594+00:00,records_fetched,1737,
 2026-07-20T19:27:05.586772+00:00,reconciliation_ok,1737,fetched == totalCount (1737)
 2026-07-20T19:27:05.599870+00:00,scoped_trials,553,scope=DEVICE
+2026-07-22T02:03:29.770264+00:00,api_totalCount,1085,query.cond='hearing loss'
+2026-07-22T02:03:30.354380+00:00,records_fetched,1085,
+2026-07-22T02:03:30.354978+00:00,reconciliation_ok,1085,fetched == totalCount (1085)
+2026-07-22T02:03:32.423320+00:00,api_totalCount,1737,query.term='hearing loss'
+2026-07-22T02:03:34.091169+00:00,records_fetched,1737,
+2026-07-22T02:03:34.091345+00:00,reconciliation_ok,1737,fetched == totalCount (1737)
+2026-07-22T02:03:34.103685+00:00,scoped_trials,553,scope=DEVICE

@@ -1,6 +1,6 @@
 # CDQI data memo — hearing loss
 
-**Query:** `hearing loss`  |  **interventionType scope:** DEVICE  |  **run-stamp:** `67f86833bf30`
+**Query:** `hearing loss`  |  **interventionType scope:** DEVICE  |  **run-stamp:** `67141ca81c87`
 **N scored trials:** 553  |  **search completeness estimate:** 94%
 
 Cite the run-stamp hash in the data-availability statement.

@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:27:05.922850+00:00",
+  "utc": "2026-07-22T02:03:34.450948+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "hearing loss",
   "python": "3.13.9",
@@ -14,5 +14,5 @@
   ],
   "n_scored": 553,
   "completeness": 0.9403,
-  "stamp_hash": "67f86833bf30"
+  "stamp_hash": "67141ca81c87"
 }

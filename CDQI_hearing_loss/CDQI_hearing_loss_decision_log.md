@@ -50,3 +50,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_hearing_loss
 
+- **2026-07-22T02:03:23.623274+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='hearing loss' query='hearing loss' field=query.cond scope=DEVICE
+
+- **2026-07-22T02:03:34.103409+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='hearing loss' -> 1085 trials
+
+- **2026-07-22T02:03:34.103485+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['cochlear', 'hearing', 'aid', 'implant'] -> 816 trials
+
+- **2026-07-22T02:03:34.103560+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=1217 N_hat=1294.3 completeness=0.9403 degenerate=False
+
+- **2026-07-22T02:03:34.103645+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=DEVICE types=['DEVICE'] -> 553 scoped trials
+
+- **2026-07-22T02:03:34.452028+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_hearing_loss
+
