@@ -7,3 +7,7 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:27:16.904213+00:00,records_fetched,1899,
 2026-07-20T19:27:16.904394+00:00,reconciliation_ok,1899,fetched == totalCount (1899)
 2026-07-20T19:27:16.908276+00:00,scoped_trials,1460,scope=DRUG
+2026-07-22T02:03:59.689282+00:00,api_totalCount,1899,query.cond='psoriasis'
+2026-07-22T02:04:01.741071+00:00,records_fetched,1899,
+2026-07-22T02:04:01.741351+00:00,reconciliation_ok,1899,fetched == totalCount (1899)
+2026-07-22T02:04:01.745801+00:00,scoped_trials,1460,scope=DRUG

@@ -1,6 +1,6 @@
 # CDQI data memo — psoriasis
 
-**Query:** `psoriasis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `6e6b19a6aad2`
+**Query:** `psoriasis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `cd30654311a0`
 **N scored trials:** 1460  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
@@ -11,7 +11,7 @@ Cite the run-stamp hash in the data-availability statement.
 - Double-blind+ (A2): 58.0% [55.5%, 60.5%] (n=1460)
 - Meets power floor (A4): 61.1% [58.5%, 63.5%] (n=1454)
 - Pivotal phase 3/4 (B1): 48.7% [46.1%, 51.3%] (n=1460)
-- Results posted: 40.8% [38.3%, 43.3%] (n=1460)
+- Results posted: 40.8% [38.3%, 43.4%] (n=1460)
 - Own publication linked: 6.2% [5.0%, 7.5%] (n=1460)
 
 ## Standing caveats (protocol §6)
