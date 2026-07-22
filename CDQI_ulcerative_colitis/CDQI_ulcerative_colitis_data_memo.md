@@ -1,6 +1,6 @@
 # CDQI data memo — ulcerative colitis
 
-**Query:** `ulcerative colitis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `2f170e7d34a7`
+**Query:** `ulcerative colitis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `204fd1d39053`
 **N scored trials:** 768  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
