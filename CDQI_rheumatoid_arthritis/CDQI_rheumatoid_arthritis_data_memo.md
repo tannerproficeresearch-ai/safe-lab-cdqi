@@ -1,6 +1,6 @@
 # CDQI data memo — rheumatoid arthritis
 
-**Query:** `rheumatoid arthritis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `d59edecebe2f`
+**Query:** `rheumatoid arthritis`  |  **interventionType scope:** DRUG  |  **run-stamp:** `33bdf47de681`
 **N scored trials:** 1616  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.

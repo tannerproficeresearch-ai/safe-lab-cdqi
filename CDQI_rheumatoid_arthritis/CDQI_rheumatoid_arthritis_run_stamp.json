@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:27:22.078942+00:00",
+  "utc": "2026-07-22T02:04:13.233030+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "rheumatoid arthritis",
   "python": "3.13.9",
@@ -9,5 +9,5 @@
   "terms": [],
   "n_scored": 1616,
   "completeness": 1.0,
-  "stamp_hash": "d59edecebe2f"
+  "stamp_hash": "33bdf47de681"
 }
