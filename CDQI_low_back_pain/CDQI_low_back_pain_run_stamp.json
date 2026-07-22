@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:27:33.178805+00:00",
+  "utc": "2026-07-22T02:04:45.334183+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "low back pain",
   "python": "3.13.9",
@@ -13,6 +13,6 @@
     "injection"
   ],
   "n_scored": 696,
-  "completeness": 0.8244,
-  "stamp_hash": "61c8946191e2"
+  "completeness": 0.8246,
+  "stamp_hash": "1ab2eacd6581"
 }

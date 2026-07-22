@@ -13,3 +13,10 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-20T19:27:32.718610+00:00,records_fetched,5351,
 2026-07-20T19:27:32.718753+00:00,reconciliation_ok,5351,fetched == totalCount (5351)
 2026-07-20T19:27:32.742775+00:00,scoped_trials,696,scope=BEHAVIORAL
+2026-07-22T02:04:25.395715+00:00,api_totalCount,2782,query.cond='low back pain'
+2026-07-22T02:04:29.959347+00:00,records_fetched,2782,
+2026-07-22T02:04:29.959525+00:00,reconciliation_ok,2782,fetched == totalCount (2782)
+2026-07-22T02:04:32.735969+00:00,api_totalCount,5354,query.term='low back pain'
+2026-07-22T02:04:44.822045+00:00,records_fetched,5354,
+2026-07-22T02:04:44.822497+00:00,reconciliation_ok,5354,fetched == totalCount (5354)
+2026-07-22T02:04:44.849706+00:00,scoped_trials,696,scope=BEHAVIORAL

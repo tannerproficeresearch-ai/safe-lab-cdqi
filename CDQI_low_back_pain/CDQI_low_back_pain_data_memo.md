@@ -1,6 +1,6 @@
 # CDQI data memo — low back pain
 
-**Query:** `low back pain`  |  **interventionType scope:** BEHAVIORAL  |  **run-stamp:** `61c8946191e2`
+**Query:** `low back pain`  |  **interventionType scope:** BEHAVIORAL  |  **run-stamp:** `1ab2eacd6581`
 **N scored trials:** 696  |  **search completeness estimate:** 82%
 
 Cite the run-stamp hash in the data-availability statement.

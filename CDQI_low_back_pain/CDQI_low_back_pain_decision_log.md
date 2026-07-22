@@ -50,3 +50,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_low_back_pain
 
+- **2026-07-22T02:04:23.099227+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='low back pain' query='low back pain' field=query.cond scope=BEHAVIORAL
+
+- **2026-07-22T02:04:44.849257+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='low back pain' -> 2782 trials
+
+- **2026-07-22T02:04:44.849581+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['exercise', 'physical', 'therapy', 'injection'] -> 2993 trials
+
+- **2026-07-22T02:04:44.849645+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=4101 N_hat=4973.5 completeness=0.8246 degenerate=False
+
+- **2026-07-22T02:04:44.849679+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=BEHAVIORAL types=['BEHAVIORAL'] -> 696 scoped trials
+
+- **2026-07-22T02:04:45.335097+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_low_back_pain
+
