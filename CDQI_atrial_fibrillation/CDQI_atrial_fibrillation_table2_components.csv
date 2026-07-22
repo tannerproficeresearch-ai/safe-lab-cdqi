@@ -3,8 +3,13 @@ Randomized (A1),989,1556,0.6356,0.6114,0.6592
 Any blinding (A2),492,1556,0.3162,0.2936,0.3397
 Double-blind+ (A2),177,1556,0.1138,0.0989,0.1305
 Meets power floor (A4),1245,1549,0.8037,0.7832,0.8228
+Has comparator arm (A6),903,1556,0.5803,0.5556,0.6046
+"Attrition <20% (A3, results-posted)",210,254,0.8268,0.7755,0.8684
 Pivotal phase 3/4 (B1),200,1556,0.1285,0.1128,0.1461
 Treatment purpose (B2),1100,1556,0.7069,0.6838,0.729
 Multi-arm >=3 (B3),122,1556,0.0784,0.0661,0.0928
 Results posted,254,1556,0.1632,0.1457,0.1824
 Own publication linked,115,1556,0.0739,0.0619,0.088
+Independent citation (DERIVED),398,1556,0.2558,0.2347,0.278
+IPD-sharing pledged,97,1556,0.0623,0.0514,0.0755
+DMC oversight,627,1355,0.4627,0.4363,0.4893

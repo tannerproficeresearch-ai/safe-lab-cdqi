@@ -50,3 +50,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_atrial_fibrillation
 
+- **2026-07-22T02:04:45.446600+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='atrial fibrillation' query='atrial fibrillation' field=query.cond scope=PROC_DEVICE
+
+- **2026-07-22T02:05:22.603555+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='atrial fibrillation' -> 2608 trials
+
+- **2026-07-22T02:05:22.603850+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['ablation', 'pvi', 'catheter'] -> 1167 trials
+
+- **2026-07-22T02:05:22.603908+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=2702 N_hat=2836.3 completeness=0.9526 degenerate=False
+
+- **2026-07-22T02:05:22.603945+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=PROC_DEVICE types=['DEVICE', 'PROCEDURE'] -> 1556 scoped trials
+
+- **2026-07-22T02:05:23.130309+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_atrial_fibrillation
+

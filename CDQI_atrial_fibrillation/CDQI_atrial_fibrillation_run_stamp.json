@@ -1,5 +1,5 @@
 {
-  "utc": "2026-07-20T19:27:39.497876+00:00",
+  "utc": "2026-07-22T02:05:23.129407+00:00",
   "api": "https://clinicaltrials.gov/api/v2",
   "query_cond": "atrial fibrillation",
   "python": "3.13.9",
@@ -13,5 +13,5 @@
   ],
   "n_scored": 1556,
   "completeness": 0.9526,
-  "stamp_hash": "dc18609db072"
+  "stamp_hash": "374bfea3557a"
 }
