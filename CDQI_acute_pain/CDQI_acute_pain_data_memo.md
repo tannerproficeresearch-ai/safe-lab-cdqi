@@ -1,6 +1,6 @@
 # CDQI data memo — acute pain
 
-**Query:** `acute pain`  |  **interventionType scope:** DRUG  |  **run-stamp:** `8f7059dde968`
+**Query:** `acute pain`  |  **interventionType scope:** DRUG  |  **run-stamp:** `586705d5a53c`
 **N scored trials:** 1254  |  **search completeness estimate:** 100% (degenerate — reflects unambiguous terminology, not a strong statistical estimate; §4.3)
 
 Cite the run-stamp hash in the data-availability statement.
