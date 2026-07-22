@@ -74,3 +74,27 @@ Append-only. Each entry: what was decided, why, and by whom.
   - Decision: outputs_written
   - Rationale: output/CDQI_inguinal_hernia
 
+- **2026-07-22T02:03:34.514468+00:00** — *Primary Analyst*
+  - Decision: topic
+  - Rationale: condition='inguinal hernia' query='inguinal hernia' field=query.cond scope=PROC_DEVICE
+
+- **2026-07-22T02:03:36.943770+00:00** — *Primary Analyst*
+  - Decision: search_strategy_A
+  - Rationale: query.cond='inguinal hernia' -> 512 trials
+
+- **2026-07-22T02:03:36.943853+00:00** — *Primary Analyst*
+  - Decision: search_strategy_B
+  - Rationale: broad query.term + classify terms=['hernia', 'mesh', 'herniorrhaphy'] -> 302 trials
+
+- **2026-07-22T02:03:36.943904+00:00** — *Primary Analyst*
+  - Decision: capture_recapture
+  - Rationale: union=536 N_hat=556.1 completeness=0.9638 degenerate=False
+
+- **2026-07-22T02:03:36.943954+00:00** — *Primary Analyst*
+  - Decision: intervention_scope
+  - Rationale: scope=PROC_DEVICE types=['DEVICE', 'PROCEDURE'] -> 360 scoped trials
+
+- **2026-07-22T02:03:37.262945+00:00** — *Primary Analyst*
+  - Decision: outputs_written
+  - Rationale: output/CDQI_inguinal_hernia
+

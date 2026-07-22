@@ -20,3 +20,10 @@ timestamp_utc,checkpoint,n_records,detail
 2026-07-22T01:48:49.083176+00:00,records_fetched,576,
 2026-07-22T01:48:49.083427+00:00,reconciliation_ok,576,fetched == totalCount (576)
 2026-07-22T01:48:49.087710+00:00,scoped_trials,360,scope=PROC_DEVICE
+2026-07-22T02:03:35.679783+00:00,api_totalCount,512,query.cond='inguinal hernia'
+2026-07-22T02:03:35.680817+00:00,records_fetched,512,
+2026-07-22T02:03:35.680890+00:00,reconciliation_ok,512,fetched == totalCount (512)
+2026-07-22T02:03:36.939157+00:00,api_totalCount,576,query.term='inguinal hernia'
+2026-07-22T02:03:36.939289+00:00,records_fetched,576,
+2026-07-22T02:03:36.939352+00:00,reconciliation_ok,576,fetched == totalCount (576)
+2026-07-22T02:03:36.943995+00:00,scoped_trials,360,scope=PROC_DEVICE
