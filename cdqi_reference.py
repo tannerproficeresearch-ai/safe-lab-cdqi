@@ -47,7 +47,17 @@ SCOPE_TYPES = {"DRUG":{"DRUG"},"BIOLOGICAL":{"BIOLOGICAL"},"DRUG_BIOLOGICAL":{"D
 # palette (CVD-safe; matches the RTSA proof-of-concept figures)
 DEVICE_C="#B2182B"; DRUG_C="#2166AC"; OTHER_C="#999999"; Q_C="#762A83"
 FIELDS=["NCTId","StatusModule","DesignModule","ArmsInterventionsModule",
-        "SponsorCollaboratorsModule","ReferencesModule","OversightModule","HasResults"]
+        "SponsorCollaboratorsModule","ReferencesModule","OversightModule","HasResults",
+        "IPDSharingStatementModule",      # Axis-2: ipdSharing pledge (protocol §5)
+        "ParticipantFlowModule"]          # A3 attrition: STARTED vs COMPLETED (results-posted only)
+
+# A3 attrition: RoB2-conventional threshold for the binary "acceptable attrition" prevalence row.
+# The CONTINUOUS attrition rate is always reported (Table 1); this threshold only governs the
+# binary Table-2 row. Named here so it is explicit and easy to change. NOTE: confirm/declare this
+# 0.20 cutoff in the OSF amendment before the confirmatory run.
+ATTRITION_THRESHOLD=0.20
+# Arm-group types that count as a genuine comparator (A6 comparator adequacy, protocol §5).
+COMPARATOR_TYPES={"PLACEBO_COMPARATOR","SHAM_COMPARATOR","ACTIVE_COMPARATOR","NO_INTERVENTION"}
 
 def slug(s): return re.sub(r"[^a-z0-9]+","_",s.lower()).strip("_")
 
@@ -82,15 +92,53 @@ def _epoch(y):
     if y<=2020: return "2016-2020"
     return "2021-2026"
 
+def _attrition(s):
+    """A3 attrition from the results-section participant flow. Sums STARTED and COMPLETED across
+    arm groups in the FIRST period (the overall-study period). Returns (started, completed, frac)
+    or (None, None, None) when no results/flow exist. frac = 1 - completed/started."""
+    rs=s.get("resultsSection") or {}
+    periods=(rs.get("participantFlowModule") or {}).get("periods") or []
+    if not periods: return (None,None,None)
+    def _sum(mtype):
+        tot=0; found=False
+        for m in (periods[0].get("milestones") or []):
+            if m.get("type")==mtype:
+                for a in (m.get("achievements") or []):
+                    try: tot+=int(a.get("numSubjects")); found=True
+                    except (TypeError,ValueError): pass
+        return tot if found else None
+    started=_sum("STARTED"); completed=_sum("COMPLETED")
+    if not started or completed is None: return (started,completed,None)
+    return (started, completed, 1.0-completed/started)
+
+def _comparator(arm_types):
+    """A6 comparator adequacy. Returns (has_comparator: bool, comparator_kind: str) from arm-group
+    types. Absent/unknown types are treated as no comparator (consistent with single-group == no
+    comparator); this missingness rule is stated in the methods."""
+    has_placebo=any(t in ("PLACEBO_COMPARATOR","SHAM_COMPARATOR") for t in arm_types)
+    has_active=any(t=="ACTIVE_COMPARATOR" for t in arm_types)
+    has_comp=any(t in COMPARATOR_TYPES for t in arm_types)
+    kind=("placebo/sham" if has_placebo else "active" if has_active
+          else "no-intervention" if any(t=="NO_INTERVENTION" for t in arm_types)
+          else "none/single-group")
+    return has_comp, kind
+
 # ----- COMPONENT LABELS (protocol §5) -----
-A_COMPS=["randomized","blinded_any","blinded_double_plus","power_ok"]   # A1,A2,A2+,A4 (A3 attrition = results-only)
+# A_COMPS now includes A6 comparator adequacy and A3 attrition (results-posted only).
+# A5 intervention model is a 5-level categorical -> reported as a DISTRIBUTION in Table 1, not a binary row.
+A_COMPS=["randomized","blinded_any","blinded_double_plus","power_ok","has_comparator","low_attrition"]  # A1,A2,A2+,A4,A6,A3
 B_COMPS=["pivotal","treatment","multiarm"]                              # B1,B2,B3
-AXIS2=["has_results","has_result_ref"]
-CORE_COMPS=A_COMPS+B_COMPS+AXIS2
+# AXIS2 is the ordered evidentiary-contribution LADDER (protocol §5.1 / amendment §3):
+#   results posted -> own publication linked -> independent (DERIVED) citation -> IPD-sharing pledge
+AXIS2=["has_results","has_result_ref","has_derived","ipd_yes"]
+OVERSIGHT=["dmc"]                                                       # Axis-2 oversight (not a ladder rung)
+CORE_COMPS=A_COMPS+B_COMPS+AXIS2+OVERSIGHT
 COMP_LABEL={"randomized":"Randomized (A1)","blinded_any":"Any blinding (A2)",
     "blinded_double_plus":"Double-blind+ (A2)","power_ok":"Meets power floor (A4)",
+    "has_comparator":"Has comparator arm (A6)","low_attrition":f"Attrition <{int(ATTRITION_THRESHOLD*100)}% (A3, results-posted)",
     "pivotal":"Pivotal phase 3/4 (B1)","treatment":"Treatment purpose (B2)","multiarm":"Multi-arm >=3 (B3)",
-    "has_results":"Results posted","has_result_ref":"Own publication linked"}
+    "has_results":"Results posted","has_result_ref":"Own publication linked",
+    "has_derived":"Independent citation (DERIVED)","ipd_yes":"IPD-sharing pledged","dmc":"DMC oversight"}
 
 
 def search_and_scope(condition, query, query_field, scope, terms, qc, dl):
@@ -156,10 +204,15 @@ def compute_matrix(studies):
         arms=ps.get("armsInterventionsModule",{}).get("armGroups",[]) or []
         ints=ps.get("armsInterventionsModule",{}).get("interventions",[]) or []
         itypes=[i.get("type") for i in ints]
+        arm_types=[a.get("type") for a in arms]
         refs=ps.get("referencesModule",{}).get("references",[]) or []
         start=H.dig(ps,"statusModule","startDateStruct","date")
         yr=int(start[:4]) if start else None
         mask=di.get("maskingInfo",{}).get("masking")
+        n_derived=sum(1 for r in refs if r.get("type")=="DERIVED")
+        has_comp,comp_kind=_comparator(arm_types)
+        started,completed,attrition=_attrition(s)
+        ipd=H.dig(ps,"ipdSharingStatementModule","ipdSharing")   # YES / NO / UNDECIDED / None
         rows.append(dict(
             nct=nct, year=yr, epoch=_epoch(yr), phase=phase, int_class=_int_class(itypes),
             n_arms=len(arms), n_enroll=n_enr,
@@ -169,11 +222,18 @@ def compute_matrix(studies):
             masking=mask, masking_ord=MASK_ORD.get(mask),
             blinded_any=(MASK_ORD.get(mask,0)>=1), blinded_double_plus=(MASK_ORD.get(mask,0)>=2),
             model=di.get("interventionModel"), power_ok=_power_ok(phase,n_enr),
+            # A6 comparator adequacy
+            comparator_kind=comp_kind, has_comparator=has_comp,
+            # A3 attrition (results-posted only -> None elsewhere, so it drops out of its denominator)
+            n_started=started, n_completed=completed, attrition=attrition,
+            low_attrition=(None if attrition is None else attrition<ATTRITION_THRESHOLD),
             pivotal=any(p in phase for p in("PHASE3","PHASE4")),
             treatment=(di.get("primaryPurpose")=="TREATMENT"), multiarm=(len(arms)>=3),
+            # Axis-2 contribution ladder
             has_results=bool(s.get("hasResults")),
             has_result_ref=any(r.get("type")=="RESULT" for r in refs),
-            n_derived=sum(1 for r in refs if r.get("type")=="DERIVED"),
+            n_derived=n_derived, has_derived=(n_derived>0),
+            ipd=ipd, ipd_yes=(ipd=="YES"),
             dmc=H.dig(ps,"oversightModule","oversightHasDmc"),
         ))
     return pd.DataFrame(rows)
@@ -192,14 +252,27 @@ def table1_cohort(df, condition):
           ("Pivotal (phase 3/4), n (%)", f"{df.pivotal.sum()} ({df.pivotal.mean():.0%})"),
           ("Treatment purpose, n (%)", f"{df.treatment.sum()} ({df.treatment.mean():.0%})"),
           ("Results posted, n (%)", f"{df.has_results.sum()} ({df.has_results.mean():.0%})")]
-    for lbl,col in [("Intervention type","int_class"),("Sponsor class","sponsor_class")]:
-        for k,v in df[col].value_counts().items():
+    # A3 attrition (continuous) among results-posted trials — the threshold-free report of A3
+    att=df["attrition"].dropna()
+    if len(att):
+        rows.append(("Attrition median [IQR], results-posted",
+                     f"{att.median():.1%} [{att.quantile(.25):.1%}-{att.quantile(.75):.1%}] (n={len(att)})"))
+    for lbl,col in [("Intervention type","int_class"),("Sponsor class","sponsor_class"),
+                    ("Intervention model (A5)","model"),("Comparator (A6)","comparator_kind"),
+                    ("IPD-sharing statement","ipd")]:
+        vc=df[col].fillna("(not stated)").value_counts()
+        for k,v in vc.items():
             rows.append((f"{lbl}: {k}", f"{v} ({v/len(df):.0%})"))
     return pd.DataFrame(rows, columns=["characteristic","value"])
 
 
 def table2_components(df):
-    """Table 2 — 9 components x prevalence + Wilson 95% CI. Attrition (A3) added when results exist."""
+    """Table 2 — design + contribution components x prevalence + Wilson 95% CI.
+    Each component's denominator is its own non-missing n (attrition and low_attrition are
+    results-posted-only, so their n is the results-posted subset; DMC is reported among trials
+    that state DMC status). Missingness is asymmetric by design and stated in the methods:
+    randomization/blinding code absence as negative and keep it in the denominator; power,
+    attrition, and DMC report over the subset for which the datum exists."""
     rows=[]
     for c in CORE_COMPS:
         v=df[c].dropna(); k=int(v.sum()); n=int(len(v)); p,lo,hi=wilson(k,n)
@@ -273,8 +346,27 @@ def fig3_epoch(df, condition, outpath):
     ax.legend(frameon=False,fontsize=7); _style(ax)
     fig.savefig(outpath,dpi=200,bbox_inches="tight"); plt.close(fig)
 
+def waste_bracket(df):
+    """RQ3 waste under the two pre-specified 'delivered' definitions (amendment §3).
+    well-designed = randomized AND meets power floor.
+      primary   delivered = results posted OR own publication linked
+      sensitivity delivered = primary OR >=1 independent (DERIVED) citation
+    Returns dict with the well-designed n and the undelivered count/fraction under each definition."""
+    wd=df["randomized"].astype("boolean").fillna(False)&df["power_ok"].astype("boolean").fillna(False)
+    prim=df["has_results"].astype("boolean").fillna(False)|df["has_result_ref"].astype("boolean").fillna(False)
+    sens=prim|df["has_derived"].astype("boolean").fillna(False)
+    nwd=int(wd.sum())
+    waste_p=int((wd&~prim).sum()); waste_s=int((wd&~sens).sum())
+    return {"n_well_designed":nwd,
+            "waste_primary_n":waste_p, "waste_primary_frac_wd":(waste_p/nwd if nwd else np.nan),
+            "waste_sens_n":waste_s,    "waste_sens_frac_wd":(waste_s/nwd if nwd else np.nan),
+            "waste_primary_frac_cohort":waste_p/len(df) if len(df) else np.nan,
+            "waste_sens_frac_cohort":waste_s/len(df) if len(df) else np.nan}
+
 def fig4_quality_contribution(df, condition, outpath):
-    # Design quality axis = randomized AND adequately powered; Contribution = results posted OR pub linked
+    # Quadrant uses the PRIMARY definition (results posted OR pub linked); the waste cell is
+    # annotated with the pre-specified BRACKET down to the DERIVED-inclusive (sensitivity) value.
+    wb=waste_bracket(df)
     dfq=df.copy()
     dfq["well_designed"]=dfq["randomized"].astype("boolean").fillna(False)&dfq["power_ok"].astype("boolean").fillna(False)
     dfq["delivered"]=dfq["has_results"].astype("boolean").fillna(False)|dfq["has_result_ref"].astype("boolean").fillna(False)
@@ -295,10 +387,15 @@ def fig4_quality_contribution(df, condition, outpath):
                 facecolor=(DEVICE_C+"33" if hot else "#f2f2f2"),edgecolor="#888"))
             ax.text(j,i-0.12,f"{n}",ha="center",fontsize=15,fontweight="bold")
             ax.text(j,i+0.18,f"{pct:.0%}\n{labels[i][j]}",ha="center",fontsize=6.5,color="#333")
+    # bracket annotation on the waste cell: primary -> sensitivity (DERIVED-inclusive)
+    ax.text(1,-0.5-0.14,
+            f"waste bracket: {wb['waste_primary_frac_wd']:.0%} \u2192 {wb['waste_sens_frac_wd']:.0%} of well-designed\n"
+            f"({wb['waste_primary_n']}\u2192{wb['waste_sens_n']} trials; broadened def. counts independent citation)",
+            ha="center",va="bottom",fontsize=6,color=DEVICE_C)
     ax.set_xticks([0,1]); ax.set_xticklabels(["results delivered","not delivered"])
     ax.set_yticks([0,1]); ax.set_yticklabels(["well-designed\n(RCT + powered)","weaker design"])
-    ax.set_xlim(-0.5,1.5); ax.set_ylim(1.5,-0.5)
-    ax.set_title(f"Design quality x evidentiary contribution — {condition}\nresearch waste = well-designed trials that never delivered",fontsize=8,loc="left")
+    ax.set_xlim(-0.5,1.5); ax.set_ylim(1.7,-0.7)
+    ax.set_title(f"Design quality x evidentiary contribution — {condition}\nwaste = well-designed trials that never delivered (bracket = primary vs DERIVED-inclusive)",fontsize=7.5,loc="left")
     fig.savefig(outpath,dpi=200,bbox_inches="tight"); plt.close(fig)
 
 
@@ -312,7 +409,8 @@ def run_topic(condition, query, query_field="query.cond", scope="DRUG", terms=No
     studies, universe, cr = search_and_scope(condition, query, query_field, scope, terms or [], qc, dl)
     assert len(studies)>0, f"no trials after scope for {condition}"
     # 2. checkpoint raw pull (never re-fetched)
-    raw=[{"protocolSection":s.get("protocolSection"),"hasResults":s.get("hasResults")} for s in studies]
+    raw=[{"protocolSection":s.get("protocolSection"),"resultsSection":s.get("resultsSection"),
+          "hasResults":s.get("hasResults")} for s in studies]
     with gzip.open(os.path.join(d,f"CDQI_{sg}_raw.json.gz"),"wt") as f: json.dump(raw,f)
     # 3. compute offline
     df=compute_matrix(studies); df.to_csv(os.path.join(d,f"CDQI_{sg}_dataset.csv"),index=False)
