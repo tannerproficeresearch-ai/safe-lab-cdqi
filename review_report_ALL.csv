@@ -1,16 +1,16 @@
 condition,verdict,reason,max_drift,n_frozen,n_repull
-postoperative pain,PASS,within tolerance,0.0,3575,3575
-acute pain,PASS,within tolerance,0.0,1254,1254
-spinal anesthesia,PASS,within tolerance,0.0,691,691
-atopic dermatitis,PASS,within tolerance,0.0,982,982
-head and neck cancer,PASS,within tolerance,0.0,4217,4217
-hearing loss,PASS,within tolerance,0.0,553,553
-inguinal hernia,PASS,within tolerance,0.0,360,360
-hip fracture,PASS,within tolerance,0.0,493,493
-total knee arthroplasty,PASS,within tolerance,0.0,1413,1413
-psoriasis,PASS,within tolerance,0.0,1460,1460
-ulcerative colitis,PASS,within tolerance,0.0,768,768
-rheumatoid arthritis,PASS,within tolerance,0.0,1616,1616
-major depressive disorder,PASS,within tolerance,0.0,1679,1679
-low back pain,PASS,within tolerance,0.0,696,696
-atrial fibrillation,PASS,within tolerance,0.0,1556,1556
+postoperative pain,PASS,within tolerance,0.0037,3575,3679
+acute pain,PASS,within tolerance,0.0063,1254,1285
+spinal anesthesia,PASS,within tolerance,0.0126,691,721
+atopic dermatitis,PASS,within tolerance,0.006,982,998
+head and neck cancer,PASS,within tolerance,0.0015,4217,4293
+hearing loss,PASS,within tolerance,0.0087,553,560
+inguinal hernia,PASS,within tolerance,0.0039,360,367
+hip fracture,PASS,within tolerance,0.006,493,503
+total knee arthroplasty,PASS,within tolerance,0.0027,1413,1443
+psoriasis,PASS,within tolerance,0.0039,1460,1480
+ulcerative colitis,PASS,within tolerance,0.0088,768,786
+rheumatoid arthritis,PASS,within tolerance,0.0022,1616,1634
+major depressive disorder,PASS,within tolerance,0.0053,1679,1697
+low back pain,PASS,within tolerance,0.0049,696,725
+atrial fibrillation,PASS,within tolerance,0.0078,1556,1597
